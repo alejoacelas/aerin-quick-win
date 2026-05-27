@@ -424,6 +424,22 @@ def build_articles() -> dict[str, Any]:
     }
 
 
+def index_payload_without_timestamp(data: dict[str, Any]) -> dict[str, Any]:
+    return {key: value for key, value in data.items() if key != "generatedAt"}
+
+
+def preserve_generated_at_when_unchanged(data: dict[str, Any]) -> dict[str, Any]:
+    if not DATA_PATH.exists():
+        return data
+    try:
+        previous = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return data
+    if index_payload_without_timestamp(previous) == index_payload_without_timestamp(data):
+        data["generatedAt"] = previous.get("generatedAt", data["generatedAt"])
+    return data
+
+
 def build_agent_prompt(original_prompt: str, article_count: int) -> str:
     replacement = textwrap.dedent(
         f"""\
@@ -596,7 +612,7 @@ def main() -> None:
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
 
-    data = build_articles()
+    data = preserve_generated_at_when_unchanged(build_articles())
     DATA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     original_prompt = PROMPT_PATH.read_text(encoding="utf-8")
