@@ -1,0 +1,10 @@
+{
+  "name": "aerin-quick-win",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "refresh": "uv run scripts/build_content.py",
+    "test": "node scripts/smoke-test.mjs"
+  }
+}
