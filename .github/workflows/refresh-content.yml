@@ -1,0 +1,51 @@
+name: Refresh Resource Portal index
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-resource-portal-index
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Set up Yarn
+        run: |
+          corepack enable
+          corepack prepare yarn@1.22.22 --activate
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Refresh generated content
+        run: yarn refresh
+
+      - name: Run smoke tests
+        run: yarn test
+
+      - name: Commit refreshed index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json public/index.html public/human.html public/llm.md
+          if git diff --cached --quiet; then
+            echo "No Resource Portal changes detected."
+            exit 0
+          fi
+          git commit -m "Refresh Resource Portal index"
+          git push
