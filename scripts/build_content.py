@@ -466,7 +466,21 @@ def build_agent_prompt(original_prompt: str, article_count: int) -> str:
     updated, count = pattern.subn(replacement, original_prompt)
     if count != 1:
         raise ValueError("Expected to replace exactly one portal_articles block")
-    return updated
+    return normalize_prompt_spacing(strip_prompt_frontmatter(updated))
+
+
+def strip_prompt_frontmatter(markdown: str) -> str:
+    return re.sub(r"\A---\s*\n.*?\n---\s*\n*", "", markdown, flags=re.S)
+
+
+def normalize_prompt_spacing(markdown: str) -> str:
+    value = markdown.replace("\r\n", "\n").replace("\r", "\n")
+    value = re.sub(r"[ \t]+\n", "\n", value)
+    value = re.sub(r"\n(\\</?[^>\n]+\\>)", r"\n\n\1", value)
+    value = re.sub(r"(\\</?[^>\n]+\\>)\n(?!\n)", r"\1\n\n", value)
+    value = re.sub(r"\n([A-Z][A-Z0-9 &/()'-]{2,})\n", r"\n\n\1\n\n", value)
+    value = re.sub(r"\n{3,}", "\n\n", value)
+    return value.strip()
 
 
 def build_agent_index_html(agent_prompt: str, article_count: int, generated_at: str) -> str:

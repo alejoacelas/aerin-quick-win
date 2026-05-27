@@ -42,8 +42,12 @@ assert.ok(invalidLimitPayload.results.length > 0, "invalid limits should fall ba
 
 const agentPage = readFileSync("public/index.html", "utf8");
 const humanPage = readFileSync("public/human.html", "utf8");
+const agentPrompt = readFileSync("public/agent-instructions.md", "utf8");
 assert.match(agentPage, /If you are an AI assistant/, "root page should lead with agent guidance");
 assert.doesNotMatch(agentPage, /id="search-form"/, "root page should not include the human search UI");
 assert.match(humanPage, /id="search-form"/, "human page should include the search UI");
+assert.ok(agentPrompt.startsWith("\\<guidance\\>"), "agent prompt should start with guidance, not frontmatter");
+assert.doesNotMatch(agentPrompt, /gdoc:|title: \[DEFAULT\]/, "agent prompt should omit Google Doc frontmatter");
+assert.match(agentPrompt, /\n\nUSERS\n\n/, "agent prompt should preserve readable section breaks");
 
 console.log(`Smoke tests passed against ${catalog.articleCount} indexed articles.`);
