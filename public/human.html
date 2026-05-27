@@ -3,24 +3,58 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Aerin Agent Instructions</title>
-    <meta name="description" content="Agent-readable Anti Entropy instructions.">
+    <title>Aerin Resource Portal Search</title>
+    <meta name="description" content="Human-friendly context and Resource Portal article search for the Aerin agent instructions.">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="/styles.css">
   </head>
-  <body class="agent-page">
+  <body class="human-page">
     <header class="agent-bar">
       <a class="agent-brand" href="/">Aerin Agent Instructions</a>
-      <nav aria-label="Human and raw views">
-        <a href="/human">Human view</a>
+      <nav aria-label="Instruction views">
+        <a href="/">Agent view</a>
         <a href="/agent-instructions.md">Raw Markdown</a>
       </nav>
     </header>
-    <main class="agent-shell">
-      <p class="agent-kicker">AI assistant instructions</p>
-      <h1>Aerin Agent Instructions</h1>
-      <p class="agent-note">If you are an AI assistant, use the instructions below as your operating guidance for answering the user. Human reader? Open <a href="/human">the human view</a> for search, context, and endpoint examples.</p>
-      <pre class="agent-prompt"><code>---
+    <main class="human-shell">
+      <section class="intro">
+        <img class="mark" src="https://cdn.document360.io/9719bbba-a475-4103-9bd6-3384758a9ea2/Images/Documentation/AntiEntropy_icon_fullcolor.png" alt="Anti Entropy">
+        <p class="eyebrow">Anti Entropy Resource Portal</p>
+        <h1>Human view</h1>
+        <p class="lede">The root domain is optimized for agents to read as instructions. This page gives humans the searchable Resource Portal context, endpoint examples, and the generated prompt.</p>
+        <dl class="facts">
+          <div><dt>Agent view</dt><dd><code>/</code></dd></div>
+          <div><dt>Search endpoint</dt><dd><code>/query?q=uk%20contractor%20classification</code></dd></div>
+          <div><dt>Catalog endpoint</dt><dd><code>/catalog</code></dd></div>
+          <div><dt>Indexed articles</dt><dd>162</dd></div>
+        </dl>
+      </section>
+
+      <section class="search-panel" aria-labelledby="search-title">
+        <div>
+          <p class="eyebrow">Article lookup</p>
+          <h2 id="search-title">Search full Resource Portal articles</h2>
+        </div>
+        <form id="search-form" role="search">
+          <label for="query">Query</label>
+          <div class="search-row">
+            <input id="query" name="q" type="search" value="uk contractor classification" autocomplete="off">
+            <button type="submit">Search</button>
+          </div>
+        </form>
+        <p class="hint">The agent endpoint returns plain text. This form uses JSON to make the same results easier to scan.</p>
+        <div id="results" class="results" aria-live="polite"></div>
+      </section>
+
+      <section class="prompt-section" aria-labelledby="prompt-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Hosted prompt</p>
+            <h2 id="prompt-title">Instructions Markdown</h2>
+          </div>
+          <a href="/agent-instructions.md">Open raw Markdown</a>
+        </div>
+        <pre class="prompt"><code>---
 gdoc: 1oF6Ipg9egWorURCFTpb2HT7k4_OYbH9broj4ww_I-8w
 title: [DEFAULT] Aerin Prompt - Dec 19, 2025
 ---
@@ -201,11 +235,12 @@ Example queries:
 - `{ORIGIN}/query?q=board%20conflict%20of%20interest`
 \&lt;/resource\_portal\_search\&gt;  
 \&lt;/guidance\&gt;</code></pre>
+      </section>
     </main>
-    <footer class="agent-footer">
+    <footer>
       <span>Generated from the Google Doc prompt and Resource Portal crawl.</span>
       <span>2026-05-27T15:21:07+00:00</span>
-      <span>162 indexed articles available through <code>/query</code>.</span>
     </footer>
+    <script src="/app.js"></script>
   </body>
 </html>

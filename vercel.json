@@ -9,6 +9,14 @@
       "destination": "/api/catalog"
     },
     {
+      "source": "/human",
+      "destination": "/human.html"
+    },
+    {
+      "source": "/context",
+      "destination": "/human.html"
+    },
+    {
       "source": "/prompt",
       "destination": "/agent-instructions.md"
     }

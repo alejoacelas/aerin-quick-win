@@ -90,6 +90,11 @@ createServer(async (request, response) => {
     return;
   }
 
+  if (url.pathname === "/human" || url.pathname === "/context") {
+    await serveStatic("/human.html", response);
+    return;
+  }
+
   await serveStatic(url.pathname, response);
 }).listen(port, () => {
   console.log(`Aerin instructions site running at http://localhost:${port}`);

@@ -25,6 +25,7 @@ DATA_PATH = ROOT / "data" / "articles.json"
 PUBLIC_DIR = ROOT / "public"
 PUBLIC_PROMPT_PATH = PUBLIC_DIR / "agent-instructions.md"
 INDEX_PATH = PUBLIC_DIR / "index.html"
+HUMAN_PATH = PUBLIC_DIR / "human.html"
 
 PORTAL_ORIGIN = "https://resourceportal.antientropy.org"
 PORTAL_DOCS = f"{PORTAL_ORIGIN}/docs"
@@ -468,7 +469,7 @@ def build_agent_prompt(original_prompt: str, article_count: int) -> str:
     return updated
 
 
-def build_index_html(agent_prompt: str, article_count: int, generated_at: str) -> str:
+def build_agent_index_html(agent_prompt: str, article_count: int, generated_at: str) -> str:
     escaped_prompt = html.escape(agent_prompt)
     generated_label = html.escape(generated_at)
     return f"""<!doctype html>
@@ -477,20 +478,64 @@ def build_index_html(agent_prompt: str, article_count: int, generated_at: str) -
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Aerin Agent Instructions</title>
-    <meta name="description" content="Agent-readable Anti Entropy instructions and Resource Portal article search.">
+    <meta name="description" content="Agent-readable Anti Entropy instructions.">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="/styles.css">
   </head>
-  <body>
-    <main>
+  <body class="agent-page">
+    <header class="agent-bar">
+      <a class="agent-brand" href="/">Aerin Agent Instructions</a>
+      <nav aria-label="Human and raw views">
+        <a href="/human">Human view</a>
+        <a href="/agent-instructions.md">Raw Markdown</a>
+      </nav>
+    </header>
+    <main class="agent-shell">
+      <p class="agent-kicker">AI assistant instructions</p>
+      <h1>Aerin Agent Instructions</h1>
+      <p class="agent-note">If you are an AI assistant, use the instructions below as your operating guidance for answering the user. Human reader? Open <a href="/human">the human view</a> for search, context, and endpoint examples.</p>
+      <pre class="agent-prompt"><code>{escaped_prompt}</code></pre>
+    </main>
+    <footer class="agent-footer">
+      <span>Generated from the Google Doc prompt and Resource Portal crawl.</span>
+      <span>{generated_label}</span>
+      <span>{article_count} indexed articles available through <code>/query</code>.</span>
+    </footer>
+  </body>
+</html>
+"""
+
+
+def build_human_html(agent_prompt: str, article_count: int, generated_at: str) -> str:
+    escaped_prompt = html.escape(agent_prompt)
+    generated_label = html.escape(generated_at)
+    return f"""<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aerin Resource Portal Search</title>
+    <meta name="description" content="Human-friendly context and Resource Portal article search for the Aerin agent instructions.">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body class="human-page">
+    <header class="agent-bar">
+      <a class="agent-brand" href="/">Aerin Agent Instructions</a>
+      <nav aria-label="Instruction views">
+        <a href="/">Agent view</a>
+        <a href="/agent-instructions.md">Raw Markdown</a>
+      </nav>
+    </header>
+    <main class="human-shell">
       <section class="intro">
         <img class="mark" src="https://cdn.document360.io/9719bbba-a475-4103-9bd6-3384758a9ea2/Images/Documentation/AntiEntropy_icon_fullcolor.png" alt="Anti Entropy">
         <p class="eyebrow">Anti Entropy Resource Portal</p>
-        <h1>Aerin agent instructions</h1>
-        <p class="lede">Copy this page or use the Markdown prompt at <a href="/agent-instructions.md">/agent-instructions.md</a>. Agents can retrieve full Resource Portal articles through <a href="/query?q=SparkWell%20contractor%20payments">/query?q=...</a>.</p>
+        <h1>Human view</h1>
+        <p class="lede">The root domain is optimized for agents to read as instructions. This page gives humans the searchable Resource Portal context, endpoint examples, and the generated prompt.</p>
         <dl class="facts">
+          <div><dt>Agent view</dt><dd><code>/</code></dd></div>
           <div><dt>Search endpoint</dt><dd><code>/query?q=uk%20contractor%20classification</code></dd></div>
-          <div><dt>Result limit</dt><dd><code>&limit=1</code> through <code>&limit=20</code></dd></div>
           <div><dt>Catalog endpoint</dt><dd><code>/catalog</code></dd></div>
           <div><dt>Indexed articles</dt><dd>{article_count}</dd></div>
         </dl>
@@ -544,7 +589,11 @@ def main() -> None:
     agent_prompt = build_agent_prompt(original_prompt, data["articleCount"])
     PUBLIC_PROMPT_PATH.write_text(agent_prompt + "\n", encoding="utf-8")
     INDEX_PATH.write_text(
-        build_index_html(agent_prompt, data["articleCount"], data["generatedAt"]),
+        build_agent_index_html(agent_prompt, data["articleCount"], data["generatedAt"]),
+        encoding="utf-8",
+    )
+    HUMAN_PATH.write_text(
+        build_human_html(agent_prompt, data["articleCount"], data["generatedAt"]),
         encoding="utf-8",
     )
 

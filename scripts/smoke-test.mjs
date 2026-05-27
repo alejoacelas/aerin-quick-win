@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import { createRequire } from "node:module";
 
 const require = createRequire(import.meta.url);
@@ -38,5 +39,11 @@ for (const testCase of cases) {
 
 const invalidLimitPayload = searchArticles("uk contractor classification", { limit: "invalid" });
 assert.ok(invalidLimitPayload.results.length > 0, "invalid limits should fall back to the default");
+
+const agentPage = readFileSync("public/index.html", "utf8");
+const humanPage = readFileSync("public/human.html", "utf8");
+assert.match(agentPage, /If you are an AI assistant/, "root page should lead with agent guidance");
+assert.doesNotMatch(agentPage, /id="search-form"/, "root page should not include the human search UI");
+assert.match(humanPage, /id="search-form"/, "human page should include the search UI");
 
 console.log(`Smoke tests passed against ${catalog.articleCount} indexed articles.`);
