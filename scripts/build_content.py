@@ -23,7 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PROMPT_PATH = ROOT / "content" / "anti-entropy-agent-prompt.md"
 DATA_PATH = ROOT / "data" / "articles.json"
 PUBLIC_DIR = ROOT / "public"
-PUBLIC_PROMPT_PATH = PUBLIC_DIR / "agent-instructions.md"
+PUBLIC_PROMPT_PATH = PUBLIC_DIR / "llm.md"
 INDEX_PATH = PUBLIC_DIR / "index.html"
 HUMAN_PATH = PUBLIC_DIR / "human.html"
 
@@ -435,7 +435,7 @@ def build_agent_prompt(original_prompt: str, article_count: int) -> str:
         - Search full articles: `{{ORIGIN}}/query?q=your%20keywords`
         - Limit result count when needed: `{{ORIGIN}}/query?q=your%20keywords&limit=2`
         - Browse the searchable catalog: `{{ORIGIN}}/catalog`
-        - Read these hosted instructions as Markdown: `{{ORIGIN}}/agent-instructions.md`
+        - Read these hosted instructions as Markdown: `{{ORIGIN}}/llm`
 
         The `/query` endpoint returns a plain-text response intended for AI agents. Each result includes the full article text, canonical Resource Portal URL, description, keywords, and category path. The local index currently contains {article_count} public Resource Portal articles.
 
@@ -501,7 +501,7 @@ def build_agent_index_html(agent_prompt: str, article_count: int, generated_at: 
       <a class="agent-brand" href="/">Aerin Agent Instructions</a>
       <nav aria-label="Human and raw views">
         <a href="/human">Human view</a>
-        <a href="/agent-instructions.md">Raw Markdown</a>
+        <a href="/llm">Raw Markdown</a>
       </nav>
     </header>
     <main class="agent-shell">
@@ -538,7 +538,7 @@ def build_human_html(agent_prompt: str, article_count: int, generated_at: str) -
       <a class="agent-brand" href="/">Aerin Agent Instructions</a>
       <nav aria-label="Instruction views">
         <a href="/">Agent view</a>
-        <a href="/agent-instructions.md">Raw Markdown</a>
+        <a href="/llm">Raw Markdown</a>
       </nav>
     </header>
     <main class="human-shell">
@@ -577,7 +577,7 @@ def build_human_html(agent_prompt: str, article_count: int, generated_at: str) -
             <p class="eyebrow">Hosted prompt</p>
             <h2 id="prompt-title">Instructions Markdown</h2>
           </div>
-          <a href="/agent-instructions.md">Open raw Markdown</a>
+          <a href="/llm">Open raw Markdown</a>
         </div>
         <pre class="prompt"><code>{escaped_prompt}</code></pre>
       </section>

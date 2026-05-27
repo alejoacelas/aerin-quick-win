@@ -85,8 +85,9 @@ createServer(async (request, response) => {
     return;
   }
 
-  if (url.pathname === "/prompt") {
-    await serveStatic("/agent-instructions.md", response);
+  if (url.pathname === "/llm" || url.pathname === "/prompt") {
+    response.setHeader("Content-Type", "text/markdown; charset=utf-8");
+    await serveStatic("/llm.md", response);
     return;
   }
 

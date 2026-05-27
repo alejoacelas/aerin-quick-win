@@ -17,13 +17,17 @@
       "destination": "/human.html"
     },
     {
+      "source": "/llm",
+      "destination": "/llm.md"
+    },
+    {
       "source": "/prompt",
-      "destination": "/agent-instructions.md"
+      "destination": "/llm.md"
     }
   ],
   "headers": [
     {
-      "source": "/agent-instructions.md",
+      "source": "/llm",
       "headers": [
         {
           "key": "Content-Type",
