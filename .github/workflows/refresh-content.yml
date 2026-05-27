@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 concurrency:
   group: refresh-resource-portal-index
   cancel-in-progress: false
@@ -31,6 +34,8 @@ jobs:
 
       - name: Set up uv
         uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: false
 
       - name: Refresh generated content
         run: yarn refresh
