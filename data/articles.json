@@ -1,17 +1,17 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-06-13T09:26:18+00:00",
+  "generatedAt": "2026-06-14T09:28:18+00:00",
   "articleCount": 156,
   "failedCount": 8,
   "failures": {
+    "non-disclosure-agreement-nda": "Failed to fetch https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda: HTTP Error 429: Too Many Requests",
+    "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
     "nonprofit-discounts": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-discounts: HTTP Error 429: Too Many Requests",
     "pass-through-taxation": "Failed to fetch https://resourceportal.antientropy.org/docs/pass-through-taxation: HTTP Error 429: Too Many Requests",
-    "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
     "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
     "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
     "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
-    "political-impartiality": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality: HTTP Error 429: Too Many Requests",
-    "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests"
+    "political-impartiality": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -2649,34 +2649,35 @@
       "alternateSlugs": []
     },
     {
-      "id": "a7ec9244-2f86-4ba6-8584-a24c82e0cc45",
-      "slug": "non-disclosure-agreement-nda",
-      "title": "Non-Disclosure Agreement (NDA)",
-      "url": "https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda",
-      "description": "A guide explaining NDA components, types, enforceability, and legal protections for organizations sharing confidential information with partners or employees",
+      "id": "e2531252-b5a4-43e7-b5d8-a4e3b6ee2df1",
+      "slug": "political-impartiality-policy",
+      "title": "Political Impartiality Policy",
+      "url": "https://resourceportal.antientropy.org/docs/political-impartiality-policy",
+      "description": "A template political impartiality policy for charities ensuring compliance with lobbying and election laws",
       "keywords": [
-        "confidential information definitions",
-        "enforceability considerations",
-        "legal recourse provisions",
-        "Mutual NDA",
-        "NDA",
-        "Non-Disclosure Agreement",
-        "non-mutual NDA"
+        "10% charitable fund limit",
+        "charitable impartiality",
+        "Compliance",
+        "election law",
+        "Funding",
+        "lobbying compliance",
+        "policy-influencing activities"
       ],
       "tags": [
-        "NDA",
-        "Non-Disclosure Agreement"
+        "Compliance",
+        "Funding"
       ],
       "categoryPath": [
-        "Governance and Compliance",
-        "Independent Contractors"
+        "Building And Running An Organization",
+        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
+        "All Policies"
       ],
-      "readingTime": 3,
-      "createdAt": "2025-11-18T23:39:15.057Z",
-      "modifiedAt": "2025-11-18T23:39:15.057Z",
-      "firstPublishedDate": "2023-02-02T19:02:01.378Z",
-      "lastPublishedDate": "2025-11-18T23:39:15.057Z",
-      "contentText": "Who this is for:\n\nOrganizations needing to protect confidential information when working with partners, vendors, contractors, employees, or other parties who will access sensitive business information.\n\nA non-disclosure agreement (NDA) is a legally binding contract that establishes confidentiality obligations between parties. These agreements protect sensitive business information from unauthorized disclosure and are standard practice when sharing proprietary information with employees, contractors, partners, or potential collaborators.\n\n## Types of NDAs\n\n**Mutual NDA**: Both parties agree to protect each other's confidential information. Use this when both organizations will share sensitive information, such as exploring partnerships, collaborations, or joint ventures.\n\n**Non-mutual NDA**: Only one party (the Receiving Party) agrees to protect the other party's (the Disclosing Party's) confidential information. Use this for employee onboarding, contractor agreements, or vendor relationships where information flows primarily one direction.\n\n## Common use cases\n\nOrganizations typically use NDAs when:\n\n• Onboarding new employees or contractors\n • Engaging with vendors or service providers\n • Exploring potential partnerships or collaborations\n • Sharing information with board members or advisors\n • Discussing sensitive projects with external parties\n • Providing access to confidential systems or data\n\n## What NDAs protect\n\nNDAs can protect various types of confidential information:\n\n• Business operations, strategies, and plans\n • Financial information and projections\n • Client and donor lists\n • Marketing strategies and materials\n • Technical data and processes\n • Proprietary methods and procedures\n • Personnel information\n • Strategic partnerships and relationships\n\nNDAs cannot protect information that is already public knowledge, widely disclosed, or that someone has a legal duty to report.\n\n## Key components of an NDA\n\n**Parties to the agreement**: Clearly identify all individuals or organizations bound by the agreement.\n\n**Definition of confidential information**: Specify what information is considered confidential. Be explicit rather than assuming others will understand what should remain private.\n\n**Exclusions from confidentiality**: Include standard exceptions such as information that becomes publicly available, was already known to the receiving party, or must be disclosed by law.\n\n**Permitted uses**: Detail how the receiving party may use the confidential information, including any restrictions on disclosure to third parties.\n\n**Duration**: Specify how long the confidentiality obligations remain in effect. This can range from a specific timeframe to perpetuity, depending on your needs.\n\n**Return or destruction of information**: Outline requirements for returning or destroying confidential materials when the relationship ends or upon request.\n\n**Consequences of breach**: Detail the remedies available if someone violates the agreement, including potential monetary damages, injunctions, or contract termination.\n\n**Governing law**: Specify which state or jurisdiction's laws will govern the agreement. Choose a jurisdiction where you have legal counsel or are familiar with the laws, as this determines which courts can hear disputes and which legal standards apply. Using your organization's home jurisdiction or where your attorney practices simplifies enforcement and legal guidance.\n\n## Benefits and limitations\n\n**Benefits:**\n • Provides legal recourse if confidential information is misused or disclosed\n • Clarifies expectations about what can and cannot be shared\n • Creates accountability and demonstrates professionalism\n • Cost-effective way to protect sensitive information\n • Builds trust in business relationships\n\n**Limitations:**\n • Cannot prevent all unauthorized disclosures\n • May be unenforceable if overly broad or vague\n • Can create administrative burden for smaller organizations\n • Does not replace other security measures\n\n## When NDAs may be unenforceable\n\nCourts may not enforce an NDA if:\n\n• The language is overly broad or unreasonably restrictive\n • The information is already publicly available or widely known\n • The agreement attempts to prevent reporting of illegal activities\n • There is no valid consideration supporting the agreement\n • The agreement violates public policy\n\n## Implementing an NDA\n\nTo effectively implement an NDA:\n\n- Determine whether you need a mutual or non-mutual agreement based on the relationship and information flow\n- Customize the template to reflect your specific needs:\n • Adjust the definition of confidential information to match what you're actually protecting\n • Modify exclusions if you have specific scenarios where disclosure is acceptable\n • Set an appropriate duration based on how long the information needs protection\n • Ensure permitted uses align with the purpose of sharing the information\n • Add or remove sections based on your situation and legal counsel's advice\n- Ensure all parties understand their obligations under the agreement\n\nImportant disclaimer:\n\nThis article provides general guidance only and is not legal advice. NDAs are legal contracts with significant implications. Consult with a qualified attorney to ensure your NDA is appropriate for your specific situation and enforceable in your jurisdiction.\n\nNDA Templates\n\nDownload our NDA templates to get started:\n\n• Mutual NDA Template (https://docs.google.com/document/d/16Lyou6cbBG3FA55CORpGP1r8TWI9m-qBtjoRQ-Oy-Ig/edit?usp=sharing) - For situations where both parties will share confidential information\n • Non-Mutual NDA Template (https://docs.google.com/document/d/1NazQeNA5qAlNoDUEy8JmEIy3-Wc9vK4Dss1z2YQqWuM/edit?usp=sharing) - For situations where one party will receive confidential information\n\nThese templates provide a starting point and should be reviewed by legal counsel before use.\n\n## Additional Resources\n\nGOV.UK Guidance on Non-disclosure agreements (https://www.gov.uk/government/publications/non-disclosure-agreements)",
+      "readingTime": 1,
+      "createdAt": "2022-04-29T15:48:03.243Z",
+      "modifiedAt": "2022-04-29T15:48:03.243Z",
+      "firstPublishedDate": "2022-04-29T15:48:03.33Z",
+      "lastPublishedDate": "2022-04-29T15:48:03.33Z",
+      "contentText": "## About This Policy\n\nA political impartiality policy helps an organization ensure it is complying with lobbying and election laws and regulations.\n\n## Who Needs This Policy\n\nAny charity or organization which receives funds from a charity may need this policy.\n\nNo more than 10% of charitable funds or resources should be spent on policy-influencing activities. See the full guideance for more information (https://resourceportal.antientropy.org/docs/political-impartiality).\n\n## The Policy\n\nPolitical Impartiality Policy (Google Docs) (https://docs.google.com/document/d/1aIgGlB-86OG_R_9m1wQOL9YM5619nV5Xl5GOMountIw/edit?usp=sharing)\n\n*This is a basic impartiality policy useful for organizations that do not engage in any political activities. If your organization works with policymakers, you may want a policy from your attorney.*",
       "alternateSlugs": []
     },
     {
