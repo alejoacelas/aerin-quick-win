@@ -1,6 +1,6 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-06-23T09:28:28+00:00",
+  "generatedAt": "2026-06-24T09:27:48+00:00",
   "articleCount": 163,
   "failedCount": 0,
   "failures": {},
@@ -238,8 +238,8 @@
         "PLC",
         "Private Limited Companies",
         "UK",
-        "Umbrella Company",
-        "umbrella company"
+        "umbrella company",
+        "Umbrella Company"
       ],
       "tags": [
         "EOR",
@@ -539,8 +539,8 @@
       "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation-us",
       "description": "A template for drafting Articles of Incorporation required by US states to establish nonprofit charity status",
       "keywords": [
-        "articles of incorporation",
         "Articles of Incorporation",
+        "articles of incorporation",
         "board approval",
         "charity status application",
         "registered agent",
