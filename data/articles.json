@@ -1,16 +1,15 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-06-29T09:55:37+00:00",
-  "articleCount": 150,
+  "generatedAt": "2026-06-30T09:27:57+00:00",
+  "articleCount": 149,
   "failedCount": 15,
   "failures": {
-    "pass-through-taxation": "Failed to fetch https://resourceportal.antientropy.org/docs/pass-through-taxation: HTTP Error 429: Too Many Requests",
     "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
-    "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
     "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
-    "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests",
     "political-impartiality": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality: HTTP Error 429: Too Many Requests",
+    "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests",
     "private-limited-companies-plcs": "Failed to fetch https://resourceportal.antientropy.org/docs/private-limited-companies-plcs: HTTP Error 429: Too Many Requests",
+    "receipt-of-payment-template": "Failed to fetch https://resourceportal.antientropy.org/docs/receipt-of-payment-template: HTTP Error 429: Too Many Requests",
     "receiving-grant-funds": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds: HTTP Error 429: Too Many Requests",
     "receiving-grant-funds-1": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds-1: HTTP Error 429: Too Many Requests",
     "remote-work-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy: HTTP Error 429: Too Many Requests",
@@ -18,7 +17,8 @@
     "sending-payments-in-to-uganda": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda: HTTP Error 429: Too Many Requests",
     "sending-payments-to-nigeria": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria: HTTP Error 429: Too Many Requests",
     "sole-proprietor-vs-single-member-llc": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa: HTTP Error 429: Too Many Requests"
+    "sole-proprietor-vs-single-member-llc-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa: HTTP Error 429: Too Many Requests",
+    "sole-trader": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-trader: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -45,10 +45,13 @@
       "slug": "absence-policy-uk-2",
       "title": "Absence Policy (UK)",
       "url": "https://resourceportal.antientropy.org/docs/absence-policy-uk-2",
-      "description": "",
+      "description": "A template absence policy for UK organizations with sponsored workers",
       "keywords": [
         "absence",
-        "UK"
+        "absence documentation",
+        "sponsored workers",
+        "UK",
+        "UK employment compliance"
       ],
       "tags": [
         "absence",
@@ -65,7 +68,12 @@
       "firstPublishedDate": "2022-04-04T18:51:19.368Z",
       "lastPublishedDate": "2022-08-10T20:10:36.317Z",
       "contentText": "## About This Policy\n\nGeneric absence policy for organizations in the UK.\n\n## Who Needs This Policy\n\nAn absence policy is required if you have any sponsored workers.\n\n## The Policy\n\nAbsence Policy (UK) (https://docs.google.com/document/d/1fKrcPntKEnXE2qzj4eYeU3ZSAgGbtjHM-lJFxnELaLw/edit?usp=sharing)",
-      "alternateSlugs": []
+      "alternateSlugs": [
+        "policy-and-guide-template"
+      ],
+      "alternateUrls": [
+        "https://resourceportal.antientropy.org/docs/policy-and-guide-template"
+      ]
     },
     {
       "id": "c4b8720d-44ec-4b15-9d1b-cb6b5d89c303",
@@ -547,8 +555,8 @@
       "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation-us",
       "description": "A template for drafting Articles of Incorporation required by US states to establish nonprofit charity status",
       "keywords": [
-        "Articles of Incorporation",
         "articles of incorporation",
+        "Articles of Incorporation",
         "board approval",
         "charity status application",
         "registered agent",
@@ -2720,6 +2728,35 @@
       "alternateSlugs": []
     },
     {
+      "id": "295f5d8e-462e-4e36-bf4a-55ce0d4c635d",
+      "slug": "pass-through-taxation",
+      "title": "Pass-through Taxation",
+      "url": "https://resourceportal.antientropy.org/docs/pass-through-taxation",
+      "description": "A reference explaining pass-through taxation structures where business income is taxed at individual rates rather than corporate rates",
+      "keywords": [
+        "business income taxation",
+        "corporate income tax avoidance",
+        "personal income tax return",
+        "sole proprietorship",
+        "Taxation"
+      ],
+      "tags": [
+        "Taxation"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-13T21:33:54.949Z",
+      "modifiedAt": "2022-07-13T21:33:54.949Z",
+      "firstPublishedDate": "2022-07-13T21:33:54.988Z",
+      "lastPublishedDate": "2022-07-13T21:33:54.988Z",
+      "contentText": "Pass-through taxation refers to when a business's taxes are not subject to corporate income tax.\n\n-\n\nA Sole Proprietorship (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) has \"pass-through taxation\" because the owner is not separate from their business.\n\n-\n\nBusiness income is reflected on the owner's personal income tax return and taxed at individual income tax rates.",
+      "alternateSlugs": []
+    },
+    {
       "id": "5d5bd8d0-9a07-4f4f-9a4d-f6863e7b8d05",
       "slug": "template-privacy-notice",
       "title": "Privacy Notice Template",
@@ -2750,33 +2787,6 @@
       "firstPublishedDate": "2022-03-31T19:45:30.623Z",
       "lastPublishedDate": "2023-01-25T14:42:32.015Z",
       "contentText": "## About This Policy\n\nThe document linked below is a standard GDPR privacy notice. It is a copy of the ICO template (https://ico.org.uk/for-organisations/sme-web-hub/make-your-own-privacy-notice/) with more examples and a little formatting.\n\nThe best practice is to put this policy on your website with a link to it in your website footer and in your standard email signatures.\n\n## Who Needs This Policy\n\nIf you are in or do business in the EU or UK you need this policy. For more details, see the GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide).\n\nThe rules are more strict if you are soliciting people or selling a product with personal data; in this circumstance, use a policy and privacy notice from your attorney.\n\n## The Template\n\nPrivacy Policy Template (Google Doc) (https://docs.google.com/document/d/1ABRjnY0ROr06mwfW7dO10zOWNVG_LUY2X3Hzs5gPcU8/edit?usp=sharing)\n\nGeneral Data Protection Regulation is a Regulation in EU law on data protection and privacy in the EU and the European Economic Area. Any organization in the EU or UK or dealing with people in the EU or UK is expected to be compliant with GDPR regulation.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "88372e38-ea7d-4650-a0c9-9fec40500b33",
-      "slug": "receipt-of-payment-template",
-      "title": "Receipt of Payment Template",
-      "url": "https://resourceportal.antientropy.org/docs/receipt-of-payment-template",
-      "description": "A template for documenting payments to contractors and vendors without formal invoicing systems",
-      "keywords": [
-        "1099 reporting",
-        "payment thresholds",
-        "tax identification fields",
-        "W-9 form",
-        "withholding requirements"
-      ],
-      "tags": [],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Operational Tools and Resources",
-        "Templates"
-      ],
-      "readingTime": 3,
-      "createdAt": "2025-11-06T21:59:14.123Z",
-      "modifiedAt": "2025-11-06T21:59:14.123Z",
-      "firstPublishedDate": "2025-11-06T21:59:14.123Z",
-      "lastPublishedDate": "2025-11-06T21:59:14.123Z",
-      "contentText": "## About this template\n\nA receipt of payment documents when your organization pays contractors, vendors, or service providers who don't provide standard invoices or receipts. This template creates a paper trail for payments to individuals or small vendors, particularly common with international contractors, interview participants, or one-time service providers.\n\n**Note:** this is different from a Replacement Reciept (https://resourceportal.antientropy.org/docs/generic-receipt-replacement-template) for expense reimbursement purposes when the original receipt is unavailable.\n\n#### Download template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)\n\n## Who needs this\n\n- Organizations paying contractors or vendors without formal invoicing systems\n- Research organizations compensating interview participants\n- Organizations needing documentation for cash or informal payments\n- Working with vendors in regions where formal invoicing isn't standard\n\n#### Don't use this template for:\n\n- Regular vendors who should provide invoices\n- Employee salary or wage payments\n- Purchases where you receive goods (use standard receipts)\n- Recurring service providers who can issue proper invoices\n\n## How to customize this template\n\n#### Organization details\n\n- Replace ORG_NAME with your organization's name throughout\n- Add your organization's tax ID if required in your jurisdiction\n- Consider adding your organization's address for formal documentation\n\n#### Payment categories\n\nAdjust the payment types to match your common uses:\n\n- Research organizations: Interview participation, focus group participation, user testing, survey completion, study participation\n- Media/content organizations: Video editing, graphic design, transcription services, translation, voice-over work, content writing\n- Event organizations: Speaker fees, workshop facilitation, panel participation, performance fees, equipment rental from individuals\n- Community organizations: Interpretation services, cultural consulting, community liaison work, local coordination, outreach services\n- General services: Consulting, training delivery, data entry, temporary assistance, specialized expertise\n\nRemove categories you won't use to keep the form simple and add specific categories relevant to your work.\n\n#### Tax identification fields\n\nDifferent jurisdictions require different tax documentation:\n\n- United States: Include space for SSN or EIN for amounts over $600 (1099 reporting)\n- United Kingdom: Add space for UTR (Unique Taxpayer Reference) or National Insurance number\n- European Union: Include VAT number field if applicable\n- Other regions: Research local tax ID requirements\n\n#### Setting payment thresholds\n\nIf you have one, your organization's expense or payment policy should specify when this template is appropriate versus requiring formal invoices. Consider incorporating thresholds into your policy:\n\n**Common threshold approach is a bandwidth:**\n\n- Under $100-250: Receipt of payment acceptable\n- $250-1,000: Receipt of payment with additional documentation\n- Over $1,000: Formal invoice required\n\nThese thresholds should align with your existing expense approval levels and risk tolerance. Document these limits in your expense reimbursement or accounts payable policy so staff know when to use this template versus requesting formal documentation.\n\n**Additional documentation requirements**\n For larger amounts, consider requiring supplementary documentation:\n\n- Copy of recipient's government-issued ID\n- Written agreement or scope of work\n- Bank transfer confirmation\n- Secondary approval signature\n\n## Best practices\n\n- Pre-fill known information - Complete organization sections before meeting contractors\n- Translate if needed - Provide template in languages your contractors read\n- Explain purpose - Help recipients understand this protects both parties\n- Keep copies accessible - Contractors may need copies for their tax filing\n- Review regularly - Update template as regulations or needs change\n- Train staff - Ensure anyone making payments understands when and how to use\n\n## Compliance considerations\n\nImportant tax disclaimer:\n\nThis section provides general documentation guidance only. Tax treatment and reporting requirements vary significantly by jurisdiction and payment type. Consult a qualified tax professional or legal advisor for requirements specific to your organization and location.\n\n**US organizations**\n\n- Track total annual payments per recipient for 1099 reporting\n- Collect W-9 forms before first payment when possible\n- Maintain records for 7 years for tax purposes\n\n**International payments**\n\n- Research withholding requirements for payments to foreign nationals\n- Document any tax treaty benefits claimed\n- Keep records of recipient's country of tax residence\n\nDownload template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)",
       "alternateSlugs": []
     },
     {
@@ -2811,40 +2821,6 @@
       "firstPublishedDate": "2022-07-13T23:14:19.36Z",
       "lastPublishedDate": "2022-07-20T12:36:55.562Z",
       "contentText": "### Who is this article for?\n\nIndependent contractors or solo business owners looking to set up a business.\n\nIn general, there are two main business types for independent contractors. The table below gives a snapshot of the differences between each.\n\n[Image: LLC_Solep.png]\n\n#### Sole Proprietor\n\n- Simplest and most common business structure.\n- Inexpensive to form as there is little to no upfront cost\n- You, as the owner, are not a separate legal entity and therefore are not protected from business liabilities.\n\n*For more information on sole proprietors and how to register to become one, see the Sole Proprietor (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) article.*\n\n#### Single Member LLC\n\n- Can be formed with only one member and obtain corporate tax status.\n- Your business is separate from you; as the owner, therefore, your personal assets are protected from business liabilities.\n- Can be set up as a “disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity)” or as a “corporation”.\n\n*For more information on Single Member LLCs and how to register one, see Single Member LLC (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa).*",
-      "alternateSlugs": []
-    },
-    {
-      "id": "e29ed805-527e-4c45-b472-3d2cb5b24e12",
-      "slug": "sole-trader",
-      "title": "Sole Trader",
-      "url": "https://resourceportal.antientropy.org/docs/sole-trader",
-      "description": "A guide explaining sole trader requirements, registration steps, and disadvantages for self-employed individuals in the UK",
-      "keywords": [
-        "000",
-        "Class 4",
-        "National Insurance Class 2",
-        "record-keeping five years",
-        "Self Assessment registration",
-        "soletrader",
-        "UK",
-        "UTR number",
-        "VAT threshold £85"
-      ],
-      "tags": [
-        "soletrader",
-        "UK"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "UK Nonprofits and Charities",
-        "UK Governance References and Definitions"
-      ],
-      "readingTime": 2,
-      "createdAt": "2022-07-25T21:35:30.729Z",
-      "modifiedAt": "2022-07-25T21:35:30.729Z",
-      "firstPublishedDate": "2022-07-25T21:35:30.749Z",
-      "lastPublishedDate": "2022-07-25T21:35:30.748Z",
-      "contentText": "If you run your own business and are self-employed, then you’re considered a Sole Trader.\n\n#### You need to set up as a sole trader if:\n\n- You earned more than £1,000 from self-employment\n- You’ve proven or declared you're self-employed\n- You make voluntary National Insurance payments to qualify for benefits\n\n#### Disadvantages of a Sole Trader:\n\n- Personal liability - Your business is not a separate entity from you as the owner. This means you are personally liable for any company obligations, debts, liabilities owed, or legal action against the business. There's a possibility that it may impact your personal finances.\n- All profits earned by a sole trader are subject to income tax. This means that a sole trader will usually pay more in tax than a limited company.\n- You are also responsible for your own National Insurance payments (https://www.gov.uk/voluntary-national-insurance-contributions).\n- Perceived lack of prestige - Public perception of sole traders is not as high as having your own business.\n- It may be challenging to raise capital to expand the business as a sole trader because traditional financial institutions prefer limited companies, like banks and granting foundations.\n\n## Sole Trader Requirements\n\n#### National Insurance\n\nYou pay either Class 2 or Class 4 National Insurance as a sole trader.\n\n- Class 2 - If your profit is at least £6,725 per year\n- Class 4 - If your profit is at least £9,881 per year\n\n#### Record Keeping\n\n- As a sole trader, you must keep records of the following:\n- Business income and expenses\n- Personal income\n- VAT records\n- Grants, if claimed through the Self-Employment Income Support Scheme\n- All receipts, bank statements, and sales invoices\n\n*Keep records for at least five years after submitting your tax returns*\n\n## How to Register as a Sole Trader:\n\n**1.** Choose a name to trade under. You can use your name or choose another name for your business. However, keep in mind that you’re not allowed to use the following words in your business name: 'limited', 'Ltd', 'limited liability partnership', 'LLP', 'public limited company', plc'. Further guidance on naming can be found here (https://www.gov.uk/government/publications/incorporation-and-names).\n * You don’t need to register your business name unless you want to register your name as a trademark to the Intellectual Property Office (IPO) (https://www.gov.uk/how-to-register-a-trade-mark).\n\n**2.**Register for Self Assessment (https://www.gov.uk/register-for-self-assessment/self-employed) to pay income tax.\n\n- If it’s your first time, set up your business tax account here (https://www.access.service.gov.uk/login/signin/creds). You’ll receive your Unique Taxpayer Reference (UTR) number within ten days. The UTR is needed to file your yearly tax return. You can get guidance through these helpsheets (https://www.gov.uk/government/collections/self-assessment-helpsheets-main-self-assessment-tax-return).\n\n**3.** If you do not have one, you will need to apply for a National Insurance number (https://www.gov.uk/apply-national-insurance-number), the processing takes about eight weeks. Below are the requirements:\n\n- Identification documents such as a passport, biometric residence permit (BRP), national identity card from any EU country, Norway, Liechtenstein, or Switzerland\n- Photos to prove your identity\n\n**4.** Register for VAT if necessary. If your total VAT taxable turnover for the last 12 months was over £85,000, then register for VAT with the HMRC.\n\nYou can authorize another person to do all transactions with the HMRC, be it a friend, relative, accountant, or tax adviser. The UK government has provided tax agents standards (https://www.gov.uk/government/publications/hmrc-the-standard-for-agents) that you can base off of.",
       "alternateSlugs": []
     },
     {
