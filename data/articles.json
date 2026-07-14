@@ -1,14 +1,17 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-07-13T11:29:32+00:00",
-  "articleCount": 158,
-  "failedCount": 5,
+  "generatedAt": "2026-07-14T10:11:18+00:00",
+  "articleCount": 156,
+  "failedCount": 8,
   "failures": {
-    "sparkwell-compassionate-leave-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-compassionate-leave-policy: HTTP Error 429: Too Many Requests",
-    "sparkwell-confidentiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-confidentiality-policy: HTTP Error 429: Too Many Requests",
-    "sparkwell-conflicts-of-interest-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-conflicts-of-interest-policy: HTTP Error 429: Too Many Requests",
-    "us-corporate-bylaws": "Failed to fetch https://resourceportal.antientropy.org/docs/us-corporate-bylaws: HTTP Error 429: Too Many Requests",
-    "us-independent-contractor-checklist": "Failed to fetch https://resourceportal.antientropy.org/docs/us-independent-contractor-checklist: HTTP Error 429: Too Many Requests"
+    "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
+    "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
+    "pass-through-taxation": "Failed to fetch https://resourceportal.antientropy.org/docs/pass-through-taxation: HTTP Error 429: Too Many Requests",
+    "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
+    "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
+    "political-impartiality": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality: HTTP Error 429: Too Many Requests",
+    "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests",
+    "private-limited-companies-plcs": "Failed to fetch https://resourceportal.antientropy.org/docs/private-limited-companies-plcs: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -35,13 +38,10 @@
       "slug": "absence-policy-uk-2",
       "title": "Absence Policy (UK)",
       "url": "https://resourceportal.antientropy.org/docs/absence-policy-uk-2",
-      "description": "A template absence policy for UK organizations with sponsored workers",
+      "description": "",
       "keywords": [
         "absence",
-        "absence documentation",
-        "sponsored workers",
-        "UK",
-        "UK employment compliance"
+        "UK"
       ],
       "tags": [
         "absence",
@@ -58,12 +58,7 @@
       "firstPublishedDate": "2022-04-04T18:51:19.368Z",
       "lastPublishedDate": "2022-08-10T20:10:36.317Z",
       "contentText": "## About This Policy\n\nGeneric absence policy for organizations in the UK.\n\n## Who Needs This Policy\n\nAn absence policy is required if you have any sponsored workers.\n\n## The Policy\n\nAbsence Policy (UK) (https://docs.google.com/document/d/1fKrcPntKEnXE2qzj4eYeU3ZSAgGbtjHM-lJFxnELaLw/edit?usp=sharing)",
-      "alternateSlugs": [
-        "policy-and-guide-template"
-      ],
-      "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/policy-and-guide-template"
-      ]
+      "alternateSlugs": []
     },
     {
       "id": "c4b8720d-44ec-4b15-9d1b-cb6b5d89c303",
@@ -1236,40 +1231,6 @@
       "firstPublishedDate": "2023-01-26T15:07:36.453Z",
       "lastPublishedDate": "2023-01-26T15:07:36.453Z",
       "contentText": "### Who is this article for?\n\nGrantees applying for funding or fiscal sponsorship who want to ensure the highest probability of acceptance.\n\n### Topics Covered in This Article:\n\n- What is Due Diligence?\n- Benefits of Conducting Due Diligence\n- Conducting Due Diligence - Grantor and Grantee\n\n### What is Due Diligence?\n\nDue Diligence is a necessary part of the grant funding process. The process involves conducting research and deep dives to properly and legally verify the status of grantees and grantors. It is an essential practice that informs the financial decision of both parties and ensures financial and legal compliance. In addition, due diligence is the first step in a potential long-term relationship between the grantor and the grantee.\n\nIf you prefer a third-party organization's due diligence, there are agencies (https://www.givingforce.com/charity-due-diligence) or individuals (https://www.linkedin.com/in/elly-bohme-55442513/) that specialize in this research and can conduct due diligence. One of the benefits of outsourcing due diligence is that the third party can view both grantors and grantees with greater objectivity and utilize tools and resources you might not have available to carry out the process. In some cases, these types of companies can shoulder a degree of liability. The downside of outsourcing due diligence is the high cost, with rates reaching thousands of dollars.\n\n### Benefits of Conducting Due Diligence\n\n- Ensures that grant funds are being used for legitimate projects.\n- Helps organizations protect against fraud, money laundering, or being involved in possible terrorist activities or with unlawful organizations.\n- Ensures grantor and grantee are aligned, and the relationship will be mutually beneficial to both.\n- Ensures compliance with laws\n - Specifically laws to maintain 501c(3) status (https://resourceportal.antientropy.org/docs/applying-for-charity-status-us)\n\n### Conducting Due Diligence\n\nThere is no standard format for how due diligence is done. It depends on various factors and whether you are the grantee or grantor. Both parties need to conduct due diligence to ensure the relationship is mutually beneficial and will help each party reach its goals.\n\n#### As the Grantor\n\nFor the funders (grantors), they have to take into account the following:\n\n- **Due diligence threshold** - How much due diligence is needed in relation to the funds the organization will be granted.\n- **Risk appetite** - The amount of risk an organization is willing to accept or pursue to achieve its objectives.\n- **Risk tolerance** - The acceptable variations in outcomes, typically related to a specific project, that an organization is willing to accept. Tolerance is more granular in nature (per project and weighed against the appetite), while risk appetite is the organization’s overall level of risk exposure they are willing to accept.\n\nBefore actually proceeding with the due diligence process, an organization must have applicable policies in terms of funding. They should know where grant funds will be coming from, the funds' financial limit, and the grant's terms, as these parameters will help determine if the grantee and project are a good fit.\n\n**Ways of Doing Due Diligence - Grantor on Grantee**\n\n- Online Research, finding out everything there is to know about the grantee. Research goes beyond the company website and public profiles into sites that give independent perspectives on nonprofits:\n - Some examples: Candid, Charity Watch, Charity Navigator, GuideStar, GiveWell, ImpactMatters\n- Conduct physical site visits, if possible.\n- Communicate and dig beyond email exchanges and, if necessary, conduct in-person or virtual interviews with key staff in the applying organizations.\n- Consult other funders, organizations, and philanthropists focused on the same or related cause areas. Obtain insights on the applicant, as they may have also applied for grants from other organizations.\n\n#### As the Grantee\n\nAs the grantee receiving funds, you need to be prepared to have all aspects of your organization reviewed and key documents ready. You are also advised to do your own due diligence on the grantors.\n\n**Ways of Doing Due Diligence - Grantee on Grantor**\n\n- Online Research, finding out everything there is to know about the grantor. Research goes beyond the company website and public profiles into sites that give independent perspectives on nonprofits:\n - Some examples: Candid, Charity Watch, Charity Navigator, GuideStar, GiveWell, ImpactMatters\n- Communicate with other recipients of grants from the organization to ensure your project will be valued and aligned.\n- Consult other funders, organizations, and philanthropists focused on the same or related cause areas for additional insight.\n\n**Areas Inspected During Due Diligence:**\n\n- The organization’s infrastructure\n- How the board manages the organization and its members\n- Financial sustainability\n- Community engagement - Their position in the community and the field or cause it serves\n- Collaboration with other organizations and strategic partnerships\n- Organization’s strategy and planning to push its mission\n- How goals and milestones are being set, tracked, and evaluated\n- How proposed activities and programs align with the funder’s guidelines and priorities\n- How proposed activities and programs provide the needed services to the community and advance the field\n- How proposed activities and programs compare to other proposals or applications within the same field\n\nTo help prepare for your grant application, here is a sample due diligence questionnaire (https://milkeninstitute.org/sites/default/files/2020-09/DueDiligenceQuestionnaire-FINAL-v3.pdf).\n\n**When applying for a grant, prepare the following documents:**\n\n- Articles of incorporation (https://resourceportal.antientropy.org/docs/articles-of-incorporation)\n- Governance bylaws\n- IRS Form 990 (https://www.irs.gov/forms-pubs/about-form-990)\n- Organizational chart\n- Strategic and operational plans\n- Budget\n- Board meeting minutes\n- Financial audit reports\n- Program portfolio\n- Annual reports\n- Press releases/media articles\n- Program proposal\n\nReasonable steps (ie. investigation, research, interviews) taken by a person or organization to ensure no harm will be done either through a transaction or establishment of a legal, financial, or commercial relationship.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "5fdefb3a-1772-4665-ac2f-57c08bf86af2",
-      "slug": "nonprofit-email-compliance",
-      "title": "Email Compliance",
-      "url": "https://resourceportal.antientropy.org/docs/nonprofit-email-compliance",
-      "description": "A guide with checklist and examples for nonprofits to ensure email marketing compliance with regulations including GDPR, CAN-SPAM, and CCPA",
-      "keywords": [
-        "CAN-SPAM Act",
-        "CCPA",
-        "Compliance",
-        "double opt-in",
-        "email",
-        "Email Compliance Checklist",
-        "GDPR",
-        "GDPR Article 7",
-        "unsubscribe link"
-      ],
-      "tags": [
-        "Compliance",
-        "email",
-        "GDPR"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "GDPR - Data Privacy and Security"
-      ],
-      "readingTime": 4,
-      "createdAt": "2023-03-02T17:11:26.302Z",
-      "modifiedAt": "2023-03-02T17:11:26.302Z",
-      "firstPublishedDate": "2022-04-25T13:47:29.588Z",
-      "lastPublishedDate": "2023-03-02T17:11:26.495Z",
-      "contentText": "### Who is this article for?\n\nAny nonprofit, charity, or organization distributing emails, newsletters, and/or obtaining personal information from emails sent from their organization.\n\n### This Article Covers\n\n- Email Compliance Checklist\n- GDPR Email Subscriptions and Opt-ins\n- Example verbiage and visuals for compliant forms\n\n### Summary\n\nRegulations state how nonprofits can use email in their marketing and other activities, such as fundraising. Therefore, it’s essential to know the following laws for email compliance. For the full guide, click here (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing).\n\n### Email Compliance Checklist\n\n- Has everyone on your email list agreed to receive email communications from you? Did they opt-in explicitly or through transacting directly with the organization?\n - Does your opt-in page show what kind of messages the user will be receiving once they subscribe?\n- Is it clear that your organization is sending the email? Check if the “to” field has your organization’s name.\n- Does your subject line accurately state what the email is about?\n- If your email is an ad, do you have statements in the message stating that it is? For example, soliciting a donation might be considered an ad.\n- Does your email footer contain the following information?\n - Organization name\n - Valid physical address\n - Phone number, email, or web address\n - Unsubscribe option\n - Short text on why the user is receiving the email\n- Does your email show how the reader can unsubscribe from your emails?\n - Is it easy to read and understand how to unsubscribe?\n - Does clicking the link lead to the opt-out page on your website?\n- Do you have a link to your Privacy Policy? Read here for more about a Privacy Policy (https://resourceportal.antientropy.org/docs/template-privacy-notice).\n - Is your Privacy Policy updated on your website?\n- If you’re outsourcing your email marketing campaigns, ensure the third-party company is compliant to (ask them about it):\n - CAN-SPAM Act\n - GDPR\n - CCPA\n\n### GDPR Email Subscriptions and Opt-ins\n\nTo be compliant with GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk) ensure your organization is clear about the exchange of personal data for opting into any email, newsletter, or subscription. GDPR defines the conditions for consent in Article 7. (https://gdpr.eu/article-7-how-to-get-consent-to-collect-personal-data/)\n\n-\n\n**Consent is given voluntarily**\n\n - When assessing whether consent is given voluntarily, it must be taken into account whether the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract.\n - For example, if a user wants to download an ebook/whitepaper, or participate in an event, it must be clear that by doing so, they will be automatically subscribed to your newsletter.\n - If personal data will be collected in exchange for an item/service you’ll be providing this should be made clear during the opt-in stage.\n-\n\n**Consenting must be clearly recognizable**\n\n - Positive opt-in - Dedicate a separate space in your form where users can voluntarily and actively click on a checkbox\n - **Pre-ticked sign-up checkboxes are not allowed**\n - Double opt-in - Once a user submits their information, they receive an email that contains a link that they can click to further confirm their subscription to your newsletter.\n - It is best practice is to provide a link to your privacy policy not only in the opt-in form but in the emails you’ll be sending as well.\n-\n\n**You must ensure that opting out of your email subscription is easy**\n\n - Add a visible unsubscribe link to all of your emails\n - Add a link that lets users change their email preferences\n\nExamples of GDPR compliant newsletters (https://www.termsfeed.com/blog/gdpr-email-newsletters/)\n\nExamples of GDPR email disclaimers (https://www.exclaimer.com/email-signature-handbook/top-5-gdpr-email-disclaimer-examples/)\n\nFull GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide)\n\n### Compliant Form Examples\n\nThese examples are based on the UK and EU GDPR for compliance, as they are generally stricter than the US. However, it is always best practice to check your country or region's regulations in detail to ensure compliance. You can view our EU GDPR (https://resourceportal.antientropy.org/docs/gdpr-eu), UK GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk), and Switzerland FADP (https://resourceportal.antientropy.org/docs/switzerland-fadp) articles for additional information and details.\n\n[Image: Screen Shot 2023-03-02 at 10.56.47 AM.png]\n\n**Text Example 1:**\n By submitting your email, you agree to be included in our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I agree\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n**Text Example 2:**\n To receive [item/service], please subscribe to our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I want to subscribe\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n#### Non Compliant Examples\n\n[Image: Screen Shot 2023-03-02 at 10.57.28 AM.png]\n\n**Why it's not compliant:**\n In the above example, the checkbox is for two separate items. You must have separate checkboxes for separate actions that you would need consent from.\n\n[Image: Screen Shot 2023-03-02 at 11.01.33 AM.png]\n\n**Why it's not compliant:**\n There is no specific section of the form that the user agrees to or has to take action on by clicking or checking for sharing their information. There are also no details or explanation that they will be subscribed to a mailing list or not after joining the contest.\n\n### The Full Guide\n\nEmail Compliance Guide (Google Doc) (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing)\n The guide includes more detailed information and source data.",
       "alternateSlugs": []
     },
     {
@@ -2752,128 +2713,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "295f5d8e-462e-4e36-bf4a-55ce0d4c635d",
-      "slug": "pass-through-taxation",
-      "title": "Pass-through Taxation",
-      "url": "https://resourceportal.antientropy.org/docs/pass-through-taxation",
-      "description": "A reference explaining pass-through taxation structures where business income is taxed at individual rates rather than corporate rates",
-      "keywords": [
-        "business income taxation",
-        "corporate income tax avoidance",
-        "personal income tax return",
-        "sole proprietorship",
-        "Taxation"
-      ],
-      "tags": [
-        "Taxation"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "US Nonprofits and Charities",
-        "US Governance References and Definitions"
-      ],
-      "readingTime": 1,
-      "createdAt": "2022-07-13T21:33:54.949Z",
-      "modifiedAt": "2022-07-13T21:33:54.949Z",
-      "firstPublishedDate": "2022-07-13T21:33:54.988Z",
-      "lastPublishedDate": "2022-07-13T21:33:54.988Z",
-      "contentText": "Pass-through taxation refers to when a business's taxes are not subject to corporate income tax.\n\n-\n\nA Sole Proprietorship (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) has \"pass-through taxation\" because the owner is not separate from their business.\n\n-\n\nBusiness income is reflected on the owner's personal income tax return and taxed at individual income tax rates.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "879b7eee-ab68-4720-bd2a-b68a785067f3",
-      "slug": "pay-as-you-earn-paye",
-      "title": "Pay As You Earn (PAYE)",
-      "url": "https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye",
-      "description": "A reference explaining the PAYE system for collecting income tax and national insurance from employment in the UK for employers and employees",
-      "keywords": [
-        "employer PAYE registration",
-        "HMRC income tax collection",
-        "National Insurance",
-        "payment frequency requirements",
-        "payroll deductions"
-      ],
-      "tags": [],
-      "categoryPath": [
-        "Governance and Compliance",
-        "UK Nonprofits and Charities",
-        "UK Governance References and Definitions"
-      ],
-      "readingTime": 1,
-      "createdAt": "2022-07-25T20:20:15.192Z",
-      "modifiedAt": "2022-07-25T20:20:15.192Z",
-      "firstPublishedDate": "2022-07-25T20:20:15.22Z",
-      "lastPublishedDate": "2022-07-25T20:20:15.22Z",
-      "contentText": "The Pay As You Earn (PAYE (https://www.gov.uk/paye-for-employers)) system is the HM Revenue and Customs (HMRC) way of collecting income tax and national insurance from employment. You would have to manage PAYE as part of your payroll as an employer.\n\n## For the Employer\n\nCompanies don’t need to register for PAYE if:\n\n- employees are paid less than £123 per week;\n- employees do not get expenses and benefits; or\n- employees have another job or get a pension.\n- You must register an employee with Payee (https://www.gov.uk/register-employer) before the first payday. Getting your employer PAYE reference number can take up to 5 working days. You cannot register more than two months before you start paying people.\n\n*You still need to keep payroll records even if you don’t register for PAYE.*\n\n#### When paying payroll, make deductions for PAYE:\n\n- Deduct tax and National Insurance\n- Report payments and deductions to HMRC\n\n#### When paying HMRC:\n\n- If you run payroll yourself, you will need to report your employees’ payments and deductions to HMRC on or before each payday.\n- You have to pay HMRC every month unless you expect to pay less than £1,500 a month; you can arrange to pay quarterly.\n\n## For the Employee\n\n- Income tax is deducted from your salary or pension before you receive it.\n- Most employees pay income tax in this way. Rather than making a payment to HMRC, the correct amount is deducted from your salary before you are paid and sent to HMRC by your employer.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "41a1ccf5-db98-4f09-ab4e-89c8ea2b7a7d",
-      "slug": "political-impartiality",
-      "title": "Political Impartiality (US, affects other countries including the UK)",
-      "url": "https://resourceportal.antientropy.org/docs/political-impartiality",
-      "description": "A guide explaining IRS lobbying restrictions for 501(c)(3) nonprofits, including tests, permissible activities, and funding implications.",
-      "keywords": [
-        "10% resource threshold",
-        "Compliance",
-        "Expenditure Test",
-        "Funding",
-        "grassroots lobbying",
-        "IRS lobbying restrictions",
-        "Substantial Part Test",
-        "USA"
-      ],
-      "tags": [
-        "Compliance",
-        "Funding",
-        "USA"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "US Nonprofits and Charities",
-        "US Governance References and Definitions"
-      ],
-      "readingTime": 3,
-      "createdAt": "2022-05-03T13:40:49.466Z",
-      "modifiedAt": "2022-05-03T13:40:49.466Z",
-      "firstPublishedDate": "2022-04-29T15:20:11.087Z",
-      "lastPublishedDate": "2022-05-03T13:40:49.536Z",
-      "contentText": "Per IRS regulations, a nonprofit organization is not allowed to influence legislation or policymakers.\n\nLobbying includes both federal and state legislation. Use of funds includes the same limitations on foriegn policymakers; for example, the use of US 501(c)3 funds to influence UK policy.\n\n“In general, no organization may qualify for section 501(c)(3) status if a substantial part of its activities is attempting to influence legislation (commonly known as lobbying). A 501(c)(3) organization may engage in some lobbying, but too much lobbying activity risks loss of tax-exempt status.” -IRS (https://www.irs.gov/charities-non-profits/lobbying#:~:text=In%20general%2C%20no%20organization%20may,loss%20of%20tax%2Dexempt%20status)\n\n**It is very important that you not skip “How this affects 501 Funding (https://resourceportal.antientropy.org/docs/political-impartiality#how-this-affects-501c3-funding)” below.**\n\n## Key 501(c)3 Practices\n\n- As a rule of thumb, ensure your organization is not using more than 10% of its resources on lobbying activities.\n- Ensure the organization’s lobbying activities expenditure does not exceed $1,000,000.\n- Ensure any group or individual the organization is funding is using the funds under the same rules.\n- As a best practice, try not to engage in any activities that are actively or directly trying to influence legislation.\n- If an organization receives a mix of 501(c)3 and non-501(c)3 funding, it is a best practice to keep all 501(c)3 funds in a separate bank account. Expenditures from this account are then only used following non-lobbying rules.\n\n### What is lobbying\n\nDefinitions of lobbying activities are very loosely defined and open to interpretation by the IRS. Judgments are often based on intent.\n\nLobbying is any activity where an organization is actively and directly trying to influence legislation. This includes both the policymaker and the policymaker's staff; anyone who has the authority or power to directly influence or enact policy.\n\n*“...proposing, supporting, or opposing legislation, or if the organization advocates the adoption or rejection of legislation.”* -IRS (https://www.irs.gov/charities-non-profits/lobbying#:~:text=In%20general%2C%20no%20organization%20may,loss%20of%20tax%2Dexempt%20status)\n\nExamples include:\n\n- Helping to write a piece of legislation.\n- Doing research at the request of a policymaker, doing research for them.\n- Meetings and discussions with government representatives.\n- Engaging in “grassroots lobbying” or any attempt to influence legislation through an attempt to affect the opinions of the general public or any segment of the public.\n- Lobbying could include social media posts that support or oppose a policy if it is meant to influence the public.\n\n## What is not lobbying\n\nEducating and providing information or research where the recipient can make their own decision on the matter is not lobbying.\n\n*“Organizations may, however, involve themselves in issues of public policy without the activity being considered as lobbying. For example, organizations may conduct educational meetings, prepare and distribute educational materials, or otherwise consider public policy issues in an educational manner without jeopardizing their tax-exempt status.”* -IRS (https://www.irs.gov/charities-non-profits/lobbying#:~:text=In%20general%2C%20no%20organization%20may,loss%20of%20tax%2Dexempt%20status)\n\nExamples of acceptable activities:\n\n- Widely attended where at least 25 other people are expected to attend and the event is open to the public.\n- Giving a policymaker public research for educational purposes; they must be able to come to their own conclusions on how the research affects policy.\n- Social gatherings or events with no lobbying activities or purpose.\n\n## How To Test Whether An Organization Is Lobbying\n\nThe IRS has two tests for determining an organization’s political impartiality.\n\n### The Substantial Part Test (https://www.irs.gov/charities-non-profits/measuring-lobbying-substantial-part-test)\n\nIs the organization’s intent or is the organization using a “substantial” amount of resources for lobbying purposes. Judgments often use over 10% to mean substantial. Resources can include funds and hours spent by employees.\n\n### The Expenditure Test (https://www.irs.gov/charities-non-profits/measuring-lobbying-activity-expenditure-test)\n\nThe organization is not spending over a certain percentage of expenses for lobbying activities. The percentage depends on the budget of the organization; see the chart in the link. But 10% is a good rule of thumb. Total expenditures for lobbying activities cannot exceed $1,000,000 regardless of the size of the organization’s budget.\n\n### How Tests Have Been Enforced\n\nJudgments have used a general “no more than 10% of resources” rule. But the judgments have been very loose on the definition of resources. Sometimes it is a fiscal amount; sometimes it is hours; sometimes it is both.\n\n## How This Affects 501(c)3 Funding\n\nJudgments on lobbying have included funds given to other organizations. If a 501(c)3 gifts or grants an organization any funds, those funds must be used under the same rules. *Therefore, both funds received from or given to a 501(c)3 must monitor their lobbying activities.*\n\nIf an organization receives a mix of 501(c)3 and non-501(c)3 funding, it is a best practice to keep all 501(c)3 funds in a separate bank account. Expenditures from this account are then only used following non-lobbying rules.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "e2531252-b5a4-43e7-b5d8-a4e3b6ee2df1",
-      "slug": "political-impartiality-policy",
-      "title": "Political Impartiality Policy",
-      "url": "https://resourceportal.antientropy.org/docs/political-impartiality-policy",
-      "description": "A template political impartiality policy for charities ensuring compliance with lobbying and election laws",
-      "keywords": [
-        "10% charitable fund limit",
-        "charitable impartiality",
-        "Compliance",
-        "election law",
-        "Funding",
-        "lobbying compliance",
-        "policy-influencing activities"
-      ],
-      "tags": [
-        "Compliance",
-        "Funding"
-      ],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
-        "All Policies"
-      ],
-      "readingTime": 1,
-      "createdAt": "2022-04-29T15:48:03.243Z",
-      "modifiedAt": "2022-04-29T15:48:03.243Z",
-      "firstPublishedDate": "2022-04-29T15:48:03.33Z",
-      "lastPublishedDate": "2022-04-29T15:48:03.33Z",
-      "contentText": "## About This Policy\n\nA political impartiality policy helps an organization ensure it is complying with lobbying and election laws and regulations.\n\n## Who Needs This Policy\n\nAny charity or organization which receives funds from a charity may need this policy.\n\nNo more than 10% of charitable funds or resources should be spent on policy-influencing activities. See the full guideance for more information (https://resourceportal.antientropy.org/docs/political-impartiality).\n\n## The Policy\n\nPolitical Impartiality Policy (Google Docs) (https://docs.google.com/document/d/1aIgGlB-86OG_R_9m1wQOL9YM5619nV5Xl5GOMountIw/edit?usp=sharing)\n\n*This is a basic impartiality policy useful for organizations that do not engage in any political activities. If your organization works with policymakers, you may want a policy from your attorney.*",
-      "alternateSlugs": []
-    },
-    {
       "id": "5d5bd8d0-9a07-4f4f-9a4d-f6863e7b8d05",
       "slug": "template-privacy-notice",
       "title": "Privacy Notice Template",
@@ -2904,40 +2743,6 @@
       "firstPublishedDate": "2022-03-31T19:45:30.623Z",
       "lastPublishedDate": "2023-01-25T14:42:32.015Z",
       "contentText": "## About This Policy\n\nThe document linked below is a standard GDPR privacy notice. It is a copy of the ICO template (https://ico.org.uk/for-organisations/sme-web-hub/make-your-own-privacy-notice/) with more examples and a little formatting.\n\nThe best practice is to put this policy on your website with a link to it in your website footer and in your standard email signatures.\n\n## Who Needs This Policy\n\nIf you are in or do business in the EU or UK you need this policy. For more details, see the GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide).\n\nThe rules are more strict if you are soliciting people or selling a product with personal data; in this circumstance, use a policy and privacy notice from your attorney.\n\n## The Template\n\nPrivacy Policy Template (Google Doc) (https://docs.google.com/document/d/1ABRjnY0ROr06mwfW7dO10zOWNVG_LUY2X3Hzs5gPcU8/edit?usp=sharing)\n\nGeneral Data Protection Regulation is a Regulation in EU law on data protection and privacy in the EU and the European Economic Area. Any organization in the EU or UK or dealing with people in the EU or UK is expected to be compliant with GDPR regulation.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "89eb7651-5deb-4b80-a635-e98286644dca",
-      "slug": "private-limited-companies-plcs",
-      "title": "Private Limited Companies (PLCs)",
-      "url": "https://resourceportal.antientropy.org/docs/private-limited-companies-plcs",
-      "description": "A reference guide explaining Private Limited Company (PLC) structure, setup requirements, registration steps, and operational obligations for UK businesses",
-      "keywords": [
-        "articles of association",
-        "Companies House registration",
-        "corporation tax",
-        "independentcontractor",
-        "PAYE system",
-        "PLC",
-        "SIC code",
-        "UK"
-      ],
-      "tags": [
-        "independentcontractor",
-        "PLC",
-        "UK"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "UK Nonprofits and Charities",
-        "UK Governance References and Definitions"
-      ],
-      "readingTime": 2,
-      "createdAt": "2022-10-11T13:51:29.515Z",
-      "modifiedAt": "2022-10-11T13:51:29.515Z",
-      "firstPublishedDate": "2022-10-11T13:51:29.535Z",
-      "lastPublishedDate": "2022-10-11T13:51:29.535Z",
-      "contentText": "Private Limited Companies (PLCs) are businesses that are legally separated from their owners, and therefore have separate finances, unlike a sole trader (https://resourceportal.antientropy.org/docs/sole-trader). PLCs are seen as more professional and credible than sole traders and are preferred by financial institutions for business accounts and transactions.\n\n**There are two types of PLCs:**\n\n- Limited by shares\n- Limited by guarantees (non-profit organizations)\n\n### Requirements to set up a PLC:\n\n- Minimum of one director and one member, which can be the same person\n- Member must be at least 16 years old\n- Not a disqualified director or undischarged bankruptcy\n\nYou can apply through a company formation agent, which takes about 3 to 6 working hours. You can find a list of formation and company secretarial agents here (https://www.gov.uk/government/publications/formation-and-company-secretarial-agents/company-formation-agents-and-secretarial-agents).\n\n### How to Register your PLC and Needed Documentation\n\n###\n\n**1.** Chose an official name\n\n- It needs to end with ‘ltd’ or ‘Limited’\n- It’s recommended that you do not use your name as HMRC may flag you as an employee under the IR35 legislation (https://www.gov.uk/guidance/understanding-off-payroll-working-ir35).\n\n**2.** Registered office address\n\n**3.**Standard industrial classification of economic activities (SIC) (https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic) - The SIC code defines your business’ activities/operations\n\n**4.** Memorandum of association and articles of association (https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies)\n\n**5.** Registration with the Companies House (https://www.tax.service.gov.uk/register-your-company/setting-up-new-limited-company?_ga=2.219767772.458173448.1658453446-671054591.1654181727) and HMRC (https://www.gov.uk/limited-company-formation/set-up-your-company-for-corporation-tax?step-by-step-nav=37e4c035-b25c-4289-b85c-c6d36d11a763) for corporation tax\n\n### PLC Business Requirements\n\n- File annual accounts and an annual confirmation statement with Companies House\n- Submit a company tax return to HMRC\n - As the director of your PLC, you need to file a Self Assessment tax return in your personal capacity as well.\n - If you get your salary from your own PLC, then you need to do it through the PAYE (https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye) system (for taxes and NIC payments)\n- Pay corporation tax\n- Keep detailed financial records of your business - (profits, losses, expenses)\n\n**PLC Advantages:**\n\n- Because company finances are separate from personal assets, there’s limited liability in case of business losses or failure. The company operates as a separate legal entity as its owner/director/employees.\n- PLCs are seen as more professional and credible than sole traders.\n- Having a PLC is more tax efficient. For instance, limited companies pay 19% corporation tax on profits, compared to 20-45% income tax for sole traders. PLCs can also claim tax-deductible costs and allowances.\n- Lower income tax and NIC contributions if you pay yourself through a combination of salary and dividends.\n\n**PLC Disadvantages:**\n\n- Your personal information is publicly listed on the Companies House website when you set up your own PLC (Name, official address, birthday, telephone number).\n- It can get confusing to do accounting for your business, which is why it’s recommended that you hire a CPA for advice and/or assistance.",
       "alternateSlugs": []
     },
     {
@@ -3326,6 +3131,90 @@
       "firstPublishedDate": "2025-12-17T22:06:13.328Z",
       "lastPublishedDate": "2025-12-17T22:06:13.328Z",
       "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nThis document is designed to confirm that Anti Entropy's policies meet all applicable Coefficient Giving minimum standards for organizational policies.\n\n## Requirements That Do Not Apply\n\n- **Requirement (4) - Event/Venue Code of Conduct:** NOT APPLICABLE - Anti Entropy does not run events with 10+ attendees or operate venues/coworking spaces regularly used by people outside the organization\n - **Note:** fiscally sponsored SparkWell Project that runs events with 10+ attendees or operates venues/coworking spaces regularly used by people outside the organization will be required to have their own Event/Venue Code of Conduct policy.\n- **Requirement (5) - Safeguarding Minors:** NOT APPLICABLE - Anti Entropy does not engage in activities with minors\n\n## Requirement (1): Sexual Misconduct Policy ✓\n\n**Primary Policy:** Anti-Harassment & Bullying Policy + Grievance Policy + Misconduct & Discipline Policy\n\nRequirement | Status | Where Covered |\n(1a) Defines sexual misconduct with examples | ✓ | Anti-Harassment Policy, Section 2 |\n(1b) Prohibits sexual misconduct | ✓ | Anti-Harassment Policy, Section 2 |\n(1c) Clear complaints process | ✓ | Anti-Harassment Policy, Section 6; Grievance Policy |\n(1d) Guidance for reporting about leadership/board without revealing identity | ✓ | Anti-Harassment Policy, Section 6.1.5 |\n(1e) Forbids retaliation | ✓ | Anti-Harassment Policy, Section 10; Grievance Policy, Section 5.4 |\n(1f) Commits to prompt, impartial, fair adjudication | ✓ | Anti-Harassment Policy, Section 7; Grievance Policy |\n(1g) Addresses non-employee sexual misconduct | ✓ | Anti-Harassment Policy, Section 1.3 |\n(1h) Requires bringing complaints against leadership/board to board's attention | ✓ | Anti-Harassment Policy, Section 7.4 |\n(1i) Complies with applicable laws | ✓ | Anti-Harassment Policy, Section 1.6 |\n(1j) Accessible and regularly communicated to staff | ✓ | Anti-Harassment Policy, Section 13.2 |\n\n## Requirement (2): Work-Relevant Romantic Relationships Policy ✓\n\n**Primary Policy:** Conflicts of Interest Policy (with new Section 6.4)\n\nRequirement | Status | Where Covered |\n(2a) Managers must disclose relationships within reporting line | ✓ | COI Policy, Section 6.4.2 |\n(2b) All employees must disclose relationships creating COIs | ✓ | COI Policy, Section 6.4.3 |\n(2b-i) Specific example: hiring/internship relationships | ✓ | COI Policy, Section 6.4.3.2.2 (Hiring contexts) |\n(2b-ii) Specific example: grantmaker/grantee relationships | ✓ | COI Policy, Section 6.4.3.2.2 (Grantmaking contexts) |\n(2b-iii) Specific example: financial transaction relationships | ✓ | COI Policy, Section 6.4.3.2.2 (Financial transactions) |\n(2c) Organization required to address COIs from relationships | ✓ | *COI Policy, Section 6.4.4 |\n(2d) Clear guidance on whom to contact with questions | ✓ | COI Policy, Section 6.4.5 |\n\n## Requirement (3): Board Code of Conduct ✓\n\n**Primary Policy:** Board Code of Conduct (new standalone policy)\n\nRequirement | Status | Where Covered |\n(3a) Board members commit to refrain from sexual misconduct | ✓ | Board Code of Conduct, Section 2 |\n(3b) Board members disclose relationships with employees/board members | ✓ | Board Code of Conduct, Section 3.1 |\n(3c) Board members disclose relationships with external stakeholders | ✓ | Board Code of Conduct, Section 3.1 |\n(3d) Board must take COI mitigation measures | ✓ | Board Code of Conduct, Section 4 |",
+      "alternateSlugs": []
+    },
+    {
+      "id": "4ac43113-f3a5-4920-9bc4-d618e68400e4",
+      "slug": "sparkwell-compassionate-leave-policy",
+      "title": "SparkWell Compassionate Leave Policy",
+      "url": "https://resourceportal.antientropy.org/docs/sparkwell-compassionate-leave-policy",
+      "description": "A template compassionate leave policy for SparkWell fiscal sponsorship program participants establishing paid leave entitlements and procedures",
+      "keywords": [
+        "documentation requirements",
+        "EOR provider precedence",
+        "five days paid leave",
+        "qualifying reasons",
+        "reasonable accommodations"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Handbook",
+        "SparkWell Policies",
+        "SparkWell Absence and Vacation Policies"
+      ],
+      "readingTime": 3,
+      "createdAt": "2025-10-22T21:10:52.219Z",
+      "modifiedAt": "2025-10-22T21:10:52.219Z",
+      "firstPublishedDate": "2025-10-22T21:10:52.219Z",
+      "lastPublishedDate": "2025-10-22T21:10:52.219Z",
+      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n## 1. About this Policy\n\n1.1. Compassionate leave is paid leave granted upon request at your supervisor's discretion. It provides time off to deal with the death or serious illness of a family member or close personal relationship, or other significant personal emergencies.\n\n1.2. This policy does not form part of any employment contract and may be amended at any time.\n\n1.3. **Important Note:** Employees who are contracted under an Employer of Record (EOR), such as Deel, will need to follow the policies of the EOR provider and, where they differ, the EOR policy takes precedence.\n\n## 2. Eligibility\n\n2.1. All employees are eligible for compassionate leave from their first day of employment.\n\n## 3. Leave Entitlement\n\n3.1. You are granted up to five days paid compassionate leave in any calendar year (January 1 - December 31), unless additional time is required by state law.\n\n3.2. Beyond five days in any calendar year requires agreement with your supervisor, including how much is paid versus Unpaid Leave. This is at management's discretion based on operational needs and financial resources.\n\n3.3. Compassionate leave entitlement resets each calendar year and does not carry over. Unused compassionate leave days cannot be paid out.\n\n3.4. Compassionate leave days are not subtracted from your Vacation allowance.\n\n## 4. Qualifying Reasons\n\n4.1. Compassionate leave is generally granted for:\n\n- Death of an immediate family member (spouse, partner, child, parent, sibling)\n- Death of an extended family member (grandparent, grandchild, aunt, uncle, in-law)\n- Death of a close friend or someone significant in your life\n- Attending funerals or memorial services\n- Supporting a family member or someone close to you with a serious or terminal illness\n- Other significant personal emergencies or compassionate circumstances\n\n4.2. This list is not exhaustive. If you are unsure whether your situation qualifies, discuss it with your supervisor.\n\n## 5. Requesting Compassionate Leave\n\n5.1. Provide your supervisor with at least 48 hours advance notice of your intention to take compassionate leave, unless providing such notice is not reasonable or practicable.\n\n5.2. **Emergency Situations**: We understand that compassionate situations often arise suddenly. If you cannot provide 48 hours notice due to the nature of the emergency, notify your supervisor as soon as reasonably possible, even if this is after the leave has begun.\n\n5.3. Requests should include:\n\n- The reason for the leave\n- The expected duration of leave\n- Your anticipated return date\n\n## 6. Documentation\n\n6.1. We may request documentation (such as a funeral notice, death certificate, or other verification) for compassionate leave, particularly for extended absences beyond five days. We will handle all such information with sensitivity and confidentiality.\n\n## 7. Additional Support\n\n7.1. If you may need more time beyond your compassionate leave entitlement, or may need other Reasonable Accommodations, talk with your supervisor and we'll use best efforts to work with you to see what might be appropriate.\n\n7.2. Options may include:\n\n- Using accrued Vacation time\n- Unpaid Leave\n- Flexible work arrangements during your transition back to work\n- Connection to employee assistance resources, if available\n\n## 8. Returning from Compassionate Leave\n\n8.1. If you need to extend your compassionate leave beyond what was originally approved, contact your supervisor as soon as possible to discuss options.\n\n8.2. Upon your return, your supervisor may check in with you to ensure you have the support you need and to discuss any temporary work adjustments that might be helpful during your transition back.\n\n8.3. We recognize that grief and difficult personal circumstances don't follow a set timeline. Please communicate with your supervisor if you continue to need support or flexibility after returning to work.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "9eb31e6b-b8b6-48cc-bc7b-98e1a83e0bf7",
+      "slug": "sparkwell-confidentiality-policy",
+      "title": "SparkWell Confidentiality Policy",
+      "url": "https://resourceportal.antientropy.org/docs/sparkwell-confidentiality-policy",
+      "description": "A template confidentiality policy for nonprofit staff, contractors, board members, and volunteers that defines protected information categories and breach consequences.",
+      "keywords": [
+        "breach disciplinary action",
+        "confidential information categories",
+        "donor information protection",
+        "NLRA whistleblower protections",
+        "SparkWell Projects"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Handbook",
+        "SparkWell Policies",
+        "SparkWell Conduct Policies"
+      ],
+      "readingTime": 3,
+      "createdAt": "2025-10-22T22:18:57.359Z",
+      "modifiedAt": "2025-10-22T22:18:57.359Z",
+      "firstPublishedDate": "2025-10-22T22:18:57.359Z",
+      "lastPublishedDate": "2025-10-22T22:18:57.359Z",
+      "contentText": "# Confidentiality Policy\n\n**Applies to:** Employees, Contractors, Board Members, Volunteers\n**Last edited:** October 22, 2025\n\n### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n## 1. About this Policy\n\n1.1. Protecting confidential information is essential to Anti Entropy's mission, reputation, and legal obligations.\n\n1.2. As a nonprofit, we handle sensitive information about donors, staff, partners, and SparkWell Projects.\n\n1.3. This policy applies to all employees, contractors, board members, and volunteers with access to Anti Entropy's confidential information.\n\n1.4. This policy does not form part of any employment contract and may be amended at any time.\n\n## 2. What Is Confidential Information?\n\n2.1. **Confidential information** is any non-public information that could harm Anti Entropy, our stakeholders, or SparkWell Projects if disclosed without authorization, including:\n\n2.1.1. **Personnel:** Personal information, compensation, health records, performance reviews\n\n2.1.2. **Financial:** Bank accounts, budgets, grant details, SparkWell Project finances\n\n2.1.3. **Donors:** Contact information, giving amounts, donor conversations and strategies\n\n2.1.4. **Organizational:** Strategic plans, board materials, legal documents, internal communications\n\n2.1.5. **SparkWell Projects:** Applications, finances, strategies, beneficiary information\n\n2.1.6. **Technology:** Passwords, databases, systems, proprietary tools\n\n### 2.2. What Is NOT Confidential\n\n2.2.1. Information already public or on our website\n\n2.2.2. Employee discussions about wages and working conditions (protected by NLRA)\n\n2.2.3. Information disclosed under whistleblower protections (see Whistleblowing policy)\n\n2.2.4. Reports to government agencies about suspected violations\n\n2.2.5. **When in doubt, ask the Board President before disclosing.**\n\n## 3. SparkWell Projects\n\n### 3.1. Anti Entropy Will\n\n3.1.1. Maintain Project information confidentially\n\n3.1.2. Share only on need-to-know basis\n\n3.1.3. Protect Project information as carefully as our own\n\n### 3.2. Project Leads Must\n\n3.2.1. Protect Anti Entropy's confidential information\n\n3.2.2. Establish confidentiality practices for their teams\n\n3.2.3. Report any breaches immediately\n\n3.2.4. Get permission before discussing other Projects\n\n## 4. Protecting Confidential Information\n\n### 4.1. When You Can Share\n\n4.1.1. Only share confidential information when:\n\n- Required to perform your job\n- Authorized by Board President\n- Required by law or legal process\n- Protected under whistleblower laws\n\n### 4.2. When You Cannot Share\n\n4.2.1. Never share confidential information:\n\n- With family, friends, or on social media\n- In public places where others can overhear\n- With unauthorized third parties\n- For personal gain\n- After employment ends (obligations continue)\n\n### 4.3. Practical Measures\n\n**4.3.1. Digital:**\n\n- Lock computers when away\n- Use strong passwords; never share them\n- Don't email confidential info to personal accounts\n- Use secure connections for remote work\n\n**4.3.2. Physical:**\n\n- Don't leave confidential documents visible\n- Shred before discarding\n- Close doors for sensitive discussions\n- Be aware who can overhear\n\n**4.3.3. Special considerations:**\n\n- **Donors:** Don't discuss giving amounts or donor info without permission\n- **Projects:** Don't discuss Project finances or operations outside appropriate channels\n- **Board materials:** Highly confidential; don't share externally\n\n## 5. Consequences\n\n5.1. Breaches result in disciplinary action per the Misconduct & Discipline policy:\n\n5.1.1. **Minor/accidental:** Warning, training\n\n5.1.2. **Serious:** Final warning, suspension, removal of access\n\n5.1.3. **Gross misconduct:** Immediate termination, legal action, law enforcement referral\n\n5.2. Breaches may also result in personal civil liability, regulatory penalties, criminal charges, and damage to professional reputation.\n\n5.3. **Unauthorized disclosure of highly sensitive information (bank accounts, donor financial details, health records) may result in immediate termination.**\n\n## 6. Whistleblower Protections\n\n6.1. This policy does not prevent you from:\n\n6.1.1. Reporting suspected illegal conduct to authorities\n\n6.1.2. Filing complaints with regulatory agencies (EEOC, OSHA, IRS, etc.)\n\n6.1.3. Participating in government investigations\n\n6.1.4. Discussing wages and working conditions (NLRA-protected)\n\n6.2. You do not need permission to exercise these legal rights. See Whistleblowing policy for details.\n\n## 7. After You Leave\n\n7.1. **Confidentiality obligations continue indefinitely after employment ends.**\n\n7.2. You must:\n\n7.2.1. Not disclose information learned during your time with Anti Entropy\n\n7.2.2. Return all documents and equipment\n\n7.2.3. Delete all organizational information from personal devices\n\n7.2.4. Sign certification of compliance\n\n## 8. Questions and Reporting\n\n8.1. **If unsure whether information is confidential:** Ask Board President before disclosing.\n\n8.2. **If you witness a breach:** Report immediately to Board President (or another board member if it involves the Board President).\n\n8.3. **If you accidentally breach confidentiality:** Report immediately and honestly. Early reporting may reduce consequences; cover-ups will be treated more seriously.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "880bdfe6-2f0a-46c5-aa62-ec7f3020c917",
+      "slug": "sparkwell-conflicts-of-interest-policy",
+      "title": "SparkWell Conflicts of Interest Policy",
+      "url": "https://resourceportal.antientropy.org/docs/sparkwell-conflicts-of-interest-policy",
+      "description": "A template conflicts of interest policy for nonprofit board members, officers, employees, and contractors to disclose financial interests and recuse from decisions.",
+      "keywords": [
+        "annual affirmation statements",
+        "appearance of conflict",
+        "financial interest",
+        "interested person definition",
+        "SparkWell Projects"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Handbook",
+        "SparkWell Policies",
+        "SparkWell Conduct Policies"
+      ],
+      "readingTime": 10,
+      "createdAt": "2025-12-17T21:46:55.371Z",
+      "modifiedAt": "2025-12-17T21:46:55.371Z",
+      "firstPublishedDate": "2025-10-22T21:59:36.204Z",
+      "lastPublishedDate": "2025-12-17T21:46:55.371Z",
+      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n## 1. About this Policy\n\n1.1. This policy protects Anti Entropy's interests when contemplating transactions or arrangements that might benefit individuals with existing relationships to the organization.\n\n1.2. This policy applies to all board members, officers, employees, and contractors.\n\n1.3. This policy does not form part of any employment or contractor agreement and may be amended at any time.\n\n1.4. Compliance with this policy is mandatory. Violations may result in disciplinary action up to and including termination or removal from the board.\n\n## 2. Purpose\n\n2.1. Anti Entropy is committed to the highest professional and ethical standards. This policy supplements applicable state and federal laws governing conflicts of interest for nonprofit organizations.\n\n2.2. Anti Entropy values board members, officers, and staff who have knowledge of and engagement with other nonprofits, potential SparkWell Projects, and parties operating in the sector.\n\n2.3. However, the organization must maintain transparency, fairness, and integrity in decision-making by avoiding any situation involving unfair influence, favoritism, or improper behavior.\n\n2.4. **Appearance of conflict:** Even when no actual conflict exists, situations that could reasonably appear improper to an outside observer must be disclosed and addressed.\n\n## 3. Policy Statement\n\n3.1. To ensure impartial decision-making:\n\n3.1.1. All actual, potential, or apparent conflicts of interest must be fully disclosed before a decision is made\n\n3.1.2. No board member may participate in any decision in which they have a conflict of interest (other than providing information)\n\n3.1.3. Board members, officers, and staff must continuously review their outside interests and relationships for conflicts\n\n3.1.4. All conflicts must be promptly disclosed to the organization\n\n## 4. Definitions\n\n### 4.1. Interested Person\n\n4.1.1. Any current or former board member or officer, or any current employee or contractor, who has a direct or indirect financial interest.\n\n### 4.2. Officers\n\n4.2.1. Board President, Board Secretary, Board Treasurer, and any other individuals designated as officers by the Board.\n\n### 4.3. Financial Interest\n\n4.3.1. A person has a financial interest if they have, directly or indirectly, through business, investment, or family:\n\n- An ownership or investment interest in any entity with which Anti Entropy has a transaction or arrangement\n- A compensation arrangement with Anti Entropy or with any entity or individual with which Anti Entropy has a transaction or arrangement\n- A potential ownership, investment interest, or compensation arrangement with any entity or individual with which Anti Entropy is negotiating\n\n### 4.4. Compensation\n\n4.4.1. Includes direct and indirect remuneration as well as gifts or favors that are not insubstantial.\n\n### 4.5. Important Note\n\n4.5.1. A financial interest is not necessarily a conflict of interest. The Board decides whether a conflict exists.\n\n## 5. Common Conflict Scenarios Requiring Disclosure\n\n### 5.1. SparkWell-Related\n\n5.1.1. You or a family member is employed by or serves on the board of a SparkWell Project applicant or current Project\n\n5.1.2. You have a financial interest in a vendor being considered for a SparkWell Project\n\n5.1.3. You recommended a SparkWell applicant and have an ongoing relationship with the Project Lead\n\n5.1.4. You have a personal or financial relationship with someone applying to SparkWell\n\n### 5.2. Vendor/Service Provider\n\n5.2.1. You or a family member owns or works for a potential vendor\n\n5.2.2. You receive compensation or gifts from a current or potential vendor\n\n5.2.3. You have a business relationship with someone bidding on Anti Entropy work\n\n### 5.3. Grantmaking/Fundraising\n\n5.3.1. You serve on the board of an organization that may fund Anti Entropy\n\n5.3.2. You have a relationship with a major donor or potential donor\n\n5.3.3. You are applying for funding from an organization where you have connections\n\n### 5.4. Other\n\n5.4.1. You are considering outside employment that may conflict with Anti Entropy duties\n\n5.4.2. A family member's employer does business with Anti Entropy\n\n5.4.3. You have an ownership interest in a company considering a transaction with Anti Entropy\n\n### 5.5. General Rule\n\n5.5.1. **When in doubt, disclose.** It's better to disclose a potential conflict that turns out to be immaterial than to fail to disclose an actual conflict.\n\n## 6. Special Considerations\n\n### 6.1. SparkWell Projects and Grantees\n\n6.1.1. An individual has a financial interest in an actual or potential SparkWell Project if they have, directly or indirectly through family:\n\n- Employment or governing relationship (board member, officer)\n- The potential to receive any substantial benefit not otherwise available to the public\n\n### 6.2. Philanthropic Organizations\n\n6.2.1. Board members, officers, or staff may serve on the board of a philanthropic organization that may also fund Anti Entropy, provided:\n\n- The Board approves the service (documented in minutes)\n- The representative is not compensated by the philanthropic organization\n- The Board re-approves continuation every two years\n\n### 6.3. SparkWell Program Conflicts\n\n**6.3.1. Project Application Review:**\n\n- Disclose connections to applicants before review\n- Do not participate in acceptance decisions\n- Document disclosure and recusal\n\n**6.3.2. Ongoing Project Relationships:**\n\n- Disclose personal or financial relationships with Project Leads or team members\n- Monitor for appropriate boundaries\n\n**6.3.3. Project Vendor Selection:**\n\n- Disclose Anti Entropy connections to Project vendors\n- Do not influence the Project's vendor decision\n- Project Lead retains full authority\n\n### 6.4. Work-Relevant Romantic and Sexual Relationships\n\n#### 6.4.1. Purpose\n\nRomantic and sexual relationships between individuals in certain work-related contexts can create actual or perceived conflicts of interest, compromise professional judgment, or create power imbalances that affect workplace fairness and integrity. This section establishes disclosure and management requirements for such relationships.\n\n#### 6.4.2. Mandatory Disclosure for Managers\n\n6.4.2.1. **Managers must immediately disclose** any romantic or sexual relationship (current or, if still creating a conflict of interest, former) with anyone in their direct or indirect reporting line to:\n\n- Board President, OR\n- Another designated board member if the Board President is involved in the relationship\n\n6.4.2.2. \"Reporting line\" includes:\n\n- Direct reports\n- Indirect reports (reports of reports)\n- Anyone the manager supervises, evaluates, or has authority over\n\n6.4.2.3. Disclosure must occur at the earliest possible time, ideally before the relationship begins or as soon as the reporting relationship is established.\n\n#### 6.4.3. Disclosure Requirements for All Staff\n\n6.4.3.1. **All employees and contractors must disclose** romantic or sexual relationships (current or, if still creating a conflict of interest, former) when they could lead to an actual or perceived conflict of interest that would be an ongoing or regular concern.\n\n6.4.3.2. **Disclosure is required** (to Board President or designated contact) for romantic or sexual relationships with:\n\n**6.4.3.2.1. Other employees or contractors** when the relationship creates or could create:\n\n- Influence over employment decisions (hiring, promotion, compensation, termination)\n- Supervision or evaluation authority\n- Access to confidential information that benefits one party\n- Allocation of work assignments, resources, or opportunities\n- Other professional advantages or disadvantages\n\n**6.4.3.2.2. External stakeholders** including:\n\n-\n\n**Hiring and recruitment contexts:**\n\n - Applicants for employment or contractor positions when you are a decision-maker or active stakeholder in the hiring process\n - Work trial participants or interns when you are involved in their selection, supervision, or evaluation\n-\n\n**Grantmaking contexts:**\n\n - Individual grantees when you are a decision-maker on funding decisions affecting that individual\n - Leadership or key personnel of grantee organizations when you are a decision-maker on funding decisions for that organization\n - SparkWell Project applicants or Project Leads when you are involved in acceptance or oversight decisions\n-\n\n**Financial and business transactions:**\n\n - Vendors, contractors, or service providers when you are a decision-maker on contracts or purchasing\n - Partners in financial transactions (acquisitions, investments, major purchases)\n - Anyone who would financially benefit from decisions you make on behalf of Anti Entropy or SparkWell Projects\n-\n\n**Other stakeholder relationships:**\n\n - Board members of organizations we partner with or fund\n - Donors or potential donors when you are involved in fundraising or donor relations\n - Collaborators on projects where you have decision-making authority\n\n6.4.3.3. **Limited exceptions for minor conflicts:** For relationship-related conflicts of interest that would only be relevant for a small number of specific, one-time decisions (not ongoing authority), staff may recuse themselves from those specific decisions without disclosing the romantic or sexual relationship, provided:\n\n- The recusal is documented\n- The conflict is truly limited to specific discrete decisions\n- The recusal fully addresses the conflict of interest\n\n6.4.3.4. **When in doubt, disclose.** If you are uncertain whether a relationship requires disclosure, contact the Board President or another board member for guidance.\n\n#### 6.4.4. Addressing Conflicts from Romantic Relationships\n\n6.4.4.1. When a romantic or sexual relationship is disclosed or discovered, Anti Entropy will assess the conflict of interest and determine appropriate measures, which may include:\n\n- **Reporting line changes:** Reassigning one or both individuals to eliminate supervisory relationships\n- **Decision-making restrictions:** Removing individuals from decisions affecting their partner\n- **Role modifications:** Adjusting responsibilities to eliminate conflicts\n- **Increased oversight:** Additional review of decisions that could be affected by the relationship\n- **Documentation requirements:** Enhanced documentation of decisions involving both parties\n- **In rare cases:** Reassignment or, if no other options exist, separation of employment\n\n6.4.4.2. **Relationships within reporting lines** are particularly serious and will typically require immediate restructuring to eliminate the direct or indirect reporting relationship.\n\n6.4.4.3. The organization will work to find solutions that minimize disruption while protecting organizational integrity and fairness.\n\n6.4.4.4. Failure to disclose a relationship when required, or failure to comply with conflict mitigation measures, may result in disciplinary action under the Misconduct & Discipline policy.\n\n#### 6.4.5. Contact for Questions and Guidance\n\n6.4.5.1. **Before a relationship begins** or if you have questions about disclosure requirements, contact:\n\n- **Primary contact:** Board President Jeffrey Poche\n- **Alternative contact:** Any board member if the Board President is involved\n\n6.4.5.2. Conversations about potential conflicts can be held confidentially to help you understand your disclosure obligations before a situation arises.\n\n6.4.5.3. Staff are encouraged to seek guidance proactively rather than after a conflict has developed.\n\n#### 6.4.6. Annual Disclosure\n\n6.4.6.1. As part of the annual conflict of interest statement process (Section 11), all staff may be asked to affirm whether they have any romantic or sexual relationships that require disclosure under this policy.\n\n6.4.6.2. Even if no relationships require disclosure, staff must complete the annual statement.\n\n## 7. Procedures\n\n### 7.1. Duty to Disclose\n\n7.1.1. When an actual or possible conflict exists, the interested person must:\n\n- Disclose the existence of the financial interest or other potential conflict\n- Provide all material facts to board members considering the transaction\n- Answer questions about the situation\n\n### 7.2. Determining Whether a Conflict Exists\n\n7.2.1. After disclosure and discussion:\n\n- The interested person leaves the meeting during the conflict determination\n- Remaining board members decide if a conflict exists\n\n### 7.3. Addressing the Conflict\n\n7.3.1. **Presentation:** The interested person may present information but must leave during discussion and voting\n\n7.3.2. **Investigation:** The Board may appoint a disinterested person or committee to investigate alternatives\n\n7.3.3. **Due Diligence:** The Board determines whether Anti Entropy can obtain a more advantageous arrangement without a conflict\n\n7.3.4. **Decision:** If not, the Board determines by majority vote of disinterested directors whether the transaction is in Anti Entropy's best interest and fair. The Board then decides whether to proceed.\n\n## 8. Violations\n\n8.1. If the Board believes someone failed to disclose a conflict:\n\n8.1.1. Inform the person and allow them to explain\n\n8.1.2. Investigate as warranted\n\n8.1.3. If violation confirmed, take appropriate disciplinary and corrective action\n\n## 9. Records\n\n9.1. Meeting minutes must document:\n\n9.1.1. Names of persons with conflicts, nature of the interest, actions taken, and Board's decision\n\n9.1.2. Names of persons present for discussions and votes, content of discussion including alternatives, and record of votes\n\n## 10. Compensation\n\n### 10.1. Board Members\n\n10.1.1. Board members serve without compensation\n\n10.1.2. Board members cannot vote on their own expense reimbursement\n\n10.1.3. If the Board considers compensating board members, follow conflict procedures in this policy\n\n### 10.2. Employees and Contractors\n\n10.2.1. Employees and contractors on the board or a committee cannot vote on their own compensation\n\n10.2.2. They may provide information about their role and market rates but must recuse themselves from compensation decisions\n\n## 11. Annual Statements\n\n### 11.1. Required Affirmations\n\n11.1.1. Each board member and officer shall annually sign a statement affirming they:\n\n- Have received and read this policy\n- Understand and agree to comply with the policy\n- Understand Anti Entropy's tax-exempt purpose and obligations\n\n11.1.2. Employees and contractors may be required to complete annual statements at the Board President's discretion\n\n### 11.2. Timeline\n\n11.2.1. Annual statements must be completed:\n\n- Upon joining the board, becoming an officer, or starting employment/engagement\n- Annually thereafter (typically beginning of calendar year)\n- Whenever a new potential conflict arises (supplemental disclosure)\n\n11.2.2. The Board President is responsible for ensuring statements are collected and maintained\n\n## 12. Periodic Reviews\n\n12.1. The Board will review annually:\n\n12.1.1. Whether compensation arrangements are reasonable and based on market rates\n\n12.1.2. Whether transactions with related parties are fair and advance Anti Entropy's mission\n\n12.1.3. Whether this policy is being followed\n\n12.1.4. Whether the policy needs updating\n\n12.2. Reviews may be conducted by the Board or a designated committee, with outside advisors if needed.\n\n## 13. Questions and Guidance\n\n13.1. Questions about this policy or whether a situation constitutes a conflict should be directed to Board President Jeffrey Poche.\n\n13.2. For situations involving the Board President, contact another board member.\n\n## 14. Policy Updates\n\n14.1. This policy will be reviewed annually and updated as needed to reflect changes in operations and applicable laws.",
       "alternateSlugs": []
     },
     {
@@ -3935,33 +3824,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "626404ef-ed96-498e-8096-5a8084883f92",
-      "slug": "policy-template-2",
-      "title": "Sponsored Worker Policy (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/policy-template-2",
-      "description": "",
-      "keywords": [
-        "sponsored worker",
-        "UK"
-      ],
-      "tags": [
-        "sponsored worker",
-        "UK"
-      ],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
-        "UK Specific"
-      ],
-      "readingTime": 1,
-      "createdAt": "2022-04-11T21:27:44.773Z",
-      "modifiedAt": "2022-04-11T21:27:44.773Z",
-      "firstPublishedDate": "2022-04-11T21:19:26.558Z",
-      "lastPublishedDate": "2022-04-11T21:27:44.815Z",
-      "contentText": "## About This Policy\n\nThis policy is to ensure the organization and any Sponsored Worker are in compliance with all applicable UK laws, statutes, rules, and requirements.\n\nThis policy is for maintaining the compliance of a current UK sponsored Worker.\n\n## Who Needs This Policy\n\nAny organization in the UK with active sponsored workers or who has had any sponsored workers in the last two years.\n\n## The Policy\n\nUK Sponsored Worker Policy (Google Docs) (https://docs.google.com/document/d/1Se2j1UaWvnR0tSK8L6dtyOC-lYezrAZ5G-ZKk093nhE/edit?usp=sharing)",
-      "alternateSlugs": []
-    },
-    {
       "id": "8c26258d-187f-43f3-bb11-510ce29cbe52",
       "slug": "staff-handover-process",
       "title": "Staff Handover Process",
@@ -4501,6 +4363,38 @@
       "alternateSlugs": []
     },
     {
+      "id": "7f64e781-bbef-4b3b-92dd-f0a3f089fa8b",
+      "slug": "us-corporate-bylaws",
+      "title": "US Corporate Bylaws",
+      "url": "https://resourceportal.antientropy.org/docs/us-corporate-bylaws",
+      "description": "A guide explaining how to create bylaws establishing nonprofit governance procedures, board structure, and operational requirements",
+      "keywords": [
+        "board meeting requirements",
+        "board member terms",
+        "Bylaws",
+        "Form 990 filing",
+        "officer positions",
+        "quorum procedures",
+        "US"
+      ],
+      "tags": [
+        "Bylaws",
+        "US"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-11-22T20:44:22.841Z",
+      "modifiedAt": "2022-11-22T20:44:22.841Z",
+      "firstPublishedDate": "2022-04-28T21:48:55.324Z",
+      "lastPublishedDate": "2022-11-22T20:44:22.864Z",
+      "contentText": "## About Bylaws\n\nBylaws are a nonprofit organization’s internal operating rules or organizational manual. The bylaws serve as guidance for the board members of a nonprofit. Typically, you create the bylaws and have comprehensive policies and resolutions to support the various activities and responsibilities of your board. Bylaws aim to establish procedures for holding elections, organizing meetings, quorum requirements, membership structure, and other operations. There is no specific language required by the IRS for writing bylaws, although you should check your state officials for any additional requirements.\n\n### Key Items In Bylaws\n\nRequired items for the bylaws to be established:\n\n- The number of annual meetings. *Must be at least one.*\n- Minimum and maximum board members. Most states require between two and three.\n- Establish the Charitable, Educational, or Scientific purpose of the org.\n- Officers of the board. Most states require a president and a secretary.\n\n### Governing Board Members\n\nBylaws are crucial to help dictate and govern the board members within a nonprofit. Typical items to include are:\n\n- How board members are chosen or hired\n- Board member roles\n- Board member term limits\n- Scope of powers of the board\n- The process should there be a vacancy on the board\n- Process and conditions of removal of a board member\n- How quorum is created *- typically when the majority or two-thirds of the board is present.*\n\nKeep in mind that your bylaws should not be too specific or include information that changes frequently. When changes occur to your bylaws you must submit the updates to the IRS through the annual Form 990 Filing. Keep your bylaws general and not specific to a person, or project. Examples of details to avoid include exact days and times for annual meetings, specific fundraising guidelines, and board member roles. Bylaws should also be reviewed every 2 years, at a minimum.\n\nHere are the best practices for writing bylaws (https://eforms.com/corporate-bylaws/#profit-vs-non-profit).\n\n## Bylaws Templates\n\neForms (Free Document Template Site) (https://eforms.com/corporate-bylaws/)\n The site has a bylaws template and links to state-specific bylaw templates. eForms is not associated with Anti Entropy.",
+      "alternateSlugs": []
+    },
+    {
       "id": "dd2a2d0d-76be-4fb7-8d18-363b36c32b83",
       "slug": "us-registered-agent",
       "title": "US Corporate Registered Agent",
@@ -4531,6 +4425,45 @@
       "firstPublishedDate": "2022-04-28T21:48:51.828Z",
       "lastPublishedDate": "2022-05-04T10:03:24.84Z",
       "contentText": "## What Is A Registered Agent (US Corporation)\n\nA nonprofit’s registered agent (legal entity registration) is a living person who will receive legal and other documents and forward them to the organization. This is becasue many laws and regulations require some notices to be mailed or delivered in person; the registered agent is the person who receives these items on behalf of the company.\n\nA registered agent can be an employee or a board member; there are also businesses who provide the service of being a registered agent for the organization.\n\nThe registered agent will also need to give an address that can receive mail and notifications. If your organization does not have a physical address, you can use your personal address or set up a PO box.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "c4df9701-c1d5-492d-a2f7-eda2366f2f33",
+      "slug": "us-independent-contractor-checklist",
+      "title": "US Independent Contractor Tax Checklist",
+      "url": "https://resourceportal.antientropy.org/docs/us-independent-contractor-checklist",
+      "description": "A checklist guide listing federal and state tax forms and filings required for independent contractors by business entity type",
+      "keywords": [
+        "disregarded entity",
+        "entity classification election",
+        "filings",
+        "Form 1040",
+        "Form 8832",
+        "Independent contractors",
+        "registration",
+        "Schedule C",
+        "Schedule SE",
+        "self-employment tax threshold",
+        "Taxes",
+        "US"
+      ],
+      "tags": [
+        "filings",
+        "Independent contractors",
+        "registration",
+        "Taxes",
+        "US"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "Independent Contractors"
+      ],
+      "readingTime": 2,
+      "createdAt": "2023-05-01T18:28:28.932Z",
+      "modifiedAt": "2023-05-01T18:28:28.932Z",
+      "firstPublishedDate": "2023-05-01T18:28:28.938Z",
+      "lastPublishedDate": "2023-05-01T18:28:28.938Z",
+      "contentText": "### Who is this article for?\n\nIndividuals starting as independent contractors or starting their own business and need guidance on what to file with the IRS and what to file with their state.\n\nAn independent contractor can be a sole proprietor (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc), a freelancer with an incorporated business, a professional with a Limited Liability Partnership, or a corporation. The \"independent\" in the independent contractor defines the contractor as a non-employee and independent of the company where they're doing contracted work.\n\nBelow are the various forms and filings needed at the federal (for the IRS) and state level based on the most common types of entities in the US for independent contractors. We strongly advise you to seek advice from a tax professional before filing and for assistance in filing your taxes.\n\nThe IRS offers electronic filing options (https://www.irs.gov/filing/e-file-options) as well as the IRS Free File (https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) for federal individual income tax returns. Take note of the type of business you've established to determine whether you will file taxes with your personal income or separately.\n\nFor additional steps on starting your business outside of federal and state filings, see our Independent Contractor Start Guide (https://resourceportal.antientropy.org/docs/independent-contractor-start-guide).\n\n### Sole Proprietorship (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc)\n\nSole proprietors do not have their business as a separate legal entity; therefore, taxes for the business are part of their personal tax returns.\n\n**IRS**\n\n- Form 1040 (https://www.irs.gov/pub/irs-pdf/f1040.pdf), U.S. Individual Income Tax Return\n- Form 1040-ES (https://www.irs.gov/pub/irs-pdf/f1040es.pdf), Estimated Tax for Individuals\n- Schedule C (https://www.irs.gov/pub/irs-pdf/f1040sc.pdf)- Profit or Loss from Business\n- Schedule SE (https://www.irs.gov/pub/irs-pdf/f1040sse.pdf) (Form 1040), Self-Employment Tax\n - Net earnings of $400 or more\n\n**State**\n\n- Business license or permit, if required by your state\n- Property taxes, if you own real estate, land, or any business property\n- Sales and excise taxes if you provide taxable products and services\n\nThe above filings need to be completed simultaneously as your personal tax returns. This means you must file by April 15 and then make quarterly payments in June, September, and January.\n\n### Single-member LLC (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa) (Disregarded entity)\n\nA single-member LLC not elected to become a corporation is considered a disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity). This means the LLC is not separate from the owner, like a sole proprietor.\n\n**IRS**\n\n- Form 1040 (https://www.irs.gov/pub/irs-pdf/f1040.pdf), U.S. Individual Income Tax Return\n- Form 1040-ES (https://www.irs.gov/pub/irs-pdf/f1040es.pdf), Estimated Tax for Individuals\n- Schedule C (https://www.irs.gov/pub/irs-pdf/f1040sc.pdf)- Profit or Loss from Business\n- Schedule SE (https://www.irs.gov/pub/irs-pdf/f1040sse.pdf) (Form 1040), Self-Employment Tax\n - Net earnings of $400 or more\n\n**State**\n\n- Annual Report with the Secretary of State, if required\n- Property taxes, if you own real estate, land, or any business property\n- Sales and excise taxes if you provide taxable products and services\n\n### Single-member LLC (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa) (Corporation)\n\nIf you choose to elect your single-member LLC into a corporation, you must file a separate return for the corporation and not file your business taxes with your personal return.\n You must file Form 8832 (https://www.irs.gov/forms-pubs/about-form-8832), Entity Classification Election when setting up your LLC.\n\n**IRS**\n\n- Form 1120 (https://www.irs.gov/forms-pubs/about-form-1120), US Corporation Income Tax Return\n- Form 1120-W (https://www.irs.gov/pub/irs-prior/f1120w--2021.pdf), Estimated Tax for Corporations\n\n**State**\n\n- File articles of amendment if there are any changes to the LLC\n- Property taxes, if you own real estate, land, or any business property\n- Sales and excise taxes, if you provide taxable products and services\n- Check with your state for other filing requirements\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.\n\nExcise taxes are taxes that are imposed on various goods, services and activities. Such taxes may be imposed on the manufacturer, retailer or consumer, depending on the specific tax.",
       "alternateSlugs": []
     },
     {
