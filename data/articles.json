@@ -1,13 +1,9 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-07-29T10:48:39+00:00",
-  "articleCount": 161,
-  "failedCount": 3,
-  "failures": {
-    "sole-proprietor-vs-single-member-llc": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc-whats-the-difference-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-whats-the-difference-usa: HTTP Error 429: Too Many Requests"
-  },
+  "generatedAt": "2026-07-30T10:34:08+00:00",
+  "articleCount": 164,
+  "failedCount": 0,
+  "failures": {},
   "articles": [
     {
       "id": "66225c7e-200e-4de0-beda-21780bbda8bf",
@@ -242,8 +238,8 @@
         "PLC",
         "Private Limited Companies",
         "UK",
-        "Umbrella Company",
-        "umbrella company"
+        "umbrella company",
+        "Umbrella Company"
       ],
       "tags": [
         "EOR",
@@ -543,8 +539,8 @@
       "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation-us",
       "description": "A template for drafting Articles of Incorporation required by US states to establish nonprofit charity status",
       "keywords": [
-        "articles of incorporation",
         "Articles of Incorporation",
+        "articles of incorporation",
         "board approval",
         "charity status application",
         "registered agent",
@@ -3087,6 +3083,103 @@
       "firstPublishedDate": "2026-05-04T20:17:43.195Z",
       "lastPublishedDate": "2026-05-05T14:03:55.213Z",
       "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this article\n\nPayments to Nigerian vendors and partners often take longer than other international transfers. Stricter compliance scrutiny on the receiving side, especially for transfers above $10,000, results in delays of several weeks. Preparing the right documentation upfront is the most effective way to keep payments moving.\n\nImportant disclaimer\n\nThis article was **created in May 2026** and will likely be partially out of date as things change. This article provides general operational guidance and is not legal, tax, or financial advice. Nigerian banking, foreign exchange, and anti-money laundering regulations change frequently. Confirm current requirements with the receiving bank and a qualified professional before relying on this information.\n\n## What to expect\n\n- Processing times of two to five weeks are not unusual for the first payment, particularly for transfers above $10,000.\n- Holds typically occur at the receiving Nigerian bank, not the sending bank. Once funds leave Mercury, downstream visibility is limited.\n- The receiving bank may request additional compliance documentation mid-transfer before releasing funds.\n- Bank-to-bank communication with Nigerian banks is often slow. Having the local recipient call the receiving bank's customer care line is usually faster than email.\n- Delays carry exchange rate risk, not just timing risk. If settlement happens in NGN at the rate on the release date, rather than the send date, naira volatility during the hold can meaningfully reduce the value the recipient receives.\n\n## What the recipient should prepare in advance\n\nAsk the local recipient to gather these before the transfer is initiated:\n\n- Invoice addressed to the sending organization, matching the payment amount and purpose.\n- MOU or partnership agreement documenting the relationship between sender and recipient.\n- Proof of engagement such as project documentation, scope of work, or prior correspondence.\n- SCUML certificate. Special Control Unit Against Money Laundering registration, issued by the EFCC. Required for Nigerian nonprofits and many other Designated Non-Financial Businesses to maintain bank accounts and clear international transfers. Registration is free.\n- Vendor legitimacy documents such as CAC registration, tax ID, and board resolution, where applicable.\n\n**Have the recipient notify their bank in advance that funds are inbound and share the invoice. Some banks will pre-position the file, which speeds clearance.**\n\n## What to do on the sending side\n\n- Match names exactly. Use the recipient organization's legal name ***exactly* as it appears on their bank account and SCUML/CAC documents**. Any discrepancy, even slight differences, can trigger a hold.\n- Confirm USD acceptance. Nigerian rules on USD versus NGN settlement are evolving. **Ask the recipient to confirm with their bank before initiating**.\n- Document purpose clearly in the wire memo and on the supporting invoice.\n- Build in extra time. Avoid scheduling time-sensitive disbursements (payroll, supply purchases) on a tight Nigerian payment timeline.\n\n## If a payment gets stuck\n\n- Ask Bookkeeping for the transaction receipts; when using Mercury Bank, we can give the Mercury receipt and the SWIFT receipt.\n- Have the local recipient **call (*not email*)** the receiving bank's customer care line and ask what additional documentation is needed.\n- Common late-stage requests include MOUs, proof of engagement, and SCUML clearance. Have these ready to send as soon as possible\n\nHeads up on evolving Nigerian regulations\n\nNigerian banking and FX rules change frequently. The Central Bank of Nigeria's March 2026 circular on diaspora remittances, effective May 1, 2026, requires International Money Transfer Operators to settle in naira through Authorized Dealer Banks. Confirm current rules with the recipient's bank before initiating large or recurring transfers.\n\n## Related external resources\n\nSCUML official portal (EFCC) (https://scuml.efcc.gov.ng/)\nVerify a SCUML certificate (https://scumlportal.efcc.gov.ng/scuml_verify.php)\nCentral Bank of Nigeria (https://www.cbn.gov.ng/)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "3289942f-2d23-4df6-b171-e58d278c7cd5",
+      "slug": "sole-proprietor-vs-single-member-llc-usa",
+      "title": "Single-Member LLC (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa",
+      "description": "A guide explaining single-member LLC formation, tax classification options, and state registration steps for US entrepreneurs",
+      "keywords": [
+        "Articles of Organization",
+        "corporate tax election",
+        "Disregarded Entity",
+        "EIN application",
+        "registered agent requirement",
+        "USA"
+      ],
+      "tags": [
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-13T23:10:07.019Z",
+      "modifiedAt": "2022-07-13T23:10:07.019Z",
+      "firstPublishedDate": "2022-07-13T23:10:07.077Z",
+      "lastPublishedDate": "2022-07-13T23:10:07.077Z",
+      "contentText": "## Single-Member LLC\n\nYou can form an LLC, even if you’re the only member, and choose a corporate tax status. As a Single-Member LLC, you are considered a “Disregarded Entity (https://resourceportal.antientropy.org/docs/disregarded-entity).” You can also elect for your LLC to be classified as a corporation.\n\n#### LLC as a Disregarded Entity:\n\nA Disregarded Entity means that your LLC is a separate legal entity from you as the owner.\n\n- You have the same tax obligations as a sole proprietorship\n- You can protect your personal assets from business liabilities with this structure\n- No need to file a separate business tax return\n- Activities in the LLC should also be reflected on the owner’s federal tax return\n- You can use your Social Security Number when filing for taxes if you don’t have employees\n\n#### LLC as a Corporation:\n\n- You, as an owner, are not liable for your business’ obligations\n- File tax returns and pay federal and state taxes\n- You can still use your Social Security Number when filing for taxes if you don’t have employees\n- You will need an EIN (Employer Identification Number (https://resourceportal.antientropy.org/docs/applying-for-an-ein)) if you’ll be reporting taxable income and loss\n\n#### How to Register a Single-Member LLC\n\nRegistering as an LLC may vary depending on the state where you’ll be working. Be sure to check the specific state requirements (https://www.nolo.com/legal-encyclopedia/form-llc-in-your-state-31019.html).\n\n-\n\nChoose a business name. Check with your Secretary of State's database if the name you want is already registered.\n\n-\n\nDesignate a registered agent (https://resourceportal.antientropy.org/docs/us-registered-agent)\n\n-\n\nPrepare your LLC Articles of Organization\n\n - Part of a formal legal document used to establish an LLC at the state level. These are used to create the rights, powers, duties, liabilities, and other obligations of LLC members and the LLC as a whole. Also referred to as a \"certificate of organization\" or a \"certificate of formation.\"\n - Filing requirements will vary depending on the state. Most states have templates or ready-to-use formats that you can just fill in as needed.\n - In some states, you may need to publish a notice in the newspaper showing your desire to register your LLC.\n-\n\nFile the Articles of Organization or formation documents\n\n-\n\nCreate an operating agreement for your LLC\n\n-\n\nObtain local and state business licenses\n\nMake sure to file the necessary returns and filings with your state. For federal taxes, it will depend on whether your Single-Member LLC is considered a “disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity)” by the IRS or if you elect to be a corporation.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "4410f71c-5dd9-4ade-a12e-10d38d5bb3dd",
+      "slug": "sole-proprietor-vs-single-member-llc",
+      "title": "Sole Proprietor (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc",
+      "description": "A guide for independent contractors establishing a sole proprietorship, covering structure, tax obligations, registration requirements, and liability limitations",
+      "keywords": [
+        "DBA registration",
+        "FICA taxes",
+        "fictitious business name",
+        "Form 1040-ES",
+        "Pass-Through Taxation",
+        "Schedule C",
+        "Schedule SE",
+        "self-employment taxes",
+        "USA"
+      ],
+      "tags": [
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-13T22:59:41.421Z",
+      "modifiedAt": "2022-07-13T22:59:41.421Z",
+      "firstPublishedDate": "2022-07-13T22:59:41.781Z",
+      "lastPublishedDate": "2022-07-13T22:59:41.78Z",
+      "contentText": "## Sole Proprietor\n\nIndependent contractors are generally considered Sole Proprietors. This type of business is the simplest and most common business structure. It’s inexpensive and straightforward because you, as the owner, are not a separate legal entity from your sole proprietorship.\n\nYou may need to obtain the proper business licenses and permits to offer your services in your state. It’s best practice to keep separate your business bank accounts and credit cards, so it’s easier to separate your business from personal finances.\n\n#### Filing Taxes as a Sole Proprietorship:\n\n- You will be subject to Pass-Through Taxation (https://resourceportal.antientropy.org/docs/pass-through-taxation)\n- You will only need your Social Security Number (not an Employee Identification Number)\n- Pay self-employment taxes\n- Pay both worker and employer share of FICA taxes\n- Report your business profits and losses to the IRS\n\n#### Disadvantages of a Sole Proprietorship:\n\n- Sole Proprietorships are commonly not protected from any business liabilities.\n - Legal action against the entity may affect both the entity's assets and your personal assets.\n- You can only operate under your legal name\n - Or file a DBA - “Doing Business As” to work around using your legal name\n\n#### How to Register a Sole Proprietorship\n\n**1. Choose your business name**\n As an independent contractor, you can use your own name without having to register it. If you're using your full name and adding a word or two after (i.e., John Smith Editorial), then you don't need to register it.\n\nYou will only need to register your name if you don't use your full name in your business name. It must be registered as a fictitious business name (assumed name or DBA, \"doing business as\"). For example, John Smith wants to name his business John Consulting.\n\nRegister either with the county clerk or state office (Department of State for some states)\n\n**2. If needed, get a professional or vocational license for your trade/service.**\n\n**3. Start paying estimated taxes to the IRS** - seek tax advice and assistance filing from a CPA or tax professional.\n\n- Form 1040 (https://www.irs.gov/pub/irs-pdf/f1040.pdf)\n- Form 1040-ES (https://www.irs.gov/pub/irs-pdf/f1040es.pdf)\n- Schedule C (https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) and Schedule SE (https://www.irs.gov/pub/irs-pdf/f1040se.pdf)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "37556162-4aa0-4968-ba76-805bc530ba34",
+      "slug": "sole-proprietor-vs-single-member-llc-whats-the-difference-usa",
+      "title": "Sole Proprietor vs Single Member LLC - What's the Difference? (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-whats-the-difference-usa",
+      "description": "A reference explaining the differences between sole proprietorship and single-member LLC structures for independent contractors starting a business.",
+      "keywords": [
+        "business liability separation",
+        "corporate tax election",
+        "disregarded entity",
+        "personal asset protection",
+        "singlememberLLC",
+        "soleproprietor",
+        "upfront formation costs",
+        "USA"
+      ],
+      "tags": [
+        "singlememberLLC",
+        "soleproprietor",
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-20T12:36:55.544Z",
+      "modifiedAt": "2022-07-20T12:36:55.544Z",
+      "firstPublishedDate": "2022-07-13T23:14:19.36Z",
+      "lastPublishedDate": "2022-07-20T12:36:55.562Z",
+      "contentText": "### Who is this article for?\n\nIndependent contractors or solo business owners looking to set up a business.\n\nIn general, there are two main business types for independent contractors. The table below gives a snapshot of the differences between each.\n\n[Image: LLC_Solep.png]\n\n#### Sole Proprietor\n\n- Simplest and most common business structure.\n- Inexpensive to form as there is little to no upfront cost\n- You, as the owner, are not a separate legal entity and therefore are not protected from business liabilities.\n\n*For more information on sole proprietors and how to register to become one, see the Sole Proprietor (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) article.*\n\n#### Single Member LLC\n\n- Can be formed with only one member and obtain corporate tax status.\n- Your business is separate from you; as the owner, therefore, your personal assets are protected from business liabilities.\n- Can be set up as a “disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity)” or as a “corporation”.\n\n*For more information on Single Member LLCs and how to register one, see Single Member LLC (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa).*",
       "alternateSlugs": []
     },
     {
