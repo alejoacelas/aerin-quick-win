@@ -1,3 +1,8 @@
+---
+human_edit_tracking:
+  enabled: true
+  history: []
+---
 # Aerin Quick Win
 
 Small Vercel-friendly site that hosts the Aerin/Anti Entropy agent prompt and exposes an agent-readable Resource Portal search endpoint.
