@@ -1,28 +1,28 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-08-13T09:33:58+00:00",
+  "generatedAt": "2026-08-14T09:28:06+00:00",
   "articleCount": 148,
   "failedCount": 19,
   "failures": {
-    "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
-    "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
     "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
     "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
+    "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
     "political-impartiality": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality: HTTP Error 429: Too Many Requests",
-    "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests",
     "private-limited-companies-plcs": "Failed to fetch https://resourceportal.antientropy.org/docs/private-limited-companies-plcs: HTTP Error 429: Too Many Requests",
+    "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests",
+    "receipt-of-payment-template": "Failed to fetch https://resourceportal.antientropy.org/docs/receipt-of-payment-template: HTTP Error 429: Too Many Requests",
     "receiving-grant-funds": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds: HTTP Error 429: Too Many Requests",
     "remote-work-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy: HTTP Error 429: Too Many Requests",
+    "remote-work-policy-us": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy-us: HTTP Error 429: Too Many Requests",
+    "receiving-grant-funds-1": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds-1: HTTP Error 429: Too Many Requests",
     "sending-payments-in-to-uganda": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda: HTTP Error 429: Too Many Requests",
     "sending-payments-to-nigeria": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria: HTTP Error 429: Too Many Requests",
+    "sole-proprietor-vs-single-member-llc": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc: HTTP Error 429: Too Many Requests",
     "sole-proprietor-vs-single-member-llc-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa: HTTP Error 429: Too Many Requests",
     "sole-proprietor-vs-single-member-llc-whats-the-difference-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-whats-the-difference-usa: HTTP Error 429: Too Many Requests",
-    "sole-trader": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-trader: HTTP Error 429: Too Many Requests",
-    "sparkwell-anti-corruption-and-bribery-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-anti-corruption-and-bribery-policy: HTTP Error 429: Too Many Requests",
-    "us-registered-agent": "Failed to fetch https://resourceportal.antientropy.org/docs/us-registered-agent: HTTP Error 429: Too Many Requests",
-    "us-nonprofit-vs-charity": "Failed to fetch https://resourceportal.antientropy.org/docs/us-nonprofit-vs-charity: HTTP Error 429: Too Many Requests",
-    "vacation-policy-us": "Failed to fetch https://resourceportal.antientropy.org/docs/vacation-policy-us: HTTP Error 429: Too Many Requests",
-    "washingtondc-nonprofit-charity-and-legal-entity-setup-1": "Failed to fetch https://resourceportal.antientropy.org/docs/washingtondc-nonprofit-charity-and-legal-entity-setup-1: HTTP Error 429: Too Many Requests"
+    "switzerland-fadp": "Failed to fetch https://resourceportal.antientropy.org/docs/switzerland-fadp: HTTP Error 429: Too Many Requests",
+    "template-privacy-notice-1": "Failed to fetch https://resourceportal.antientropy.org/docs/template-privacy-notice-1: HTTP Error 429: Too Many Requests",
+    "template-privacy-notice": "Failed to fetch https://resourceportal.antientropy.org/docs/template-privacy-notice: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -250,8 +250,8 @@
         "PLC",
         "Private Limited Companies",
         "UK",
-        "umbrella company",
-        "Umbrella Company"
+        "Umbrella Company",
+        "umbrella company"
       ],
       "tags": [
         "EOR",
@@ -1265,6 +1265,40 @@
       "alternateSlugs": []
     },
     {
+      "id": "5fdefb3a-1772-4665-ac2f-57c08bf86af2",
+      "slug": "nonprofit-email-compliance",
+      "title": "Email Compliance",
+      "url": "https://resourceportal.antientropy.org/docs/nonprofit-email-compliance",
+      "description": "A guide with checklist and examples for nonprofits to ensure email marketing compliance with regulations including GDPR, CAN-SPAM, and CCPA",
+      "keywords": [
+        "CAN-SPAM Act",
+        "CCPA",
+        "Compliance",
+        "double opt-in",
+        "email",
+        "Email Compliance Checklist",
+        "GDPR",
+        "GDPR Article 7",
+        "unsubscribe link"
+      ],
+      "tags": [
+        "Compliance",
+        "email",
+        "GDPR"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "GDPR - Data Privacy and Security"
+      ],
+      "readingTime": 4,
+      "createdAt": "2023-03-02T17:11:26.302Z",
+      "modifiedAt": "2023-03-02T17:11:26.302Z",
+      "firstPublishedDate": "2022-04-25T13:47:29.588Z",
+      "lastPublishedDate": "2023-03-02T17:11:26.495Z",
+      "contentText": "### Who is this article for?\n\nAny nonprofit, charity, or organization distributing emails, newsletters, and/or obtaining personal information from emails sent from their organization.\n\n### This Article Covers\n\n- Email Compliance Checklist\n- GDPR Email Subscriptions and Opt-ins\n- Example verbiage and visuals for compliant forms\n\n### Summary\n\nRegulations state how nonprofits can use email in their marketing and other activities, such as fundraising. Therefore, it’s essential to know the following laws for email compliance. For the full guide, click here (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing).\n\n### Email Compliance Checklist\n\n- Has everyone on your email list agreed to receive email communications from you? Did they opt-in explicitly or through transacting directly with the organization?\n - Does your opt-in page show what kind of messages the user will be receiving once they subscribe?\n- Is it clear that your organization is sending the email? Check if the “to” field has your organization’s name.\n- Does your subject line accurately state what the email is about?\n- If your email is an ad, do you have statements in the message stating that it is? For example, soliciting a donation might be considered an ad.\n- Does your email footer contain the following information?\n - Organization name\n - Valid physical address\n - Phone number, email, or web address\n - Unsubscribe option\n - Short text on why the user is receiving the email\n- Does your email show how the reader can unsubscribe from your emails?\n - Is it easy to read and understand how to unsubscribe?\n - Does clicking the link lead to the opt-out page on your website?\n- Do you have a link to your Privacy Policy? Read here for more about a Privacy Policy (https://resourceportal.antientropy.org/docs/template-privacy-notice).\n - Is your Privacy Policy updated on your website?\n- If you’re outsourcing your email marketing campaigns, ensure the third-party company is compliant to (ask them about it):\n - CAN-SPAM Act\n - GDPR\n - CCPA\n\n### GDPR Email Subscriptions and Opt-ins\n\nTo be compliant with GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk) ensure your organization is clear about the exchange of personal data for opting into any email, newsletter, or subscription. GDPR defines the conditions for consent in Article 7. (https://gdpr.eu/article-7-how-to-get-consent-to-collect-personal-data/)\n\n-\n\n**Consent is given voluntarily**\n\n - When assessing whether consent is given voluntarily, it must be taken into account whether the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract.\n - For example, if a user wants to download an ebook/whitepaper, or participate in an event, it must be clear that by doing so, they will be automatically subscribed to your newsletter.\n - If personal data will be collected in exchange for an item/service you’ll be providing this should be made clear during the opt-in stage.\n-\n\n**Consenting must be clearly recognizable**\n\n - Positive opt-in - Dedicate a separate space in your form where users can voluntarily and actively click on a checkbox\n - **Pre-ticked sign-up checkboxes are not allowed**\n - Double opt-in - Once a user submits their information, they receive an email that contains a link that they can click to further confirm their subscription to your newsletter.\n - It is best practice is to provide a link to your privacy policy not only in the opt-in form but in the emails you’ll be sending as well.\n-\n\n**You must ensure that opting out of your email subscription is easy**\n\n - Add a visible unsubscribe link to all of your emails\n - Add a link that lets users change their email preferences\n\nExamples of GDPR compliant newsletters (https://www.termsfeed.com/blog/gdpr-email-newsletters/)\n\nExamples of GDPR email disclaimers (https://www.exclaimer.com/email-signature-handbook/top-5-gdpr-email-disclaimer-examples/)\n\nFull GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide)\n\n### Compliant Form Examples\n\nThese examples are based on the UK and EU GDPR for compliance, as they are generally stricter than the US. However, it is always best practice to check your country or region's regulations in detail to ensure compliance. You can view our EU GDPR (https://resourceportal.antientropy.org/docs/gdpr-eu), UK GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk), and Switzerland FADP (https://resourceportal.antientropy.org/docs/switzerland-fadp) articles for additional information and details.\n\n[Image: Screen Shot 2023-03-02 at 10.56.47 AM.png]\n\n**Text Example 1:**\n By submitting your email, you agree to be included in our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I agree\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n**Text Example 2:**\n To receive [item/service], please subscribe to our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I want to subscribe\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n#### Non Compliant Examples\n\n[Image: Screen Shot 2023-03-02 at 10.57.28 AM.png]\n\n**Why it's not compliant:**\n In the above example, the checkbox is for two separate items. You must have separate checkboxes for separate actions that you would need consent from.\n\n[Image: Screen Shot 2023-03-02 at 11.01.33 AM.png]\n\n**Why it's not compliant:**\n There is no specific section of the form that the user agrees to or has to take action on by clicking or checking for sharing their information. There are also no details or explanation that they will be subscribed to a mailing list or not after joining the contest.\n\n### The Full Guide\n\nEmail Compliance Guide (Google Doc) (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing)\n The guide includes more detailed information and source data.",
+      "alternateSlugs": []
+    },
+    {
       "id": "e0137d3c-085b-473a-b117-9f636a97471e",
       "slug": "employer-guidance-for-independent-contractors-germany-1",
       "title": "Employer Guidance for Independent Contractors (Germany)",
@@ -1679,16 +1713,11 @@
       "slug": "gdpr-data-protection-policy-uk-1",
       "title": "GDPR Data Protection Policy (UK)",
       "url": "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk-1",
-      "description": "A template GDPR data protection policy for UK-based organizations and those conducting business in the UK or EU",
+      "description": "",
       "keywords": [
-        "EU compliant policy",
         "GDPR",
-        "personal data processing",
         "policy",
-        "privacy notice",
-        "regional requirements",
-        "UK",
-        "UK GDPR compliance"
+        "UK"
       ],
       "tags": [
         "GDPR",
@@ -1707,12 +1736,10 @@
       "lastPublishedDate": "2022-07-19T13:06:34.674Z",
       "contentText": "## About This Policy\n\nThis is a UK GDPR policy. If the organization is in the EU, use a region specific policy. If the organization is outide of the EU and UK then this policy will be adequate. The EU has said the UK policy is EU compliant.\n\n## Who Needs This Policy\n\nAny organization that is in the UK or does business in the UK. Organizations doing business outside of the EU could also use this as an EU compliant policy.\n\nThe rules are more strict if you are soliciting people or selling a product with personal data; use a policy and privacy notice from your attorney.\n\n## The Policy\n\nGDPR Data Protection Policy (UK) (https://docs.google.com/document/d/1-ADawFk1oja98xzFT7iLe3t-DNwF4ZS2lDI9rrICFlU/edit?usp=sharing)",
       "alternateSlugs": [
-        "gdpr-data-protection-policy-uk",
-        "template-privacy-notice-1"
+        "gdpr-data-protection-policy-uk"
       ],
       "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk",
-        "https://resourceportal.antientropy.org/docs/template-privacy-notice-1"
+        "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk"
       ]
     },
     {
@@ -2739,147 +2766,37 @@
       "alternateSlugs": []
     },
     {
-      "id": "5d5bd8d0-9a07-4f4f-9a4d-f6863e7b8d05",
-      "slug": "template-privacy-notice",
-      "title": "Privacy Notice Template",
-      "url": "https://resourceportal.antientropy.org/docs/template-privacy-notice",
-      "description": "A template privacy notice for EU/UK organizations to disclose personal data practices and comply with GDPR requirements",
+      "id": "e29ed805-527e-4c45-b472-3d2cb5b24e12",
+      "slug": "sole-trader",
+      "title": "Sole Trader",
+      "url": "https://resourceportal.antientropy.org/docs/sole-trader",
+      "description": "A guide explaining sole trader requirements, registration steps, and disadvantages for self-employed individuals in the UK",
       "keywords": [
-        "EU/UK jurisdiction",
-        "GDPR",
-        "GDPR compliance",
-        "ICO template",
-        "personal data disclosure",
-        "privacy",
-        "template",
-        "website footer placement"
+        "000",
+        "Class 4",
+        "National Insurance Class 2",
+        "record-keeping five years",
+        "Self Assessment registration",
+        "soletrader",
+        "UK",
+        "UTR number",
+        "VAT threshold £85"
       ],
       "tags": [
-        "GDPR",
-        "privacy",
-        "template"
+        "soletrader",
+        "UK"
       ],
       "categoryPath": [
         "Governance and Compliance",
-        "GDPR - Data Privacy and Security"
+        "UK Nonprofits and Charities",
+        "UK Governance References and Definitions"
       ],
-      "readingTime": 1,
-      "createdAt": "2023-01-25T14:42:31.973Z",
-      "modifiedAt": "2023-01-25T14:42:31.973Z",
-      "firstPublishedDate": "2022-03-31T19:45:30.623Z",
-      "lastPublishedDate": "2023-01-25T14:42:32.015Z",
-      "contentText": "## About This Policy\n\nThe document linked below is a standard GDPR privacy notice. It is a copy of the ICO template (https://ico.org.uk/for-organisations/sme-web-hub/make-your-own-privacy-notice/) with more examples and a little formatting.\n\nThe best practice is to put this policy on your website with a link to it in your website footer and in your standard email signatures.\n\n## Who Needs This Policy\n\nIf you are in or do business in the EU or UK you need this policy. For more details, see the GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide).\n\nThe rules are more strict if you are soliciting people or selling a product with personal data; in this circumstance, use a policy and privacy notice from your attorney.\n\n## The Template\n\nPrivacy Policy Template (Google Doc) (https://docs.google.com/document/d/1ABRjnY0ROr06mwfW7dO10zOWNVG_LUY2X3Hzs5gPcU8/edit?usp=sharing)\n\nGeneral Data Protection Regulation is a Regulation in EU law on data protection and privacy in the EU and the European Economic Area. Any organization in the EU or UK or dealing with people in the EU or UK is expected to be compliant with GDPR regulation.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "88372e38-ea7d-4650-a0c9-9fec40500b33",
-      "slug": "receipt-of-payment-template",
-      "title": "Receipt of Payment Template",
-      "url": "https://resourceportal.antientropy.org/docs/receipt-of-payment-template",
-      "description": "A template for documenting payments to contractors and vendors without formal invoicing systems",
-      "keywords": [
-        "1099 reporting",
-        "payment thresholds",
-        "tax identification fields",
-        "W-9 form",
-        "withholding requirements"
-      ],
-      "tags": [],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Operational Tools and Resources",
-        "Templates"
-      ],
-      "readingTime": 3,
-      "createdAt": "2025-11-06T21:59:14.123Z",
-      "modifiedAt": "2025-11-06T21:59:14.123Z",
-      "firstPublishedDate": "2025-11-06T21:59:14.123Z",
-      "lastPublishedDate": "2025-11-06T21:59:14.123Z",
-      "contentText": "## About this template\n\nA receipt of payment documents when your organization pays contractors, vendors, or service providers who don't provide standard invoices or receipts. This template creates a paper trail for payments to individuals or small vendors, particularly common with international contractors, interview participants, or one-time service providers.\n\n**Note:** this is different from a Replacement Reciept (https://resourceportal.antientropy.org/docs/generic-receipt-replacement-template) for expense reimbursement purposes when the original receipt is unavailable.\n\n#### Download template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)\n\n## Who needs this\n\n- Organizations paying contractors or vendors without formal invoicing systems\n- Research organizations compensating interview participants\n- Organizations needing documentation for cash or informal payments\n- Working with vendors in regions where formal invoicing isn't standard\n\n#### Don't use this template for:\n\n- Regular vendors who should provide invoices\n- Employee salary or wage payments\n- Purchases where you receive goods (use standard receipts)\n- Recurring service providers who can issue proper invoices\n\n## How to customize this template\n\n#### Organization details\n\n- Replace ORG_NAME with your organization's name throughout\n- Add your organization's tax ID if required in your jurisdiction\n- Consider adding your organization's address for formal documentation\n\n#### Payment categories\n\nAdjust the payment types to match your common uses:\n\n- Research organizations: Interview participation, focus group participation, user testing, survey completion, study participation\n- Media/content organizations: Video editing, graphic design, transcription services, translation, voice-over work, content writing\n- Event organizations: Speaker fees, workshop facilitation, panel participation, performance fees, equipment rental from individuals\n- Community organizations: Interpretation services, cultural consulting, community liaison work, local coordination, outreach services\n- General services: Consulting, training delivery, data entry, temporary assistance, specialized expertise\n\nRemove categories you won't use to keep the form simple and add specific categories relevant to your work.\n\n#### Tax identification fields\n\nDifferent jurisdictions require different tax documentation:\n\n- United States: Include space for SSN or EIN for amounts over $600 (1099 reporting)\n- United Kingdom: Add space for UTR (Unique Taxpayer Reference) or National Insurance number\n- European Union: Include VAT number field if applicable\n- Other regions: Research local tax ID requirements\n\n#### Setting payment thresholds\n\nIf you have one, your organization's expense or payment policy should specify when this template is appropriate versus requiring formal invoices. Consider incorporating thresholds into your policy:\n\n**Common threshold approach is a bandwidth:**\n\n- Under $100-250: Receipt of payment acceptable\n- $250-1,000: Receipt of payment with additional documentation\n- Over $1,000: Formal invoice required\n\nThese thresholds should align with your existing expense approval levels and risk tolerance. Document these limits in your expense reimbursement or accounts payable policy so staff know when to use this template versus requesting formal documentation.\n\n**Additional documentation requirements**\n For larger amounts, consider requiring supplementary documentation:\n\n- Copy of recipient's government-issued ID\n- Written agreement or scope of work\n- Bank transfer confirmation\n- Secondary approval signature\n\n## Best practices\n\n- Pre-fill known information - Complete organization sections before meeting contractors\n- Translate if needed - Provide template in languages your contractors read\n- Explain purpose - Help recipients understand this protects both parties\n- Keep copies accessible - Contractors may need copies for their tax filing\n- Review regularly - Update template as regulations or needs change\n- Train staff - Ensure anyone making payments understands when and how to use\n\n## Compliance considerations\n\nImportant tax disclaimer:\n\nThis section provides general documentation guidance only. Tax treatment and reporting requirements vary significantly by jurisdiction and payment type. Consult a qualified tax professional or legal advisor for requirements specific to your organization and location.\n\n**US organizations**\n\n- Track total annual payments per recipient for 1099 reporting\n- Collect W-9 forms before first payment when possible\n- Maintain records for 7 years for tax purposes\n\n**International payments**\n\n- Research withholding requirements for payments to foreign nationals\n- Document any tax treaty benefits claimed\n- Keep records of recipient's country of tax residence\n\nDownload template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)",
-      "alternateSlugs": []
-    },
-    {
-      "id": "936acb34-8201-4e5a-ad5a-464e96db3665",
-      "slug": "receiving-grant-funds-1",
-      "title": "Receiving Grant Funds From A US Funder",
-      "url": "https://resourceportal.antientropy.org/docs/receiving-grant-funds-1",
-      "description": "A guide explaining how individuals and organizations receive grant funds from US funders, including eligibility requirements, grant types, and management best practices",
-      "keywords": [
-        "501(c)(3) status",
-        "expenditure responsibility",
-        "grant funds",
-        "grant types (unconditional/contingency/reimbursable)",
-        "IRS Form 8940",
-        "receiving grant funds",
-        "taxable expenditures"
-      ],
-      "tags": [
-        "grant funds",
-        "receiving grant funds"
-      ],
-      "categoryPath": [
-        "Fundraising and Grant Management"
-      ],
-      "readingTime": 5,
-      "createdAt": "2025-05-12T14:33:08.385Z",
-      "modifiedAt": "2025-05-12T14:33:08.385Z",
-      "firstPublishedDate": "2022-12-23T15:17:53.512Z",
-      "lastPublishedDate": "2025-05-12T14:33:08.385Z",
-      "contentText": "### Who is this article for?\n\nFor individuals or organizations who receive grant funds, including scholarships and fellowships.\n\nThis information covers grants from foundations, organizations, and individuals in the U.S. Majority of the information does ***not apply to government-issued grants***, which may have exceptions and rules. While most countries have similar rules and regulations for grant funding, it is best to check your country's tax laws and government regulations prior to applying for or receiving any funding.\n\n### Topics Covered in This Article:\n\n- Grants for Individuals\n- Grants for Organizations\n- Best Practices for Receiving Grants (Individuals and Nonprofits)\n\n### Grants for Individuals\n\nFoundations, funders, and sponsors prefer to give grants to nonprofits or those with 501(c)(3) status, which is why fewer individual or personal grants are given. A nonprofit or organization with 501(c)(3) status looks more reputable due to its structure and need to adhere to certain guidelines and laws.\n\nAccording to the IRS (https://www.irs.gov/charities-non-profits/private-foundations/grants-to-individuals), grants that are awarded to individuals for travel, study, or other similar purposes are considered taxable expenditures.\n Individual grants only become non-taxable if:\n\n- Grant is awarded on an objective and nondiscriminatory basis through a procedure pre-approved by the IRS\n- Grant is a scholarship and fellowship to be used for the study\n- Grant is a prize or award that is excludable from gross income if the recipient is selected from the general public\n- Grant's purpose is to achieve a specific objective, produce a report or similar product, and improve or enhance a literary, artistic, musical, scientific, teaching, or similar capacity, skill, or talent of the grantee.\n\n**Note:** Direct donations are not tax-deductible for the donor (in this case, the funder), and if you received a grant, then it will count as personal income, which is taxable. See our article on how grant funds are taxed (https://resourceportal.antientropy.org/docs/receiving-grant-funds) for more information on grant taxation.\n\nOrganizations that provide individual grants in the U.S. can do so through advanced approval from the IRS (https://www.irs.gov/charities-non-profits/private-foundations/advance-approval-of-grant-making-procedures), filing a Form 8940 (https://www.irs.gov/pub/irs-pdf/f8940.pdf). The requirements for individual grant procedures include the following:\n\n- The procedure awards grants on an objective and non-discriminatory basis\n- The procedure is reasonably calculated to result in performance by grantees of the activities that the grants are intended to finance\n- The foundation will supervise grants to determine whether grantees have fulfilled the grant terms\n\n### Grants for Organizations\n\nFoundations, corporations, and government agencies also offer grants to organizations, whether they’re nonprofits or for-profit businesses. For-profit businesses are typically not eligible to receive grants from the federal government. Funds from a government grant are best used for operational and administrative expenses. Grants for small businesses are typically aimed at job creation, funding projects that don’t get traditional support, or increasing economic benefits for communities.\n\nIn addition to the financial benefits of a grant, a grant may also help increase your nonprofit or company’s visibility. You’re more likely to get grants from different funders once you secure your first grant and make good use of the funding received.\n\nThere are 3 different types of grants that are typically awarded:\n\n- **Unconditional Grant** - These are usually provided upfront and can be used at your discretion, without restrictions.\n- **Grant with Contingencies** - Funding is usually given in installments over time, and you are required to fulfill certain conditions.\n- **Reimbursable Grant** - In this case, you pay for the grant’s intended project initially, then the grantor pays you back for your expenditures.\n\nNo matter what type of grant you receive, it’s advised that you keep track of the grant funding and the expenditures associated with it. This is especially important if one of the conditions explicitly specifies how the funds are to be used.\n\nSimilar to grants to individuals, grants to organizations are still taxable expenditures in the US according to the IRS, unless:\n\n- The recipient’s organization is a public charity - in the US, this means they have 501(c)(3) status.\n- The foundation (grantor) exercises expenditure responsibility (https://resourceportal.antientropy.org/docs/understanding-expenditure-responsibility-grantees) with respect to the grant.\n\n### Best Practices for Receiving Grants (Individuals and Nonprofits)\n\nIf you are awarded a grant by a foundation or nonprofit, it’s important to ensure your goals are aligned and you can meet the program obligations, and the grant’s funds are properly allocated. Although awarding grants is considered a business transaction, it can start a fruitful relationship with the organization and be mutually beneficial to both parties.\n\n- Finish any initial paperwork required.\n - Sign all documents, which typically include the letter accepting the grant, reporting requirements, and other grant fund-related details.\n - Create electronic and physical copies of these documents.\n- Set up your financial system\n - An individual grant award should be accounted for as an “independent cost center.” It’s recommended that you open a separate business account solely for the grant funds.\n - It’s in your best interest and the funders to NOT mix your grant funds with your personal or additional business funds. You risk losing track of expenditures related to your grant and make it difficult to show that all the funds were spent for the intended purpose.\n - All income and expenditures from the grant fund must be accounted for at all times.\n - Seek the services of an accountant or bookkeeper, especially if you’re not knowledgeable about fund management and taxes.\n- Review your grant application.\n - It may have been a while since you submitted your application. It’s best to read through it and get an understanding of what needs to be done.\n - Check and take note of what the organization needs from you and when they would need them.\n - Start assigning major tasks and creating a project timeline with key deadline reminders.\n- Review the grant rules and regulations.\n - Have a system for recording data and when reports are due.\n - Include systems for checks and balances, documentation, and fiscal controls.\n - Provide reports even if there’s no requirement from the funder. Give one in the middle of the grant period and then another one at the end at a minimum.\n- Keep communication lines open between you and the funding organization.\n - Be proactive, especially when you think an issue will arise in regard to the grant funds.\n - Don’t forget to send a thank you note to the organization and funder!\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "6b1a60e1-c69a-4886-b8a3-455f3444600c",
-      "slug": "remote-work-policy-us",
-      "title": "Remote Work Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/remote-work-policy-us",
-      "description": "",
-      "keywords": [],
-      "tags": [],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
-        "US Specific"
-      ],
-      "readingTime": 1,
-      "createdAt": "2025-10-10T18:49:30.74Z",
-      "modifiedAt": "2025-10-10T18:49:30.74Z",
-      "firstPublishedDate": "2022-09-09T17:53:18.083Z",
-      "lastPublishedDate": "2025-10-10T18:49:30.74Z",
-      "contentText": "## About This Policy\n\nA policy for remote workers that outlines eligibility, allowances, reimbursements, security, and basic expectations.\n\n## Who Needs This Policy\n\nAny organization wanting to provide clear expectations and mitigate risk with remote workers.\n\n## When Using This Policy\n\nExpectations regarding compensation and reimbursement for office expenses, setup, hardware, and software can vary from organization to organization. Below are typical reimbursement caps for remote work; however, it will be up to your organization to set the cap limit and what items you will provide and/or reimburse.\n\n- Basic = $200-$350 for office set-up\n- Standard = $500 - $750 for office set-up with some hardware and/or software provided\n- Generous = $1,000+ for office set-up and $1,000/year continuing education allowance\n\nA typical monthly allowance to cover monthly office costs (ex. wifi, electricity, rent ) for remote workers is $100-$200. This monthly allowance is in addition to the above one-time capped reimbursements.\n\n## The Policy\n\nRemote Work Policy (GoogleDocs) (https://docs.google.com/document/d/103w0v1t02jsAUG9vcqX2VCqzmfXVrLuMxAC8E3Pe-So/edit?usp=sharing)\n\n**Legal Review: 08/2022 (https://resourceportal.antientropy.org/docs/legal-review)**",
-      "alternateSlugs": []
-    },
-    {
-      "id": "4410f71c-5dd9-4ade-a12e-10d38d5bb3dd",
-      "slug": "sole-proprietor-vs-single-member-llc",
-      "title": "Sole Proprietor (US)",
-      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc",
-      "description": "A guide for independent contractors establishing a sole proprietorship, covering structure, tax obligations, registration requirements, and liability limitations",
-      "keywords": [
-        "DBA registration",
-        "FICA taxes",
-        "fictitious business name",
-        "Form 1040-ES",
-        "Pass-Through Taxation",
-        "Schedule C",
-        "Schedule SE",
-        "self-employment taxes",
-        "USA"
-      ],
-      "tags": [
-        "USA"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "US Nonprofits and Charities",
-        "US Governance References and Definitions"
-      ],
-      "readingTime": 1,
-      "createdAt": "2022-07-13T22:59:41.421Z",
-      "modifiedAt": "2022-07-13T22:59:41.421Z",
-      "firstPublishedDate": "2022-07-13T22:59:41.781Z",
-      "lastPublishedDate": "2022-07-13T22:59:41.78Z",
-      "contentText": "## Sole Proprietor\n\nIndependent contractors are generally considered Sole Proprietors. This type of business is the simplest and most common business structure. It’s inexpensive and straightforward because you, as the owner, are not a separate legal entity from your sole proprietorship.\n\nYou may need to obtain the proper business licenses and permits to offer your services in your state. It’s best practice to keep separate your business bank accounts and credit cards, so it’s easier to separate your business from personal finances.\n\n#### Filing Taxes as a Sole Proprietorship:\n\n- You will be subject to Pass-Through Taxation (https://resourceportal.antientropy.org/docs/pass-through-taxation)\n- You will only need your Social Security Number (not an Employee Identification Number)\n- Pay self-employment taxes\n- Pay both worker and employer share of FICA taxes\n- Report your business profits and losses to the IRS\n\n#### Disadvantages of a Sole Proprietorship:\n\n- Sole Proprietorships are commonly not protected from any business liabilities.\n - Legal action against the entity may affect both the entity's assets and your personal assets.\n- You can only operate under your legal name\n - Or file a DBA - “Doing Business As” to work around using your legal name\n\n#### How to Register a Sole Proprietorship\n\n**1. Choose your business name**\n As an independent contractor, you can use your own name without having to register it. If you're using your full name and adding a word or two after (i.e., John Smith Editorial), then you don't need to register it.\n\nYou will only need to register your name if you don't use your full name in your business name. It must be registered as a fictitious business name (assumed name or DBA, \"doing business as\"). For example, John Smith wants to name his business John Consulting.\n\nRegister either with the county clerk or state office (Department of State for some states)\n\n**2. If needed, get a professional or vocational license for your trade/service.**\n\n**3. Start paying estimated taxes to the IRS** - seek tax advice and assistance filing from a CPA or tax professional.\n\n- Form 1040 (https://www.irs.gov/pub/irs-pdf/f1040.pdf)\n- Form 1040-ES (https://www.irs.gov/pub/irs-pdf/f1040es.pdf)\n- Schedule C (https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) and Schedule SE (https://www.irs.gov/pub/irs-pdf/f1040se.pdf)",
+      "readingTime": 2,
+      "createdAt": "2022-07-25T21:35:30.729Z",
+      "modifiedAt": "2022-07-25T21:35:30.729Z",
+      "firstPublishedDate": "2022-07-25T21:35:30.749Z",
+      "lastPublishedDate": "2022-07-25T21:35:30.748Z",
+      "contentText": "If you run your own business and are self-employed, then you’re considered a Sole Trader.\n\n#### You need to set up as a sole trader if:\n\n- You earned more than £1,000 from self-employment\n- You’ve proven or declared you're self-employed\n- You make voluntary National Insurance payments to qualify for benefits\n\n#### Disadvantages of a Sole Trader:\n\n- Personal liability - Your business is not a separate entity from you as the owner. This means you are personally liable for any company obligations, debts, liabilities owed, or legal action against the business. There's a possibility that it may impact your personal finances.\n- All profits earned by a sole trader are subject to income tax. This means that a sole trader will usually pay more in tax than a limited company.\n- You are also responsible for your own National Insurance payments (https://www.gov.uk/voluntary-national-insurance-contributions).\n- Perceived lack of prestige - Public perception of sole traders is not as high as having your own business.\n- It may be challenging to raise capital to expand the business as a sole trader because traditional financial institutions prefer limited companies, like banks and granting foundations.\n\n## Sole Trader Requirements\n\n#### National Insurance\n\nYou pay either Class 2 or Class 4 National Insurance as a sole trader.\n\n- Class 2 - If your profit is at least £6,725 per year\n- Class 4 - If your profit is at least £9,881 per year\n\n#### Record Keeping\n\n- As a sole trader, you must keep records of the following:\n- Business income and expenses\n- Personal income\n- VAT records\n- Grants, if claimed through the Self-Employment Income Support Scheme\n- All receipts, bank statements, and sales invoices\n\n*Keep records for at least five years after submitting your tax returns*\n\n## How to Register as a Sole Trader:\n\n**1.** Choose a name to trade under. You can use your name or choose another name for your business. However, keep in mind that you’re not allowed to use the following words in your business name: 'limited', 'Ltd', 'limited liability partnership', 'LLP', 'public limited company', plc'. Further guidance on naming can be found here (https://www.gov.uk/government/publications/incorporation-and-names).\n * You don’t need to register your business name unless you want to register your name as a trademark to the Intellectual Property Office (IPO) (https://www.gov.uk/how-to-register-a-trade-mark).\n\n**2.**Register for Self Assessment (https://www.gov.uk/register-for-self-assessment/self-employed) to pay income tax.\n\n- If it’s your first time, set up your business tax account here (https://www.access.service.gov.uk/login/signin/creds). You’ll receive your Unique Taxpayer Reference (UTR) number within ten days. The UTR is needed to file your yearly tax return. You can get guidance through these helpsheets (https://www.gov.uk/government/collections/self-assessment-helpsheets-main-self-assessment-tax-return).\n\n**3.** If you do not have one, you will need to apply for a National Insurance number (https://www.gov.uk/apply-national-insurance-number), the processing takes about eight weeks. Below are the requirements:\n\n- Identification documents such as a passport, biometric residence permit (BRP), national identity card from any EU country, Norway, Liechtenstein, or Switzerland\n- Photos to prove your identity\n\n**4.** Register for VAT if necessary. If your total VAT taxable turnover for the last 12 months was over £85,000, then register for VAT with the HMRC.\n\nYou can authorize another person to do all transactions with the HMRC, be it a friend, relative, accountant, or tax adviser. The UK government has provided tax agents standards (https://www.gov.uk/government/publications/hmrc-the-standard-for-agents) that you can base off of.",
       "alternateSlugs": []
     },
     {
@@ -2906,6 +2823,34 @@
       "firstPublishedDate": "2025-10-22T13:24:51.46Z",
       "lastPublishedDate": "2026-04-22T15:56:38.645Z",
       "contentText": "Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this Document\n\nThis document clarifies the division of responsibilities between SparkWell and Project Leads. Project Leads have full autonomy over day-to-day operations and strategic decisions within their mission scope. SparkWell provides the operational infrastructure, compliance oversight, and strategic support to enable Projects to focus on their impact work.\n\n## Project Lead Responsibilities\n\n### Program Operations\n\n- Day-to-day operational decisions and management\n- Program design, implementation, and iteration\n- Strategic pivots and changes within original mission scope\n- Research priorities and methodology decisions\n- Setting and tracking toward program milestones\n- External relations and communications\n\n### Fundraising & Financial Management\n\n- Develop and execute fundraising strategy\n- Donor cultivation and relationship management\n- Create annual and quarterly budgets\n- Track fundraising pipeline and budget performance\n- Make routine spending decisions within approved parameters\n- Ensure compliance with funder requirements\n- Manage approved expenditure processes once established\n\n### Team Management\n\n- Staff hiring decisions (subject to due diligence approval)\n- Contractor selection and management\n- Team performance reviews and development\n- Building organizational culture\n- Managing team workflows and productivity\n\n## SparkWell Responsibilities\n\n### Financial Operations\n\n- Process all banking transactions and account management\n- Provide monthly financial statements and dashboards\n- Handle payroll processing and tax compliance\n- Provide budget variance analysis\n\n### Compliance & Legal\n\n- Maintain 501(c)(3) tax-exempt status\n- Monitor compliance with nonprofit regulations\n- Ensure activities align with tax-exempt requirements\n- Conduct due diligence for new hires and major partnerships\n\n### Program Support\n\n- Conduct monthly check-in meetings with Project Leads\n- Provide strategic guidance and problem-solving support\n- Connect Projects to relevant resources and opportunities\n- Offer expertise in nonprofit operations and management\n- Coordinate access to advisory resources (fundraising, cybersecurity, etc.)\n- Provide optional post-graduation support (up to 4 hours/month for 6 months)\n\n### Administrative Infrastructure\n\n- Maintain donation platform (Every.org) and setup\n- Coordinate EOR for employee hiring\n- Provide access to financial analytics tools\n- Supply operational templates and resources\n- Manage contractor agreement workflows\n- Onboarding process coordination\n\n## Consultation Required\n\nProject Leads must consult SparkWell before:\n\n- Strategic pivots beyond original project mission\n- Large expenditures (thresholds agreed upon between SparkWell and Project Lead)\n- Legal commitments, contracts, or formal partnerships\n- Crisis management or significant operational challenges\n- Activities that may impact Anti Entropy's 501(c)(3) status\n\n## Communication & Support\n\n### Regular Check-ins\n\n- Monthly meetings covering progress, challenges, resources, and strategic guidance\n- Additional meetings scheduled as needed for major decisions\n\n### Response Expectations\n\n- 24-48 hours for routine matters\n- Same-day response for urgent issues\n\n### Primary Channels\n\n- Email for business communication and formal requests\n- Video calls for check-ins and strategic discussions\n- Slack for quick questions (when applicable)\n\n## Prohibited Activities\n\nDue to operational complexity or compliance risk, Projects must seek approval from SparkWell before engaging in:\n\n- Working directly with minors (safeguarding requirements)\n- Hosting large public events (insurance complexity)\n- International field operations (foreign law compliance)\n- Heavy or significant lobbying activities; see Lobbying and Advocacy Policy (https://resourceportal.antientropy.org/docs/sparkwell-lobbying-and-advocacy-policy) (tax-exempt protection)\n- Fundraising lotteries or gambling (regulatory restrictions)\n- Health/safety activities involving sensitive personal data\n\n## Expenditure Approval Process\n\nExpenditure thresholds and approval processes will be established collaboratively between SparkWell and each Project Lead based on:\n\n- Total project funding\n- Budget complexity\n- Stage of project development\n- Risk profile of planned activities",
+      "alternateSlugs": []
+    },
+    {
+      "id": "a70ec523-7023-4436-aabd-b3c9be072ced",
+      "slug": "sparkwell-anti-corruption-and-bribery-policy",
+      "title": "SparkWell Anti-Corruption and Bribery Policy",
+      "url": "https://resourceportal.antientropy.org/docs/sparkwell-anti-corruption-and-bribery-policy",
+      "description": "A template policy for nonprofit organizations establishing zero-tolerance bribery and corruption standards for employees, board members, contractors, and program participants",
+      "keywords": [
+        "501(c)(3) tax-exempt status",
+        "due diligence red flags",
+        "facilitation payments",
+        "Foreign Corrupt Practices Act",
+        "Gift and Hospitality Register"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Handbook",
+        "SparkWell Policies",
+        "SparkWell Conduct Policies"
+      ],
+      "readingTime": 9,
+      "createdAt": "2025-10-22T22:07:19.797Z",
+      "modifiedAt": "2025-10-22T22:07:19.797Z",
+      "firstPublishedDate": "2025-10-22T22:07:19.797Z",
+      "lastPublishedDate": "2025-10-22T22:07:19.797Z",
+      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n## 1. About this Policy\n\n1.1. It is our policy to conduct all business honestly and ethically. We take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, fairly, and with integrity in all our business dealings and relationships.\n\n1.2. Any employee who breaches this policy will face disciplinary action under our Misconduct & Discipline policy, up to and including dismissal for gross misconduct. Contractors who breach this policy may have their contracts terminated immediately.\n\n1.3. This policy does not form part of any employment contract and may be amended at any time.\n\n1.4. **Nonprofit context:** As a 501(c)(3) nonprofit, Anti Entropy must maintain the highest ethical standards to preserve public trust, maintain our tax-exempt status, and fulfill our charitable mission.\n\n## 2. Who Must Comply with This Policy?\n\n2.1. This policy applies to all persons working for us or on our behalf in any capacity, including:\n\n2.1.1. Employees at all levels\n\n2.1.2. Board members and officers\n\n2.1.3. Contractors and consultants\n\n2.1.4. Volunteers and interns\n\n2.1.5. Agency workers and seconded workers\n\n2.1.6. Third-party representatives\n\n2.1.7. Business partners\n\n## 3. SparkWell Projects\n\n3.1. As fiscal sponsor, Anti Entropy is responsible for ensuring SparkWell Projects comply with anti-corruption standards:\n\n3.1.1. **Project Leads and staff** of SparkWell Projects are expected to follow these anti-corruption principles\n\n3.1.2. **Anti Entropy may take action** if a Project engages in bribery or corruption, including increased oversight, suspension, or termination from the program\n\n3.1.3. **Project Leads must report** any bribery or corruption concerns to Anti Entropy immediately\n\n3.1.4. **Due diligence:** Projects must conduct appropriate due diligence on their vendors, contractors, and partners\n\n3.2. SparkWell Projects operating internationally must be especially vigilant about compliance with anti-corruption laws in their operating countries and US laws that apply abroad (such as the Foreign Corrupt Practices Act).\n\n## 4. What is Bribery?\n\n### 4.1. Definitions\n\n4.1.1. **Bribe:** A financial or other inducement or reward for action which is illegal, unethical, a breach of trust, or improper in any way. Bribes can take the form of:\n\n- Money, loans, or credit\n- Gifts or favors\n- Hospitality or entertainment\n- Services or discounts\n- The award of a contract\n- Any other advantage or benefit\n\n4.1.2. **Bribery:** Offering, promising, giving, accepting, or seeking a bribe.\n\n### 4.2. Policy Statement\n\n4.2.1. **All forms of bribery are strictly prohibited.** If you are unsure whether a particular act constitutes bribery, raise it with your supervisor, the Board President, or another Board Member.\n\n### 4.3. Prohibited Actions\n\n4.3.1. Specifically, you must not:\n\n**4.3.1.1. Give or offer** any payment, gift, hospitality, or other benefits in the expectation that a business advantage will be received in return, or to reward any business received\n\n**4.3.1.2. Accept any offer** from a third party that you know or suspect is made with the expectation that we will provide a business advantage for them or anyone else\n\n**4.3.1.3. Make facilitation payments** (payments to a government official in any country to facilitate or speed up a routine or necessary procedure)\n\n**4.3.1.4. Threaten or retaliate** against another person who has refused to offer or accept a bribe or who has raised concerns about possible bribery or corruption\n\n### 4.4. Examples of Bribery\n\n**4.4.1. Prohibited actions include:**\n\n- Offering money to a government official to expedite a permit or approval\n- Giving expensive gifts to a funder in hopes of receiving a grant\n- Accepting payment in exchange for steering a SparkWell Project to a particular vendor\n- Offering anything of value to influence someone's decision about a contract or agreement\n- Providing lavish entertainment to win business or secure favorable treatment\n- Making \"facilitation payments\" to speed up routine government processes\n- Offering employment or consulting opportunities in exchange for preferential treatment\n\n**4.4.2. Acceptable business practices:**\n\n- Modest business meals with potential partners, donors, or collaborators\n- Attending conferences where registration includes meals or entertainment\n- Giving promotional items of low value (under $50) with Anti Entropy branding\n- Paying legitimate consulting fees at fair market rates for actual services rendered\n- Providing standard business hospitality (coffee, light refreshments) during meetings\n\n**4.4.3. Gray areas that need approval:**\n\n- Hosting a donor at a sports event, concert, or cultural event\n- Giving a gift basket or meaningful gift to a major funder during the holidays\n- Paying for a potential partner's travel to visit Anti Entropy\n- Providing honoraria or gifts to speakers, advisors, or experts\n- Any gift or hospitality valued over $50\n\n## 5. Gifts & Hospitality\n\n### 5.1. General Principles\n\n5.1.1. Reasonable and appropriate hospitality for legitimate business purposes is permitted, such as:\n\n- Building relationships with partners, donors, or collaborators\n- Maintaining Anti Entropy's reputation and image\n- Attending conferences or networking events\n- Marketing our programs and services\n\n### 5.2. What's Acceptable\n\n**5.2.1. Without prior approval (under $50 value):**\n\n- Promotional items of low value (branded pens, notepads, stickers, etc.)\n- Modest meals during business meetings\n- Coffee or light refreshments\n- Small tokens of appreciation\n\n**5.2.2. With prior written approval from Board President (over $50 value):**\n\n- Attendance at conferences, events, or entertainment (when hosted by another organization)\n- Business meals or entertainment of higher value\n- Gifts of higher value\n- Any hospitality or gift that could be perceived as excessive\n\n### 5.3. What's NOT Acceptable\n\n5.3.1. You must not give or accept:\n\n- Cash or cash equivalents (gift cards, vouchers, prepaid cards)\n- Lavish or extravagant gifts or hospitality\n- Anything that could appear as an inducement or reward for preferential treatment\n- Gifts or hospitality during contract negotiations, competitive processes, or grant decisions\n- Anything given or received in secret\n- Gifts to or from government officials (without specific Board approval and legal review)\n\n### 5.4. Guidelines\n\n5.4.1. Gifts must be given in Anti Entropy's name, not your personal name\n\n5.4.2. Consider how the gift would appear to an outside observer or in the media\n\n5.4.3. Transparency is key—disclose all gifts and hospitality\n\n5.4.4. When in doubt, ask the Board President before accepting or giving\n\n5.4.5. Document everything in the Gift Register\n\n5.4.6. **Note for remote workers:** Virtual gifts (e-gift cards, online subscriptions, digital goods) are treated the same as physical gifts and must follow these guidelines.\n\n## 6. International Operations\n\n6.1. Some SparkWell Projects operate internationally. Be aware that:\n\n6.1.1. **US laws apply abroad:** The Foreign Corrupt Practices Act (FCPA) prohibits bribing foreign officials, even when operating in other countries\n\n6.1.2. **Local laws may be stricter:** Some countries have stricter anti-corruption laws than the US; we must comply with the stricter standard\n\n6.1.3. **Cultural differences exist:** What's considered acceptable business practice varies by culture, but we must always comply with applicable laws and this policy\n\n6.1.4. **Higher risk environments:** Some countries have higher corruption risks; extra caution and due diligence are needed in these contexts\n\n6.1.5. **No facilitation payments:** Even in countries where facilitation payments are common practice, they are prohibited by this policy\n\n6.2. If you're involved with international operations or SparkWell Projects operating abroad, consult with the Board President about specific anti-corruption compliance requirements before proceeding.\n\n## 7. Working with Third Parties\n\n7.1. When working with vendors, contractors, consultants, partners, or SparkWell Projects, we expect them to uphold anti-corruption standards consistent with this policy.\n\n### 7.2. Due Diligence\n\n7.2.1. Before engaging significant third parties, we conduct appropriate due diligence to assess corruption risks, including:\n\n- Background checks and references\n- Review of past conduct and reputation\n- Assessment of their anti-corruption policies and practices\n- Evaluation of their business relationships and structure\n- Understanding of their compliance history\n\n### 7.3. Contracts\n\n7.3.1. Contracts with third parties should include:\n\n- Anti-corruption and bribery provisions\n- Representations that they comply with applicable anti-corruption laws\n- Right to audit compliance\n- Right to terminate for violations\n\n### 7.4. Red Flags\n\n7.4.1. Be alert to potential corruption red flags with third parties:\n\n- Requests for cash payments or unusual payment structures\n- Requests for payments to third parties or offshore accounts\n- Resistance to anti-corruption clauses in contracts\n- Lack of transparency in operations or ownership\n- Close relationships with government officials that could create conflicts\n- Poor reputation for ethical conduct\n- Unwillingness to provide due diligence information\n- Requests for facilitation payments\n\n7.4.2. **If you observe red flags, immediately consult with the Board President before proceeding.**\n\n## 8. Record-keeping\n\n### 8.1. Gift and Hospitality Register\n\n8.1.1. You must record all gifts or hospitality given or received (including those declined) by emailing the Board President with the following information:\n\n- Date\n- Person/organization involved\n- Description of gift or hospitality\n- Estimated value\n- Business purpose\n- Whether prior approval was obtained (if required)\n\n8.1.2. This includes gifts or hospitality that you **declined** or **offered but were not accepted**.\n\n### 8.2. Expense Documentation\n\n8.2.1. Submit all expense claims relating to hospitality, gifts, or payments to third parties per our Expenses policy, including:\n\n- Receipt or invoice\n- Detailed business purpose\n- Names and organizations of people involved\n- Any prior approvals obtained\n\n### 8.3. Financial Records\n\n8.3.1. All accounts, invoices, and records relating to third parties must be:\n\n- Prepared with strict accuracy and completeness\n- Properly documented and supported\n- Not kept \"off-book\" to facilitate or conceal improper payments\n- Maintained in accordance with Anti Entropy's document retention policy\n- Available for audit and review\n\n8.3.2. **Important:** Falsifying records to conceal bribery or corruption is itself a serious violation of this policy and may constitute fraud.\n\n## 9. Consequences of Violations\n\n9.1. Violations of this policy are serious and may result in:\n\n### 9.2. For Individuals\n\n9.2.1. Disciplinary action up to and including termination of employment\n\n9.2.2. Termination of contractor agreements\n\n9.2.3. Removal from board or advisory positions\n\n9.2.4. Referral to law enforcement for criminal prosecution\n\n9.2.5. Personal fines and imprisonment under applicable laws\n\n9.2.6. Civil liability for damages\n\n9.2.7. Damage to professional reputation\n\n### 9.3. For Anti Entropy\n\n9.3.1. Loss of 501(c)(3) tax-exempt status\n\n9.3.2. Significant fines and penalties\n\n9.3.3. Severe damage to reputation and public trust\n\n9.3.4. Loss of donor and funder confidence\n\n9.3.5. Exclusion from partnerships and collaborations\n\n9.3.6. Legal liability and costs\n\n9.3.7. Inability to fulfill our charitable mission\n\n### 9.4. For SparkWell Projects\n\n9.4.1. Increased oversight and monitoring requirements\n\n9.4.2. Suspension of fiscal sponsorship\n\n9.4.3. Termination from SparkWell program\n\n9.4.4. Referral to appropriate authorities\n\n9.4.5. Potential legal action to recover misused funds\n\n## 10. How to Raise a Concern\n\n### 10.1. If You're Offered a Bribe or Asked to Make One\n\n10.1.1. If you are offered a bribe, asked to make one, or suspect bribery or corruption has occurred or may occur:\n\n**Step 1: Do not accept, offer, or make any payment or commitment**\n\n**Step 2: Immediately notify:**\n\n- Your supervisor (typically Jeffrey Poche for most staff), OR\n- Board President (Jeffrey Poche), OR\n- Another Board Member if Jeffrey Poche is involved\n- See Whistleblowing policy for additional confidential reporting channels\n\n**Step 3: Document what happened**\n\n- Date and time\n- Who was involved\n- What was offered, requested, or observed\n- Circumstances and context\n- Any witnesses\n\n**Step 4: Follow up in writing** to create a record of your report\n\n### 10.2. Protection from Retaliation\n\n10.2.1. You will not face retaliation for:\n\n- Refusing to participate in bribery or corruption\n- Reporting concerns in good faith\n- Cooperating with investigations\n\n10.2.2. Anyone who retaliates against you will face disciplinary action up to and including termination.\n\n### 10.3. Investigation Process\n\n10.3.1. We will investigate all reports promptly, thoroughly, and confidentially. Investigations typically include:\n\n- Review of relevant documents and records\n- Interviews with involved parties\n- Consultation with legal counsel if needed\n- Assessment of whether policy violations occurred\n- Determination of appropriate corrective actions\n\n### 10.4. Outcomes\n\n10.4.1. If we find a violation of this policy:\n\n- Employees may face disciplinary action up to and including termination\n- Contractors may have contracts terminated immediately\n- We may report violations to appropriate law enforcement or regulatory authorities\n- We may take action with SparkWell Projects (including termination from the program)\n- We may seek recovery of any improper payments or benefits\n- We may implement additional controls to prevent future violations\n\n## 11. Policy Review\n\n11.1. This policy will be reviewed annually and updated as needed to reflect changes in applicable laws, regulations, and Anti Entropy's operations.",
       "alternateSlugs": []
     },
     {
@@ -3805,42 +3750,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "6b7d891f-0c43-4ff7-8c80-d37b53e969da",
-      "slug": "switzerland-fadp",
-      "title": "Switzerland FADP",
-      "url": "https://resourceportal.antientropy.org/docs/switzerland-fadp",
-      "description": "A reference guide explaining Switzerland's Federal Act on Data Protection and its alignment with EU GDPR for Swiss organizations handling EU/EEA personal data",
-      "keywords": [
-        "Adequacy Decision",
-        "data breach reporting",
-        "Data Privacy",
-        "Data Protection Officer (DPO)",
-        "DPIC",
-        "FADP",
-        "Federal Act on Data Protection (FADP)",
-        "sensitive personal data",
-        "Swiss",
-        "Switzerland"
-      ],
-      "tags": [
-        "Data Privacy",
-        "FADP",
-        "Swiss",
-        "Switzerland"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "GDPR - Data Privacy and Security"
-      ],
-      "readingTime": 2,
-      "createdAt": "2023-02-23T15:10:04.842Z",
-      "modifiedAt": "2023-02-23T15:10:04.842Z",
-      "firstPublishedDate": "2023-02-15T12:57:16.851Z",
-      "lastPublishedDate": "2023-02-23T15:10:04.858Z",
-      "contentText": "### Who is this article for?\n\nAny Swiss organization dealing with privacy data from the EU or EEA, but not operating in the EEA or EU.\n\nWhile Switzerland is not part of the EU or the EEA, it is a member of the European Free trade Area and has received an Adequacy Decision from the EU on its data protection regulations. Switzerland adopted a policy analogous to the GDPR, the Federal Act on Data Protection (FADP). Swiss companies only have to obey the GDPR if operating in the EEA or EU.\n\nThe original FADP was enacted in 1993, and the revised version will be enacted on September 1, 2023. You can find the full regulatory text here (https://www.admin.ch/opc/en/classified-compilation/19920153/index.html).\n\n**The FDPA is similar to the EU GDPR with some conceptual differences.**\n\n- Data operations don't require a defined legal basis. However, explicit consent of the data subject is required for high-risk profiling and processing of particularly sensitive personal data.\n- Appointing a Data Protection Officer (DPO) is not obligatory for private companies.\n- Punishments for data breaches are given to individuals responsible for failing to ensure adequate data protection. Whereas, in the EU GDPR, fines are imposed on companies.\n\n**The Revised FDAP will reflect the following changes:**\n\n- Information on legal persons or legal entities is no longer protected.\n- The revised version will apply to both manual and electronic records.\n- The concept of automated processing of personal data (profiling) is included in the law.\n- The scope of what is considered sensitive personal data is broader:\n - Racial origin\n - Trade union membership\n - Health data, but only to the extent it reveals the handicap or illness of the data subject\n - Religious, ideological, or political activities (not only related beliefs)\n - The intimate sphere as such (not only sex life)\n - Genetic data\n - Biometric data allowing the unique identification of a person\n - Social security measures\n - Administrative or criminal proceedings and sanction\n- Increase in fundamental rights of data subjects\n - Right of access\n - Right to know the purpose of the processing\n - Right to deletion\n - Right to data portability\n - Right to intervene when automated decision-making impacts data subjects\n- Individuals who intentionally breach the rules face sanctions of CHF 250,000.\n- When a data breach occurs, there is a need to report directly to the Swiss Federal Data Protection and Information Commissioner (DPIC).\n - During high-risk data breaches\n - If there is any increased risk to the personality or fundamental rights of the affected individuals.\n- Mandatory data protection impact assessment for data controllers and data processors when conducting high-risk data processing activities\n\nYou can check out this link (https://swissprivacy.law/55/) for a comparison table of the Swiss FDAP with the EU GDPR.\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.\n\nAn adequacy decision is used by the European Commission to determine whether a third country (non-EU and non-EEA) offers a comparable level of protection of personal data to that of the EU GDPR. Countries with adequacy decisions will be able to receive data from the EU and EEA freely, without additional safeguards than necessary. This means that personal data can flow from the EU and EEA to these countries.",
-      "alternateSlugs": []
-    },
-    {
       "id": "380c16b4-7834-412d-9ec6-7c72ca17b2ef",
       "slug": "travel-policy-us-1",
       "title": "Travel and Entertainment Policy (US)",
@@ -4242,6 +4151,39 @@
       "alternateSlugs": []
     },
     {
+      "id": "dd2a2d0d-76be-4fb7-8d18-363b36c32b83",
+      "slug": "us-registered-agent",
+      "title": "US Corporate Registered Agent",
+      "url": "https://resourceportal.antientropy.org/docs/us-registered-agent",
+      "description": "A reference explaining the role of a registered agent for US nonprofits and their responsibility for receiving legal documents",
+      "keywords": [
+        "agent",
+        "Entity",
+        "legal document receipt",
+        "personal address alternatives",
+        "PO box option",
+        "registered agent requirement",
+        "USA"
+      ],
+      "tags": [
+        "agent",
+        "Entity",
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-05-04T10:03:24.728Z",
+      "modifiedAt": "2022-05-04T10:03:24.728Z",
+      "firstPublishedDate": "2022-04-28T21:48:51.828Z",
+      "lastPublishedDate": "2022-05-04T10:03:24.84Z",
+      "contentText": "## What Is A Registered Agent (US Corporation)\n\nA nonprofit’s registered agent (legal entity registration) is a living person who will receive legal and other documents and forward them to the organization. This is becasue many laws and regulations require some notices to be mailed or delivered in person; the registered agent is the person who receives these items on behalf of the company.\n\nA registered agent can be an employee or a board member; there are also businesses who provide the service of being a registered agent for the organization.\n\nThe registered agent will also need to give an address that can receive mail and notifications. If your organization does not have a physical address, you can use your personal address or set up a PO box.",
+      "alternateSlugs": []
+    },
+    {
       "id": "c4df9701-c1d5-492d-a2f7-eda2366f2f33",
       "slug": "us-independent-contractor-checklist",
       "title": "US Independent Contractor Tax Checklist",
@@ -4348,12 +4290,50 @@
       "alternateSlugs": []
     },
     {
+      "id": "dcc6fa58-678b-419b-85dd-73528ae6edaf",
+      "slug": "us-nonprofit-vs-charity",
+      "title": "US Nonprofit vs Charity",
+      "url": "https://resourceportal.antientropy.org/docs/us-nonprofit-vs-charity",
+      "description": "A reference explaining the legal and tax distinctions between nonprofit entities and charitable organizations under US law",
+      "keywords": [
+        "charitable purpose requirement",
+        "Entity",
+        "Form 990 reporting",
+        "retained earnings taxation",
+        "Section 501(c)",
+        "tax-exempt status",
+        "USA"
+      ],
+      "tags": [
+        "Entity",
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 2,
+      "createdAt": "2022-05-06T14:54:00.606Z",
+      "modifiedAt": "2022-05-06T14:54:00.606Z",
+      "firstPublishedDate": "2022-05-03T16:35:25.782Z",
+      "lastPublishedDate": "2022-05-06T14:54:00.645Z",
+      "contentText": "## Difference Between Nonprofit and Charity Entities\n\nWhile these terms are sometimes used interchangeably, they have different purposes and implications. All charities are nonprofit organizations, but not all nonprofits are charities.\n\n- Nonprofit status is how an entity is established under state corporate law.\n- Charity status is a designation of the IRS tax code.\n\nThe nonprofit entity is established at the state level and can apply to be recognized as a tax-exempt charity at the federal level. A nonprofit may or may not choose to be or qualify as charitable at the federal level for a variety of reasons.\n\n## Key Takeaways\n\n- Being a nonprofit does not mean you are tax-exempt.\n- All charities are nonprofit organizations, but not all nonprofits are charities.\n- Charities require a charitable purpose.\n\n## Deciding To Be A Charitable Organization\n\n**Pros:**\n\n- Tax Exemption\n - Being a nonprofit does not mean you are tax-exempt.\n - Federal income tax exemption is primarily established under one of 25 subsections of Section 501(c) of the Internal Revenue Code.\n- Donations to a charity are tax-deductible\n - Other kinds of nonprofit organizations may be granted tax exemption, only 501(c)(3) organizations are eligible to receive tax-deductible donations.\n- Most states require nonprofits to register as charities if they solicit donations of any kind from the public.\n\n**Cons:**\n\n- A charity must have a charitable purpose (https://resourceportal.antientropy.org/docs/charitable-purpose)and must act exclusively under that charitable purpose.\n- Trustees need to avoid any situation where charitable and personal interests conflict.\n- Charity organizations have campaign and lobbying restrictions (https://resourceportal.antientropy.org/docs/political-impartiality).\n- Charities have increased filing and reporting requirements which are often open to the public (https://www.irs.gov/charities-non-profits/tax-exempt-organization-search).\n- Applying to be a charity can be a long and difficult process.\n\n## Taxes for a Non-501(c) Nonprofit\n\nWhether, how much, or if a non-501(c) nonprofit pays taxes depends on many factors; you would want to talk to a certified accountant about whether it would be taxed (if not a 501). The short answer is that any funds left over at the end of the year are taxable.\n Organizations will want an accountant who is helping and is on the same page with you. Some retained earnings can be held and not taxed if they will be used for growth the next year, sometimes the first $250,000 is exempt. Again, consult a certified accountant as there are many restrictions, and reporting requirements.\n\n## Grant Fund Tax Implications\n\nGrant funds are considered regular income. Any funds left over after Dec 31st would be considered profit. Profit is taxed, the current federal corporate tax rate is 25%, plus state income tax could apply if the entity is incorporated in a state with income tax.",
+      "alternateSlugs": []
+    },
+    {
       "id": "fcdc7666-8d2f-4534-aada-a6e56bbe8a6e",
       "slug": "vacation-policy-us-1",
       "title": "Vacation Policy (US)",
       "url": "https://resourceportal.antientropy.org/docs/vacation-policy-us-1",
-      "description": "",
-      "keywords": [],
+      "description": "A template vacation policy for US organizations establishing employee time-off entitlements, request procedures, and special circumstance rules",
+      "keywords": [
+        "carryover limits",
+        "notice periods",
+        "PTO policy",
+        "termination arrangements",
+        "vacation entitlements"
+      ],
       "tags": [],
       "categoryPath": [
         "Building And Running An Organization",
@@ -4366,7 +4346,12 @@
       "firstPublishedDate": "2022-08-17T20:26:00.947Z",
       "lastPublishedDate": "2025-05-19T09:55:39.195Z",
       "contentText": "## About This Policy\n\nThe Vacation Policy provides a framework for organizations to establish clear guidelines on employee vacation entitlements, procedures for requesting time off, and rules for special circumstances such as illness or family leave. This customizable template includes all essential components of a standard vacation policy while allowing organizations to tailor specific details like vacation days, carryover limits, and notice periods to their unique needs.\n\n## Who Needs This Policy\n\nAny organization that doesn't have an unlimted PTO policy (https://resourceportal.antientropy.org/docs/template-privacy-notice-2). It is best practice to state vacation entitlement and vacation arrangements for termination, absence, and or sick leave within your handbook.\n\n## The Policy\n\nVacation Policy - US (GoogleDocs) (https://docs.google.com/document/d/1QuplcOQI7d-Pq4CpG8kXWBU_QhW5pIRTeEDCjMP5fE4/edit#heading=h.3w1ylcq7gebp)\n\n**Legal Review: (https://resourceportal.antientropy.org/docs/legal-review) 05/2025**",
-      "alternateSlugs": []
+      "alternateSlugs": [
+        "vacation-policy-us"
+      ],
+      "alternateUrls": [
+        "https://resourceportal.antientropy.org/docs/vacation-policy-us"
+      ]
     },
     {
       "id": "64e25a11-1301-4ba5-aa36-9e7f9f2c0733",
@@ -4393,6 +4378,40 @@
       "firstPublishedDate": "2022-03-31T20:32:57.716Z",
       "lastPublishedDate": "2025-05-19T09:08:41.264Z",
       "contentText": "## About This Policy\n\nThis is a simple unlimited vacation or holiday policy. It basically says you can take as many days as you want as long as you are doing a good job and gettting your work done.\n\n## Who Needs This Policy\n\nEven though an organization has an unlimited leave policy, it is still important to have documented what would be considered abusing the policy.\n\nSponsored Worker or Visa Employees\n\nNote that if you have Visa or Sponsored Workers, even with an unlimited leave policy, for visa requirements you may still need an absence policy. And you will ***very likely*** need to track/log Sponsored Worker days off.\n\n## The Policy\n\nUnlimited PTO Policy (Generic/Simple (https://docs.google.com/document/d/18oRAUYcjYqqR64OmZImS0rQfKr3z37HG6hUyC4GAv9U/edit?usp=sharing))",
+      "alternateSlugs": []
+    },
+    {
+      "id": "d1f9c4ce-4a12-4409-b9e5-4da6f10954ba",
+      "slug": "washingtondc-nonprofit-charity-and-legal-entity-setup-1",
+      "title": "Washington D.C. Nonprofit, Charity, and Legal Entity Setup",
+      "url": "https://resourceportal.antientropy.org/docs/washingtondc-nonprofit-charity-and-legal-entity-setup-1",
+      "description": "A guide for incorporating a nonprofit in Washington D.C. and obtaining tax-exempt status and charitable solicitation licenses",
+      "keywords": [
+        "Basic Business License",
+        "Certificate of Occupancy",
+        "D.C. Department of Consumer and Regulatory Affairs",
+        "D.C. Nonprofit Corporation Act",
+        "Form DNP-1",
+        "Form FR-164",
+        "nonprofit",
+        "registered agent requirement",
+        "washington dc"
+      ],
+      "tags": [
+        "nonprofit",
+        "washington dc"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "Washington D.C. Governance and Compliance"
+      ],
+      "readingTime": 3,
+      "createdAt": "2022-10-18T12:37:34.731Z",
+      "modifiedAt": "2022-10-18T12:37:34.731Z",
+      "firstPublishedDate": "2022-10-18T12:37:34.751Z",
+      "lastPublishedDate": "2022-10-18T12:37:34.751Z",
+      "contentText": "### Who is this article for?\n\nAnyone wanting to start a nonprofit or charity in the state of Washington.\n\nNonprofits operating in Washington, D.C., are governed under the D.C. Nonprofit Corporation Act of 5. Here are the steps to starting a nonprofit or charity in this state.\n\n### Washington D.C. Nonprofit and Charity Overview\n\n- Incorporate with the D.C. Department of Consumer and Regulatory Affairs (DCRA)\n- Apply for tax-exempt status with the IRS (https://resourceportal.antientropy.org/docs/applying-for-charity-status-us)\n- Apply for tax exemptions with the D.C. Office of Tax and Revenue\n- Apply for a Basic Business license for charitable solicitations with the DCRA\n\n### Items Needed During This Process\n\n- Registered Agent (https://resourceportal.antientropy.org/docs/us-registered-agent)\n- Articles of Incorporation (https://resourceportal.antientropy.org/docs/articles-of-incorporation)\n- Board Members (https://resourceportal.antientropy.org/docs/nonprofit-board-member)\n- Bylaws (https://resourceportal.antientropy.org/docs/us-corporate-bylaws)\n\n### D.C. Department of Consumer and Regulatory Affairs (DCRA)\n\nAll nonprofit organizations must first incorporate in D.C. with the DCRA (https://dcra.dc.gov/). According to the law, you only need one incorporator to proceed, but a minimum of 3 individuals to serve as directors.\n\n**Required Documents for Filing:**\n\n- Form DNP-1 (https://dcra.dc.gov/sites/default/files/dc/sites/dcra/publication/attachments/Art_Incorp_Dom_NonProfit_Corp_DNP_1.pdf)\n- Articles of incorporation. These should have the following information:\n - Name of the corporation\n - You can search whether your nonprofit name has already been taken here (https://corponline.dcra.dc.gov/Home.aspx/Landing).\n - Whether the corporation will have members\n - Name of the initial registered agent and agent's address in D.C.\n - You can find a list of commercial registered agents in D.C. here (http://www.district-of-columbia-registered-agents.com/).\n- Statement that the corporation has been formed under the D.C. Nonprofit Corporation Act, Title 29, Chapter 4\n- Name and street address of each incorporator\n- Each incorporator must sign and date the articles\n- You can also include the following information in your articles of incorporation:\n - Names of initial members of the board of directors (Minimum of 3 board members)\n - Names of initial members, if any\n - Provisions required for the corporation to meet the requirements of 501(c)(3)\n - Provision for the indemnification of directors\n - Any provision related to:\n - Purposes of why the corporation was formed\n - Management of affairs of the corporation\n - Powers of the corporation and board of directors\n - Rights and limitations of members\n\n**Steps for incorporating:**\n\n- File two original copies of the required documents, signed by incorporators\n- Pay the filing fee of:\n - $80 - 15 days processing time\n - $100 - Same-day expedited service\n- Mail all forms and required payment to:\n Department of Consumer and Regulatory Affairs\n Corporations Division\n PO Box 92300\n Washington, DC 20090\n Phone: (202) 442-4400\n\nBylaws are not filed with DCRA, but it’s best to have them drafted. You can find a sample of bylaws here (https://resourceportal.antientropy.org/docs/us-corporate-bylaws).\n\n### D.C. Office of Tax and Revenue\n\nUnder certain circumstances, organizations can request exemption from local income and franchise taxes, sales and use taxes, and personal property taxes from the state. It’s best to file promptly after receiving the IRS determination of exemption, as the D.C. exemption will be retroactive to the IRS’ effective date.\n\n**Required Documents for Filing:**\n\n- Form FR-164 (https://dmv.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/fr-164_rev12-07applicationpackage_0.pdf)\n- Form FR-500 (https://mytax.dc.gov/_/#1) (filed online)\n- Determination or ruling letter from IRS\n- Certificate of Incorporation from the D.C. Department of Consumer and Regulatory Affairs, Corporations Division\n- If not incorporated in DC, provide a photocopy of the Certificate of Authority\n- Copy of a lease, District of Columbia Occupancy Permit\n\nMail/fax the requirements to:\n Government of the District of Columbia\n Office of Tax and Revenue\n P.O. Box 556\n Washington, D.C. 220044-0556\n Fax # (202) 442-6882\n\n### Charitable Solicitations (Fundraising) Registration\n\nD.C. requires nonprofits to file for a Basic Business License (https://business.dc.gov/quick/9750) with the DCRA for charitable solicitations. Here are the steps:\n\n- Request for a Clean Hands Certificate (https://otr.cfo.dc.gov/page/certificate-clean-hands) online\n- Request for the following from the Office of the Zoning Administrator:\n - Certificate of Occupancy (https://dob.dc.gov/sites/default/files/dc/sites/dob/publication/attachments/DOB-Certificate-of-Occupancy-Application-Requirements-and-Application.pdf), if you’re operating out of an office location. File and email to doapp@dc.gov.\n - Home Occupation Permit (https://aca20.dcra.dc.gov/CitizenAccess/Login.aspx?ReturnUrl=%2fCitizenAccess%2fCap%2fCapApplyDisclaimer.aspx%3fCapType%3dBuilding%2fHome%2520Occupation%2fNA%2fNA%26Module%3dBuilding), if you’re conducting business out of a home.\n- Apply for a Basic Business License (https://mybusiness.dc.gov/login) online.\n Requirements:\n - Certificate of Occupancy or Home Occupation Permit\n - Charitable Services Business Worksheet (https://dcra.dc.gov/sites/default/files/dc/sites/dcra/service_content/attachments/Charitable%20Services%20Business%20Worksheet%20%28Fillable%29.pdf)\n - Corporate Registration\n - IRS Determination Letter\n - Tax Registration\n- Pay the corresponding fees:\n - Charitable Exempt - No Fee\n - Charitable Solicitation - $412.50",
       "alternateSlugs": []
     },
     {
