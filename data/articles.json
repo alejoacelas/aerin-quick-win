@@ -1,28 +1,20 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-08-14T09:28:06+00:00",
-  "articleCount": 148,
-  "failedCount": 19,
+  "generatedAt": "2026-08-15T08:45:48+00:00",
+  "articleCount": 154,
+  "failedCount": 11,
   "failures": {
-    "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
-    "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
+    "non-disclosure-agreement-nda": "Failed to fetch https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda: HTTP Error 429: Too Many Requests",
+    "nonprofit-discounts": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-discounts: HTTP Error 429: Too Many Requests",
+    "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
+    "pass-through-taxation": "Failed to fetch https://resourceportal.antientropy.org/docs/pass-through-taxation: HTTP Error 429: Too Many Requests",
     "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
+    "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
+    "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
     "political-impartiality": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality: HTTP Error 429: Too Many Requests",
-    "private-limited-companies-plcs": "Failed to fetch https://resourceportal.antientropy.org/docs/private-limited-companies-plcs: HTTP Error 429: Too Many Requests",
-    "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests",
-    "receipt-of-payment-template": "Failed to fetch https://resourceportal.antientropy.org/docs/receipt-of-payment-template: HTTP Error 429: Too Many Requests",
-    "receiving-grant-funds": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds: HTTP Error 429: Too Many Requests",
-    "remote-work-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy: HTTP Error 429: Too Many Requests",
-    "remote-work-policy-us": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy-us: HTTP Error 429: Too Many Requests",
-    "receiving-grant-funds-1": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds-1: HTTP Error 429: Too Many Requests",
-    "sending-payments-in-to-uganda": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda: HTTP Error 429: Too Many Requests",
-    "sending-payments-to-nigeria": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc-whats-the-difference-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-whats-the-difference-usa: HTTP Error 429: Too Many Requests",
-    "switzerland-fadp": "Failed to fetch https://resourceportal.antientropy.org/docs/switzerland-fadp: HTTP Error 429: Too Many Requests",
-    "template-privacy-notice-1": "Failed to fetch https://resourceportal.antientropy.org/docs/template-privacy-notice-1: HTTP Error 429: Too Many Requests",
-    "template-privacy-notice": "Failed to fetch https://resourceportal.antientropy.org/docs/template-privacy-notice: HTTP Error 429: Too Many Requests"
+    "sparkwell-whistleblowing-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-whistleblowing-policy: HTTP Error 429: Too Many Requests",
+    "staff-handover-process": "Failed to fetch https://resourceportal.antientropy.org/docs/staff-handover-process: HTTP Error 429: Too Many Requests",
+    "staff-resource-and-allocation-management": "Failed to fetch https://resourceportal.antientropy.org/docs/staff-resource-and-allocation-management: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -1265,40 +1257,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "5fdefb3a-1772-4665-ac2f-57c08bf86af2",
-      "slug": "nonprofit-email-compliance",
-      "title": "Email Compliance",
-      "url": "https://resourceportal.antientropy.org/docs/nonprofit-email-compliance",
-      "description": "A guide with checklist and examples for nonprofits to ensure email marketing compliance with regulations including GDPR, CAN-SPAM, and CCPA",
-      "keywords": [
-        "CAN-SPAM Act",
-        "CCPA",
-        "Compliance",
-        "double opt-in",
-        "email",
-        "Email Compliance Checklist",
-        "GDPR",
-        "GDPR Article 7",
-        "unsubscribe link"
-      ],
-      "tags": [
-        "Compliance",
-        "email",
-        "GDPR"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "GDPR - Data Privacy and Security"
-      ],
-      "readingTime": 4,
-      "createdAt": "2023-03-02T17:11:26.302Z",
-      "modifiedAt": "2023-03-02T17:11:26.302Z",
-      "firstPublishedDate": "2022-04-25T13:47:29.588Z",
-      "lastPublishedDate": "2023-03-02T17:11:26.495Z",
-      "contentText": "### Who is this article for?\n\nAny nonprofit, charity, or organization distributing emails, newsletters, and/or obtaining personal information from emails sent from their organization.\n\n### This Article Covers\n\n- Email Compliance Checklist\n- GDPR Email Subscriptions and Opt-ins\n- Example verbiage and visuals for compliant forms\n\n### Summary\n\nRegulations state how nonprofits can use email in their marketing and other activities, such as fundraising. Therefore, it’s essential to know the following laws for email compliance. For the full guide, click here (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing).\n\n### Email Compliance Checklist\n\n- Has everyone on your email list agreed to receive email communications from you? Did they opt-in explicitly or through transacting directly with the organization?\n - Does your opt-in page show what kind of messages the user will be receiving once they subscribe?\n- Is it clear that your organization is sending the email? Check if the “to” field has your organization’s name.\n- Does your subject line accurately state what the email is about?\n- If your email is an ad, do you have statements in the message stating that it is? For example, soliciting a donation might be considered an ad.\n- Does your email footer contain the following information?\n - Organization name\n - Valid physical address\n - Phone number, email, or web address\n - Unsubscribe option\n - Short text on why the user is receiving the email\n- Does your email show how the reader can unsubscribe from your emails?\n - Is it easy to read and understand how to unsubscribe?\n - Does clicking the link lead to the opt-out page on your website?\n- Do you have a link to your Privacy Policy? Read here for more about a Privacy Policy (https://resourceportal.antientropy.org/docs/template-privacy-notice).\n - Is your Privacy Policy updated on your website?\n- If you’re outsourcing your email marketing campaigns, ensure the third-party company is compliant to (ask them about it):\n - CAN-SPAM Act\n - GDPR\n - CCPA\n\n### GDPR Email Subscriptions and Opt-ins\n\nTo be compliant with GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk) ensure your organization is clear about the exchange of personal data for opting into any email, newsletter, or subscription. GDPR defines the conditions for consent in Article 7. (https://gdpr.eu/article-7-how-to-get-consent-to-collect-personal-data/)\n\n-\n\n**Consent is given voluntarily**\n\n - When assessing whether consent is given voluntarily, it must be taken into account whether the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract.\n - For example, if a user wants to download an ebook/whitepaper, or participate in an event, it must be clear that by doing so, they will be automatically subscribed to your newsletter.\n - If personal data will be collected in exchange for an item/service you’ll be providing this should be made clear during the opt-in stage.\n-\n\n**Consenting must be clearly recognizable**\n\n - Positive opt-in - Dedicate a separate space in your form where users can voluntarily and actively click on a checkbox\n - **Pre-ticked sign-up checkboxes are not allowed**\n - Double opt-in - Once a user submits their information, they receive an email that contains a link that they can click to further confirm their subscription to your newsletter.\n - It is best practice is to provide a link to your privacy policy not only in the opt-in form but in the emails you’ll be sending as well.\n-\n\n**You must ensure that opting out of your email subscription is easy**\n\n - Add a visible unsubscribe link to all of your emails\n - Add a link that lets users change their email preferences\n\nExamples of GDPR compliant newsletters (https://www.termsfeed.com/blog/gdpr-email-newsletters/)\n\nExamples of GDPR email disclaimers (https://www.exclaimer.com/email-signature-handbook/top-5-gdpr-email-disclaimer-examples/)\n\nFull GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide)\n\n### Compliant Form Examples\n\nThese examples are based on the UK and EU GDPR for compliance, as they are generally stricter than the US. However, it is always best practice to check your country or region's regulations in detail to ensure compliance. You can view our EU GDPR (https://resourceportal.antientropy.org/docs/gdpr-eu), UK GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk), and Switzerland FADP (https://resourceportal.antientropy.org/docs/switzerland-fadp) articles for additional information and details.\n\n[Image: Screen Shot 2023-03-02 at 10.56.47 AM.png]\n\n**Text Example 1:**\n By submitting your email, you agree to be included in our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I agree\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n**Text Example 2:**\n To receive [item/service], please subscribe to our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I want to subscribe\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n#### Non Compliant Examples\n\n[Image: Screen Shot 2023-03-02 at 10.57.28 AM.png]\n\n**Why it's not compliant:**\n In the above example, the checkbox is for two separate items. You must have separate checkboxes for separate actions that you would need consent from.\n\n[Image: Screen Shot 2023-03-02 at 11.01.33 AM.png]\n\n**Why it's not compliant:**\n There is no specific section of the form that the user agrees to or has to take action on by clicking or checking for sharing their information. There are also no details or explanation that they will be subscribed to a mailing list or not after joining the contest.\n\n### The Full Guide\n\nEmail Compliance Guide (Google Doc) (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing)\n The guide includes more detailed information and source data.",
-      "alternateSlugs": []
-    },
-    {
       "id": "e0137d3c-085b-473a-b117-9f636a97471e",
       "slug": "employer-guidance-for-independent-contractors-germany-1",
       "title": "Employer Guidance for Independent Contractors (Germany)",
@@ -1713,11 +1671,16 @@
       "slug": "gdpr-data-protection-policy-uk-1",
       "title": "GDPR Data Protection Policy (UK)",
       "url": "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk-1",
-      "description": "",
+      "description": "A template GDPR data protection policy for UK-based organizations and those conducting business in the UK or EU",
       "keywords": [
+        "EU compliant policy",
         "GDPR",
+        "personal data processing",
         "policy",
-        "UK"
+        "privacy notice",
+        "regional requirements",
+        "UK",
+        "UK GDPR compliance"
       ],
       "tags": [
         "GDPR",
@@ -1736,10 +1699,12 @@
       "lastPublishedDate": "2022-07-19T13:06:34.674Z",
       "contentText": "## About This Policy\n\nThis is a UK GDPR policy. If the organization is in the EU, use a region specific policy. If the organization is outide of the EU and UK then this policy will be adequate. The EU has said the UK policy is EU compliant.\n\n## Who Needs This Policy\n\nAny organization that is in the UK or does business in the UK. Organizations doing business outside of the EU could also use this as an EU compliant policy.\n\nThe rules are more strict if you are soliciting people or selling a product with personal data; use a policy and privacy notice from your attorney.\n\n## The Policy\n\nGDPR Data Protection Policy (UK) (https://docs.google.com/document/d/1-ADawFk1oja98xzFT7iLe3t-DNwF4ZS2lDI9rrICFlU/edit?usp=sharing)",
       "alternateSlugs": [
-        "gdpr-data-protection-policy-uk"
+        "gdpr-data-protection-policy-uk",
+        "template-privacy-notice-1"
       ],
       "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk"
+        "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk",
+        "https://resourceportal.antientropy.org/docs/template-privacy-notice-1"
       ]
     },
     {
@@ -1932,6 +1897,40 @@
       "firstPublishedDate": "2022-04-13T12:24:12.767Z",
       "lastPublishedDate": "2022-04-14T23:34:35.155Z",
       "contentText": "## About This Template\n\nThis is a setup template for creating a Policy Handbook.\n\nThis template contains no policies. Choose any relevant policies and copy-paste them into the template.\n\n## Using The Template\n\n- Open the template document\n- Find any policies you think might be relevant for your organization and insert them into the template.\n - Items in yellow or red will need to be modified to fit your organization.\n- Add any branding you might need.\n- Refresh the table of contents.\n - Click anywhere on the Table of Contents box. Click the circlular refresh button.\n - Do this anytime you add or modify a policy.\n\n[Image: Screen Shot 2022-04-15 at 12.32.18 AM.png]\n\n## The Template\n\nHandbook Template (Blank) (Google Docs) (https://docs.google.com/document/d/1Pkt50y5ensHkbuYueTJqr3aD3GJVmsQ7wDZI5QnP-To/edit?usp=sharing)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "d2971611-b42d-48e4-ae86-194b5fedaab7",
+      "slug": "receiving-grant-funds",
+      "title": "How Grant Funds Are Taxed",
+      "url": "https://resourceportal.antientropy.org/docs/receiving-grant-funds",
+      "description": "A guide explaining when grant funds are taxable income, how to report them, and which expenses may be tax-deductible for individuals and non-charity organizations",
+      "keywords": [
+        "charitable organization",
+        "Form 1099-MISC",
+        "Funding",
+        "grants",
+        "progressive tax rates",
+        "tax-deductible expenses",
+        "tax-exempt status",
+        "UK",
+        "USA"
+      ],
+      "tags": [
+        "Funding",
+        "grants",
+        "UK",
+        "USA"
+      ],
+      "categoryPath": [
+        "Fundraising and Grant Management"
+      ],
+      "readingTime": 9,
+      "createdAt": "2022-10-20T19:34:30.051Z",
+      "modifiedAt": "2022-10-20T19:34:30.051Z",
+      "firstPublishedDate": "2022-05-14T15:16:29.207Z",
+      "lastPublishedDate": "2022-10-20T19:34:30.083Z",
+      "contentText": "This guide gives a reliable rule of thumb to individuals or organizations who receive grant funds, including scholarships and fellowships. For definitions and guidance on what is a grant, best practices and creating an entity for grant funding see our article on Grant Funds (https://resourceportal.antientropy.org/docs/grant-funds)\n\nThe information in this article is not exhaustive and is non-region-specific, though there are region-specific examples for reference. Individuals and organizations should always seek advice from a certified accountant on properly handling any funding.\n\n***The information below assumes you are not a recognized public charity.***\n\nThis information covers grants from foundations, organizations, and individuals. Much of this does ***not apply to government-issued grants***, which may have exceptions and rules.\n\n### When Are Grants Taxable?\n\nUnless the grantee is a public charity organization, grant funds are considered regular income or revenue for the grantee in most cases. There are a few exceptions to this rule, but they are very few and specific. Almost all countries (all relevant countries) have similar rules (IRS Guidance for general reference (https://www.irs.gov/charities-non-profits/private-foundations/grants-to-organizations)).\n\nGrant money becomes taxable income if:\n\n- it is used for incidental expenses or paid directly as a stipend, compensation, or payment for teaching, research, or other services required as a condition of receiving the scholarship.\n- it is awarded by an employer unless it is proven to be employer-provided training (further studies for maintaining professional competence).\n\nWhen you file your income tax return:\n\n- On Form 1040 (https://www.irs.gov/pub/irs-pdf/f1040.pdf) or Form 1040-SR (https://www.irs.gov/pub/irs-pdf/f1040s.pdf), report the grants received under the “Wages, salaries, tips” line\n- On Form 1040-NR (https://www.irs.gov/forms-pubs/about-form-1040-nr), report under the \"Scholarship and fellowship grants\" line\n\n**For 2022 standard individual and corporate tax rates see our Tax Rates Article (https://resourceportal.antientropy.org/docs/tax-rates).**\n\n### When Are Grant Funds Tax Exempt?\n\nThe grantee's legal and tax status generally determines whether grant funds are exempt from income tax. When an organization is tax-exempt (charity status), all funds are exempt from taxes.\n\n- Grants to individuals will almost always be taxable income.\n- Grant funds to entities without public charitable status are not tax-exempt.\n - Being a nonprofit does not mean an organization is tax-exempt. Nonprofit is a legal status; tax-exempt is a tax authority status.\n- Only charities are tax-exempt (applies to all relevant countries).\n\n**For more information on tax rates and tax deductions see our Tax Rate Article (https://resourceportal.antientropy.org/docs/tax-rates).**\n\n### Grant Fund Tax Implications Key Takeaways\n\n- In almost all cases, grant funds are classified as regular income or revenue for the grantee if they are not a charity status organization.\n- Grants to individuals will almost always be taxable income.\n- Being tax-exempt and the ability to deduct items paid for with grant funds from your taxes are not the same thing.\n - When an organization is tax-exempt, all funds are exempt from taxes.\n - Tax deductions reduce the amount of your income subject to taxes; i.e., the grant may not be fully taxed.\n\n### How Much Tax Should An Individual or Organization Expect to Pay\n\nTax rates have high variability (https://resourceportal.antientropy.org/docs/receiving-grant-funds#standard-tax-rates) across regions, individuals, and organizations. Therefore, it is highly challenging to advise what an individual or organization will pay.\n\n- **TLDR for individuals**; “most likely, whatever rate you paid on your taxes last year is similar to the rate you will pay on these funds.” (Please note that the grant income may change your tax bracket. Always use the advice of an accountant.)\n- **TLDR for incorporated entities**; “If you are not a registered charity, you will likely pay your region’s corporate tax rate on these funds.”\n\nThere are ways to defer grant funds to the next year for specific expenditures that have not yet been incurred. But this process should be done under the advice of an accountant; not all expenses may qualify, and the transactions should be documented appropriately.\n\n### Tax-Deductible Expenses\n\nTax-exempt and tax-deductible are sometimes confused. If funds are tax-exempt, then no income tax is paid on those funds. On the other hand, tax deductions reduce the amount of your income that is subject to taxes.\n\nFor example, say you receive a grant for $10,000, and you are not a tax-exempt charity. You use the funds for $3,000 of qualified tax deductions (equipment, tuition, etc.). You would pay income tax on the remaining $7,000.\n\nA general rule of thumb; if it is used to do whatever work you are doing (computer, software, textbooks, course materials, tuition, etc.), it is deductible and not taxed. However, if it is to pay for things for yourself (housing, food, cost of living, stipend, etc.), it is taxed.\n\nUsing grant funds to pay for tax-deductible expenses and purchases does not affect their tax-deductible status. Not all expenses paid by the grant are automatically tax-deductible. The deductible amount is highly dependent on the grantee's situation; it may be all or none of the funds used.\n\nThere are no additional or specific tax deductions related to receiving a grant (no grant-specific tax deductions become available because you received a grant). But there are also no restrictions on what is tax-deductible because of the grant.\n\n- Grant funds are regular income with regular tax-deduction rules.\n- Grant funds may be used to pay for the tax-deductible expenses. For example, using grant funds to purchase a computer or textbooks **may** be tax-deductible. You will want to consult a tax specialist or accountant for what is deductible for your situation.\n- Items like living expenses or stipends are generally not deductible.\n- Expenses that qualify for tax deduction vary by region (IRS guidance on scholarships (https://www.irs.gov/taxtopics/tc421) for sample reference).\n\n## FAQ\n\n-\n\n**\"I'm lining up a grant for $10k, and the grantee is wondering how much tax they would pay on it?”**\n\n - If it goes to an individual, it is regular income on their taxes, and they pay their standard tax rate (https://resourceportal.antientropy.org/docs/receiving-grant-funds#standard-tax-rates). (IRS guidance on grants to individuals (https://www.irs.gov/charities-non-profits/private-foundations/grants-to-individuals))\n - Only charities are tax-exempt (applies to all relevant countries).\n - They will be able to deduct some expenses from their taxes. Possibly, for example, equipment or tuition.\n-\n\n**“How are scholarships taxed?”**\n\n - A scholarship is a type of grant and is subject to the same income tax rules as other grants. IRS guidelines (https://www.irs.gov/taxtopics/tc421)\n - Many regions have special tax deductions for educational expenses. In general, to be a tax-exempt educational expense, the institution must be accredited. The expense must be for tuition, fees, books, supplies, and equipment required for courses at the educational institution. Items like housing, living expenses, or stipends are generally not deductible.\n - Most regions have a cap on educational expenses deducted from taxes that range from the equivalent of $2,000 to $5,000 and can be dependent on total income and tax bracket.\n - IRS Educational Tax Credit Programs (https://www.irs.gov/credits-deductions/individuals/education-credits-aotc-llc)\n - IRS Tax-Deductible Education Items (https://www.irs.gov/credits-deductions/individuals/qualified-ed-expenses)\n - Most tax authorities treat being in higher education the same as being self-employed. Items like computers or textbooks are the tools you need to run your business (of being a student) and are tax-deductible.\n-\n\n**“Should I set up a legal entity or charity?”**\n\n - A legal entity may be a good fit if you are worried about keeping your grant funds and personal funds separate.\n - A legal entity is not difficult to set up. Many online services will do this for a very economical rate.\n - If you are paying others, a legal entity may be necessary and is often the best option.\n - Setting up a charity can be a long process.\n - Setting up a charity may be a good option if the grant is a significant amount or you believe you will be receiving more funding in the future.\n - The time commitment and cost of setting up and closing down a charity may be too costly for short-term projects.\n-\n\n**“Is the grantor required to report funds sent to the grantee to tax authorities?”**\n\n - Usually, yes. Notification is done based on the country's tax laws where the funder’s legal entity is established.\n - For funds from US entities, most grantees will receive a Form 1099-MISC (https://www.irs.gov/pub/irs-pdf/f1099msc.pdf) for any grants equal to or over $600.00; entered into Box 3 for Other income. However, some scholarships and fellowships may instead receive a W-2 (https://www.irs.gov/pub/irs-pdf/fw2.pdf).\n - Sometimes it may not be a government tax form. Instead, you may receive a letter stating the amount granted to you and that you may be reliable for paying taxes on the amount.\n\n## Appendix\n\n### Standard Tax Rates\n\n- TLDR ***for individuals***; “most likely, whatever rate you paid on your taxes last year is the rate you will pay on these funds.”\n- TLDR ***for incorporated entities***; “If you are not a registered charity, you will likely pay your region’s corporate tax rate on these funds.”\n\n#### Individual Income Tax Rates\n\nIt is challenging to advise on the percentage the individual will pay in taxes. Most countries (such as the UK, US, Germany, the Netherlands, and France) have a progressive income tax rate. Therefore, the tax rate from one person to the next can vary widely. Some countries have a flat tax rate that varies by the local municipality.\n\n2022 Sample Income Tax Bands For Reference:\n\nUK Income Tax Band | UK Tax Rate |\nUp to £12,570 | 0% |\n£12,571-50,270 | 20% |\n£50,271-150,000 | 40% |\n£150.001+ | 45% |\n\nFrench Income Tax Bands | French Tax Rate |\nUp to €10,225 | 0% |\n€10,226-€26,070 | 11% |\n€26,071-€74,545 | 30% |\n€74,546-€160.366 | 41% |\n€160,367 and above | 45% |\n\nUS Tax rate | US Taxable income bracket | US Tax owed |\n10% | $0 to $9,950 | 10% of taxable income |\n12% | $9,951 to $40,525 | $995 plus 12% of the amount over $9,950 |\n22% | $40,526 to $86,375 | $4,664 plus 22% of the amount over $40,525 |\n24% | $86,376 to $164,925 | $14,751 plus 24% of the amount over $86,375 |\n32% | $164,926 to $209,425 | $33,603 plus 32% of the amount over $164,925 |\n35% | $209,426 to $523,600 | $47,843 plus 35% of the amount over $209,425 |\n37% | $523,601 or more | $157,804.25 plus 37% of the amount over $523,600 |\n\nPossibly Plus:\n\nCalifornia Income Tax Band | California Tax Rate |\n$0 to $9,325 | 1% |\n$9,326 to $22,107 | $93.25 plus 2% of the amount over $9,325 |\n$22,108 to $34,892 | $348.89 plus 4% of the amount over $22,107 |\n$34,893 to $48,435 | $860.29 plus 6% of the amount over $34,892 |\n$48,436 to $61,214 | $1,672.87 plus 8% of the amount over $48,435 |\n$61,215 to $312,686 | $2,695.19 plus 9.3% of the amount over $61,214 |\n$312,687 to $375,221 | $26,082.09 plus 10.3% of the amount over $312,686 |\n$375,222 to $625,369 | $32,523.20 plus 11.3% of the amount over $375,221 |\n$625,370 or more | $60,789.92 plus 12.3% of the amount over $625,369 |\n\nNew York State Income Tax Band | New York State Tax Rate |\n$0 to $8,500 | 4% of taxable income |\n$8,501 to $11,700 | $340 plus 4.5% of the amount over $8,500 |\n$11,701 to $13,900 | $484 plus 5.25% of the amount over $11,700 |\n$13,901 to $21,400 | $600 plus 5.9% of the amount over $13,900 |\n$21,401 to $80,650 | $1,042 plus 5.97% of the amount over $21,400 |\n$80,651 to $215,400 | $4,579 plus 6.33% of the amount over $80,650 |\n$215,401 to $1,077,550 | $13,109 plus 6.85% of the amount over $215,400 |\n$1,077,550 to $5,000,000 | $72,166 plus 9.65% of the amount over $1,077,550 |\n$5,000,001 to $25,000,000 | $450,683 plus 10.30% of the amount over $5,000,000 |\n$25,000,001 and up | $2,510,683 plus 10.90% of the amount over $25,000,000 |\n\n#### Corporate Tax Rates\n\nIf the organization is not a charity, grant funds may be subject to corporate tax rates. Most countries have a flat corporate tax rate that can be found with a simple internet search.\n\n2022 Projected Corporate Tax Rates For Reference:\n\n- US 28%\n- UK 19% (moving to 25% in 2023)\n- France 25%\n- New York State 6.5 to 7.25%\n- California 8.84%",
       "alternateSlugs": []
     },
     {
@@ -2673,84 +2672,251 @@
       "alternateSlugs": []
     },
     {
-      "id": "a7ec9244-2f86-4ba6-8584-a24c82e0cc45",
-      "slug": "non-disclosure-agreement-nda",
-      "title": "Non-Disclosure Agreement (NDA)",
-      "url": "https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda",
-      "description": "A guide explaining NDA components, types, enforceability, and legal protections for organizations sharing confidential information with partners or employees",
+      "id": "e2531252-b5a4-43e7-b5d8-a4e3b6ee2df1",
+      "slug": "political-impartiality-policy",
+      "title": "Political Impartiality Policy",
+      "url": "https://resourceportal.antientropy.org/docs/political-impartiality-policy",
+      "description": "A template political impartiality policy for charities ensuring compliance with lobbying and election laws",
       "keywords": [
-        "confidential information definitions",
-        "enforceability considerations",
-        "legal recourse provisions",
-        "Mutual NDA",
-        "NDA",
-        "Non-Disclosure Agreement",
-        "non-mutual NDA"
+        "10% charitable fund limit",
+        "charitable impartiality",
+        "Compliance",
+        "election law",
+        "Funding",
+        "lobbying compliance",
+        "policy-influencing activities"
       ],
       "tags": [
-        "NDA",
-        "Non-Disclosure Agreement"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "Independent Contractors"
-      ],
-      "readingTime": 3,
-      "createdAt": "2025-11-18T23:39:15.057Z",
-      "modifiedAt": "2025-11-18T23:39:15.057Z",
-      "firstPublishedDate": "2023-02-02T19:02:01.378Z",
-      "lastPublishedDate": "2025-11-18T23:39:15.057Z",
-      "contentText": "Who this is for:\n\nOrganizations needing to protect confidential information when working with partners, vendors, contractors, employees, or other parties who will access sensitive business information.\n\nA non-disclosure agreement (NDA) is a legally binding contract that establishes confidentiality obligations between parties. These agreements protect sensitive business information from unauthorized disclosure and are standard practice when sharing proprietary information with employees, contractors, partners, or potential collaborators.\n\n## Types of NDAs\n\n**Mutual NDA**: Both parties agree to protect each other's confidential information. Use this when both organizations will share sensitive information, such as exploring partnerships, collaborations, or joint ventures.\n\n**Non-mutual NDA**: Only one party (the Receiving Party) agrees to protect the other party's (the Disclosing Party's) confidential information. Use this for employee onboarding, contractor agreements, or vendor relationships where information flows primarily one direction.\n\n## Common use cases\n\nOrganizations typically use NDAs when:\n\n• Onboarding new employees or contractors\n • Engaging with vendors or service providers\n • Exploring potential partnerships or collaborations\n • Sharing information with board members or advisors\n • Discussing sensitive projects with external parties\n • Providing access to confidential systems or data\n\n## What NDAs protect\n\nNDAs can protect various types of confidential information:\n\n• Business operations, strategies, and plans\n • Financial information and projections\n • Client and donor lists\n • Marketing strategies and materials\n • Technical data and processes\n • Proprietary methods and procedures\n • Personnel information\n • Strategic partnerships and relationships\n\nNDAs cannot protect information that is already public knowledge, widely disclosed, or that someone has a legal duty to report.\n\n## Key components of an NDA\n\n**Parties to the agreement**: Clearly identify all individuals or organizations bound by the agreement.\n\n**Definition of confidential information**: Specify what information is considered confidential. Be explicit rather than assuming others will understand what should remain private.\n\n**Exclusions from confidentiality**: Include standard exceptions such as information that becomes publicly available, was already known to the receiving party, or must be disclosed by law.\n\n**Permitted uses**: Detail how the receiving party may use the confidential information, including any restrictions on disclosure to third parties.\n\n**Duration**: Specify how long the confidentiality obligations remain in effect. This can range from a specific timeframe to perpetuity, depending on your needs.\n\n**Return or destruction of information**: Outline requirements for returning or destroying confidential materials when the relationship ends or upon request.\n\n**Consequences of breach**: Detail the remedies available if someone violates the agreement, including potential monetary damages, injunctions, or contract termination.\n\n**Governing law**: Specify which state or jurisdiction's laws will govern the agreement. Choose a jurisdiction where you have legal counsel or are familiar with the laws, as this determines which courts can hear disputes and which legal standards apply. Using your organization's home jurisdiction or where your attorney practices simplifies enforcement and legal guidance.\n\n## Benefits and limitations\n\n**Benefits:**\n • Provides legal recourse if confidential information is misused or disclosed\n • Clarifies expectations about what can and cannot be shared\n • Creates accountability and demonstrates professionalism\n • Cost-effective way to protect sensitive information\n • Builds trust in business relationships\n\n**Limitations:**\n • Cannot prevent all unauthorized disclosures\n • May be unenforceable if overly broad or vague\n • Can create administrative burden for smaller organizations\n • Does not replace other security measures\n\n## When NDAs may be unenforceable\n\nCourts may not enforce an NDA if:\n\n• The language is overly broad or unreasonably restrictive\n • The information is already publicly available or widely known\n • The agreement attempts to prevent reporting of illegal activities\n • There is no valid consideration supporting the agreement\n • The agreement violates public policy\n\n## Implementing an NDA\n\nTo effectively implement an NDA:\n\n- Determine whether you need a mutual or non-mutual agreement based on the relationship and information flow\n- Customize the template to reflect your specific needs:\n • Adjust the definition of confidential information to match what you're actually protecting\n • Modify exclusions if you have specific scenarios where disclosure is acceptable\n • Set an appropriate duration based on how long the information needs protection\n • Ensure permitted uses align with the purpose of sharing the information\n • Add or remove sections based on your situation and legal counsel's advice\n- Ensure all parties understand their obligations under the agreement\n\nImportant disclaimer:\n\nThis article provides general guidance only and is not legal advice. NDAs are legal contracts with significant implications. Consult with a qualified attorney to ensure your NDA is appropriate for your specific situation and enforceable in your jurisdiction.\n\nNDA Templates\n\nDownload our NDA templates to get started:\n\n• Mutual NDA Template (https://docs.google.com/document/d/16Lyou6cbBG3FA55CORpGP1r8TWI9m-qBtjoRQ-Oy-Ig/edit?usp=sharing) - For situations where both parties will share confidential information\n • Non-Mutual NDA Template (https://docs.google.com/document/d/1NazQeNA5qAlNoDUEy8JmEIy3-Wc9vK4Dss1z2YQqWuM/edit?usp=sharing) - For situations where one party will receive confidential information\n\nThese templates provide a starting point and should be reviewed by legal counsel before use.\n\n## Additional Resources\n\nGOV.UK Guidance on Non-disclosure agreements (https://www.gov.uk/government/publications/non-disclosure-agreements)",
-      "alternateSlugs": []
-    },
-    {
-      "id": "9cd8193b-4b7e-43be-92d7-c62ed1046846",
-      "slug": "nonprofit-discounts",
-      "title": "Nonprofit Software Discounts",
-      "url": "https://resourceportal.antientropy.org/docs/nonprofit-discounts",
-      "description": "A reference listing software and tools offering discounts to nonprofits, eligibility requirements, and application processes for each vendor",
-      "keywords": [
-        "discounts",
-        "fiscal sponsorship eligibility",
-        "Form 990",
-        "IRS 501(c)(3) determination letter",
-        "nonprofit",
-        "Percent verification",
-        "software discounts",
-        "TechSoup"
-      ],
-      "tags": [
-        "discounts",
-        "nonprofit",
-        "software discounts"
+        "Compliance",
+        "Funding"
       ],
       "categoryPath": [
         "Building And Running An Organization",
-        "Operational Tools and Resources"
+        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
+        "All Policies"
       ],
-      "readingTime": 4,
-      "createdAt": "2025-10-29T16:44:40.363Z",
-      "modifiedAt": "2025-10-29T16:44:40.363Z",
-      "firstPublishedDate": "2023-04-27T12:47:13.274Z",
-      "lastPublishedDate": "2025-10-29T16:44:40.363Z",
-      "contentText": "## Nonprofit Discounts\n\nMost online tools and software companies offer discounts and special pricing to nonprofits. Take advantage of these discounts, special deals, and donated software to save resources and invest more in your mission. While free versions exist, they often have limited features that won't meet your needs as you scale and grow.\n\n## Typical Requirements\n\nThese are the usual information and requirements you'll need to prepare before applying for nonprofit discounts:\n\n- Registered organization name\n- Organization URL\n- EIN (Employer Identification Number)\n- IRS 501(c)(3) determination letter\n- Sometimes requested:\n - Recent Form 990\n - Organizational bylaws\n\n#### For Fiscally Sponsored Projects\n\nIf you are a fiscally sponsored project, be aware that some platforms do not offer discounts to sponsored projects or may not consider them eligible. The application process may also vary depending on the platform:\n\n- Some platforms require your fiscal sponsor to apply and manage the account on your behalf\n- Others allow sponsored projects to apply directly using their project name\n- You may want to check with your fiscal sponsor before applying to understand their process and requirements\n- Additional documentation may be needed:\n - Fiscal Sponsorship Agreement\n - Letter from fiscal sponsor confirming 501(c)(3) status\n\n## Airtable\n\nAirtable offers 50% off on Team plan licenses to eligible nonprofits.\n\n- Eligibility criteria can be found here (https://support.airtable.com/docs/nonprofit-and-educational-plans-faqs)\n- Application form can be accessed here (https://airtable.com/shr9DxhP6lU9slZE6?prefill_Application=Nonprofit)\n- Decisions are typically given within 2 business days\n- Note: Airtable AI is not eligible for nonprofit discounts\n\n## Salesforce\n\nSalesforce offers nonprofit-specific pricing and programs for eligible organizations.\n\n**Nonprofit Cloud Pricing:**\n\n- Available at discounted rates for nonprofits\n- Visit Salesforce's nonprofit pricing (https://www.salesforce.org/products/nonprofit-pricing/) for current rates\n\n**The Power of Us Program:**\n\n- Qualifying nonprofits receive 10 free subscriptions to the Nonprofit Cloud Enterprise Edition plus access to discounted Salesforce technology\n- Eligibility criteria can be found here (https://www.salesforce.org/wp-content/uploads/2023/03/p10-eligibility-guidelines-English-2023.pdf)\n- Processing time takes 2 to 3 weeks\n\n## Google Workspace\n\nEligible nonprofits can access Google Workspace for free or at discounted rates through Google for Nonprofits.\n\n- List of available products can be found here (https://www.google.com/nonprofits/workspace/compare/)\n- Eligibility criteria can be found here (https://www.google.com/nonprofits/eligibility/)\n- Verification is handled through Goodstack (Google's official verification partner)\n- Verification typically takes 3-5 business days\n- The free tier supports up to 2,000 users\n\n## Zoom\n\nYou can access discounted Zoom licenses through TechSoup.\n\n- 50% discount available on Pro and Business licenses through TechSoup (https://www.techsoup.org/zoom)\n- Can be purchased once per fiscal year (July 1 to June 30), valid for 12 months\n- More information can be found here (https://www.techsoup.org/products/zoom-one-1-year-subscription-access-to-discounted-rates-g-53437-)\n\n## Asana\n\nNonprofits can receive a 50% discount on Premium or Business plans.\n\n- More information available at Asana for Nonprofits (https://asana.com/nonprofit)\n- Application form can be accessed here (https://validation.poweredbypercent.com/validate/validationinvite_a452a260-4d29-4698-bf87-3bcfdf8718a0?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyUHVibGljS2V5IjoicGtfYjJlZWZmZjctODIzOS00NTBmLWJiN2ItN2FiZGQwNGM1Mzk1IiwiaWF0IjoxNjgwMTcwMTc3fQ.wbtudRXN01LObXxYNjCSvt_PoCl5r4bE8CS06ZupI0k)\n\n## Slack\n\nThe Slack for Nonprofits program offers free or discounted plan upgrades to eligible organizations.\n\n- Pro Plan: Free upgrade for workspaces with 250 or fewer members; 85% discount for workspaces above that size\n- Business+ Plan: 85% discount for workspaces of any size\n- Enterprise Grid: Available for qualifying workspaces with 1,000+ members (contact Slack (https://slack.com/help/contact?from_hc=1&src=article&hid=HC-8031-22F8-2184-9F1F&aid=204368833))\n- Workspace owners can submit applications here (https://my.slack.com/nonprofit)\n- Slack partners with TechSoup to review and validate applications\n- Applications are typically processed within 3 business days\n\n## Microsoft\n\nMicrosoft offers granted or discounted licenses on products to eligible nonprofits.\n\n- Granted licenses available for paid employees and unpaid executive staff\n- Discounted licenses available for all staff, including volunteers and temporary staff\n- The person registering must be an employee or strategic volunteer of the nonprofit (beneficiaries, donors, and members are not eligible)\n- Eligibility criteria can be found here (https://www.microsoft.com/en-us/nonprofits/eligibility?activetab=pivot1%3aprimaryr4)\n- Register through this link (https://signup.nonprofit.microsoft.com/en-us)\n- Processing and review takes approximately 7 days\n\n## Dropbox\n\nNonprofits can receive discounts on Dropbox team account subscriptions.\n\n- Contact your Dropbox team admin to learn more about nonprofit pricing\n- More information available here (https://help.dropbox.com/billing/discounts)\n\n## Coda\n\nNonprofits can receive a 50% discount on Coda plans.\n\n- Eligibility criteria can be found here (https://help.coda.io/en/articles/3517611-students-teachers-and-nonprofits#h_c016f343e2)\n- Application form can be found here (https://coda.io/form/Coda-for-Nonprofits_dCEOOosYELh)\n\n## ClickUp\n\nClickUp offers nonprofit discounts on their plans.\n\n- Claim your nonprofit discount here (https://clickup.com/teams/non-profit)\n- Alternatively, email help@clickup.com to discuss customized pricing for your nonprofit\n\n## Zapier\n\nNonprofits can receive a 15% discount on a single Zapier plan.\n\n- Application form can be found here (https://zapier.typeform.com/to/nr8baR?typeform-source=www.google.com)\n- More information available here (https://zapier.com/non-profits)\n\n## Xero\n\nNonprofits can receive a 25% discount on Xero accounting software.\n\n- Check out the different plans and pricing here (https://www.xero.com/pricing-plans/)\n- Sign up for a free 30-day trial here (https://www.xero.com/ph/signup/)\n- After your trial, contact support (https://central.xero.com/s/contact-support) to inquire about the nonprofit discount\n- You will need to submit documentation to validate your nonprofit status\n\n## Discount Retailers and Donation Programs\n\nThere are organizations and tech nonprofits that offer discounted or donated software. Ensure they are authorized nonprofit software resellers before engaging with any you find online.\n\nHere are some verified nonprofits that resell tech and software you can contact:\n\n### TechSoup\n\nTechSoup provides software solutions and hardware to nonprofits, including discounted or donated licenses to Microsoft, Adobe, Symantec, and Intuit.\n\n- Sign up for free here (https://www.techsoup.org/joining-techsoup/registration)\n- During registration, you can upload documents proving your nonprofit status with the IRS\n- Check your eligibility for software donation programs here (https://www.techsoup.org/EligibilityQuiz)\n\n### Percent\n\nPercent (formerly known as Goodstack) helps nonprofits access technology discounts and verify nonprofit status for various platforms.\n\n- Sign up for free at Percent (https://poweredbypercent.com/)\n- Provides verification services for platforms like Google Workspace and others\n- Connects nonprofits to additional technology discounts from major brands\n\n### Genesis Technologies\n\nGenesis Technologies (https://www.genesis-technologies.com/non-profit.html) provides technology solutions for nonprofits (including churches), educational, and government institutions as a marketplace.\n\n- Find their product catalog here (https://www.genesis-technologies.com/products/nonprofit.html)",
+      "readingTime": 1,
+      "createdAt": "2022-04-29T15:48:03.243Z",
+      "modifiedAt": "2022-04-29T15:48:03.243Z",
+      "firstPublishedDate": "2022-04-29T15:48:03.33Z",
+      "lastPublishedDate": "2022-04-29T15:48:03.33Z",
+      "contentText": "## About This Policy\n\nA political impartiality policy helps an organization ensure it is complying with lobbying and election laws and regulations.\n\n## Who Needs This Policy\n\nAny charity or organization which receives funds from a charity may need this policy.\n\nNo more than 10% of charitable funds or resources should be spent on policy-influencing activities. See the full guideance for more information (https://resourceportal.antientropy.org/docs/political-impartiality).\n\n## The Policy\n\nPolitical Impartiality Policy (Google Docs) (https://docs.google.com/document/d/1aIgGlB-86OG_R_9m1wQOL9YM5619nV5Xl5GOMountIw/edit?usp=sharing)\n\n*This is a basic impartiality policy useful for organizations that do not engage in any political activities. If your organization works with policymakers, you may want a policy from your attorney.*",
       "alternateSlugs": []
     },
     {
-      "id": "295f5d8e-462e-4e36-bf4a-55ce0d4c635d",
-      "slug": "pass-through-taxation",
-      "title": "Pass-through Taxation",
-      "url": "https://resourceportal.antientropy.org/docs/pass-through-taxation",
-      "description": "A reference explaining pass-through taxation structures where business income is taxed at individual rates rather than corporate rates",
+      "id": "5d5bd8d0-9a07-4f4f-9a4d-f6863e7b8d05",
+      "slug": "template-privacy-notice",
+      "title": "Privacy Notice Template",
+      "url": "https://resourceportal.antientropy.org/docs/template-privacy-notice",
+      "description": "A template privacy notice for EU/UK organizations to disclose personal data practices and comply with GDPR requirements",
       "keywords": [
-        "business income taxation",
-        "corporate income tax avoidance",
-        "personal income tax return",
-        "sole proprietorship",
-        "Taxation"
+        "EU/UK jurisdiction",
+        "GDPR",
+        "GDPR compliance",
+        "ICO template",
+        "personal data disclosure",
+        "privacy",
+        "template",
+        "website footer placement"
       ],
       "tags": [
-        "Taxation"
+        "GDPR",
+        "privacy",
+        "template"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "GDPR - Data Privacy and Security"
+      ],
+      "readingTime": 1,
+      "createdAt": "2023-01-25T14:42:31.973Z",
+      "modifiedAt": "2023-01-25T14:42:31.973Z",
+      "firstPublishedDate": "2022-03-31T19:45:30.623Z",
+      "lastPublishedDate": "2023-01-25T14:42:32.015Z",
+      "contentText": "## About This Policy\n\nThe document linked below is a standard GDPR privacy notice. It is a copy of the ICO template (https://ico.org.uk/for-organisations/sme-web-hub/make-your-own-privacy-notice/) with more examples and a little formatting.\n\nThe best practice is to put this policy on your website with a link to it in your website footer and in your standard email signatures.\n\n## Who Needs This Policy\n\nIf you are in or do business in the EU or UK you need this policy. For more details, see the GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide).\n\nThe rules are more strict if you are soliciting people or selling a product with personal data; in this circumstance, use a policy and privacy notice from your attorney.\n\n## The Template\n\nPrivacy Policy Template (Google Doc) (https://docs.google.com/document/d/1ABRjnY0ROr06mwfW7dO10zOWNVG_LUY2X3Hzs5gPcU8/edit?usp=sharing)\n\nGeneral Data Protection Regulation is a Regulation in EU law on data protection and privacy in the EU and the European Economic Area. Any organization in the EU or UK or dealing with people in the EU or UK is expected to be compliant with GDPR regulation.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "89eb7651-5deb-4b80-a635-e98286644dca",
+      "slug": "private-limited-companies-plcs",
+      "title": "Private Limited Companies (PLCs)",
+      "url": "https://resourceportal.antientropy.org/docs/private-limited-companies-plcs",
+      "description": "A reference guide explaining Private Limited Company (PLC) structure, setup requirements, registration steps, and operational obligations for UK businesses",
+      "keywords": [
+        "articles of association",
+        "Companies House registration",
+        "corporation tax",
+        "independentcontractor",
+        "PAYE system",
+        "PLC",
+        "SIC code",
+        "UK"
+      ],
+      "tags": [
+        "independentcontractor",
+        "PLC",
+        "UK"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "UK Nonprofits and Charities",
+        "UK Governance References and Definitions"
+      ],
+      "readingTime": 2,
+      "createdAt": "2022-10-11T13:51:29.515Z",
+      "modifiedAt": "2022-10-11T13:51:29.515Z",
+      "firstPublishedDate": "2022-10-11T13:51:29.535Z",
+      "lastPublishedDate": "2022-10-11T13:51:29.535Z",
+      "contentText": "Private Limited Companies (PLCs) are businesses that are legally separated from their owners, and therefore have separate finances, unlike a sole trader (https://resourceportal.antientropy.org/docs/sole-trader). PLCs are seen as more professional and credible than sole traders and are preferred by financial institutions for business accounts and transactions.\n\n**There are two types of PLCs:**\n\n- Limited by shares\n- Limited by guarantees (non-profit organizations)\n\n### Requirements to set up a PLC:\n\n- Minimum of one director and one member, which can be the same person\n- Member must be at least 16 years old\n- Not a disqualified director or undischarged bankruptcy\n\nYou can apply through a company formation agent, which takes about 3 to 6 working hours. You can find a list of formation and company secretarial agents here (https://www.gov.uk/government/publications/formation-and-company-secretarial-agents/company-formation-agents-and-secretarial-agents).\n\n### How to Register your PLC and Needed Documentation\n\n###\n\n**1.** Chose an official name\n\n- It needs to end with ‘ltd’ or ‘Limited’\n- It’s recommended that you do not use your name as HMRC may flag you as an employee under the IR35 legislation (https://www.gov.uk/guidance/understanding-off-payroll-working-ir35).\n\n**2.** Registered office address\n\n**3.**Standard industrial classification of economic activities (SIC) (https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic) - The SIC code defines your business’ activities/operations\n\n**4.** Memorandum of association and articles of association (https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies)\n\n**5.** Registration with the Companies House (https://www.tax.service.gov.uk/register-your-company/setting-up-new-limited-company?_ga=2.219767772.458173448.1658453446-671054591.1654181727) and HMRC (https://www.gov.uk/limited-company-formation/set-up-your-company-for-corporation-tax?step-by-step-nav=37e4c035-b25c-4289-b85c-c6d36d11a763) for corporation tax\n\n### PLC Business Requirements\n\n- File annual accounts and an annual confirmation statement with Companies House\n- Submit a company tax return to HMRC\n - As the director of your PLC, you need to file a Self Assessment tax return in your personal capacity as well.\n - If you get your salary from your own PLC, then you need to do it through the PAYE (https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye) system (for taxes and NIC payments)\n- Pay corporation tax\n- Keep detailed financial records of your business - (profits, losses, expenses)\n\n**PLC Advantages:**\n\n- Because company finances are separate from personal assets, there’s limited liability in case of business losses or failure. The company operates as a separate legal entity as its owner/director/employees.\n- PLCs are seen as more professional and credible than sole traders.\n- Having a PLC is more tax efficient. For instance, limited companies pay 19% corporation tax on profits, compared to 20-45% income tax for sole traders. PLCs can also claim tax-deductible costs and allowances.\n- Lower income tax and NIC contributions if you pay yourself through a combination of salary and dividends.\n\n**PLC Disadvantages:**\n\n- Your personal information is publicly listed on the Companies House website when you set up your own PLC (Name, official address, birthday, telephone number).\n- It can get confusing to do accounting for your business, which is why it’s recommended that you hire a CPA for advice and/or assistance.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "88372e38-ea7d-4650-a0c9-9fec40500b33",
+      "slug": "receipt-of-payment-template",
+      "title": "Receipt of Payment Template",
+      "url": "https://resourceportal.antientropy.org/docs/receipt-of-payment-template",
+      "description": "A template for documenting payments to contractors and vendors without formal invoicing systems",
+      "keywords": [
+        "1099 reporting",
+        "payment thresholds",
+        "tax identification fields",
+        "W-9 form",
+        "withholding requirements"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "Building And Running An Organization",
+        "Operational Tools and Resources",
+        "Templates"
+      ],
+      "readingTime": 3,
+      "createdAt": "2025-11-06T21:59:14.123Z",
+      "modifiedAt": "2025-11-06T21:59:14.123Z",
+      "firstPublishedDate": "2025-11-06T21:59:14.123Z",
+      "lastPublishedDate": "2025-11-06T21:59:14.123Z",
+      "contentText": "## About this template\n\nA receipt of payment documents when your organization pays contractors, vendors, or service providers who don't provide standard invoices or receipts. This template creates a paper trail for payments to individuals or small vendors, particularly common with international contractors, interview participants, or one-time service providers.\n\n**Note:** this is different from a Replacement Reciept (https://resourceportal.antientropy.org/docs/generic-receipt-replacement-template) for expense reimbursement purposes when the original receipt is unavailable.\n\n#### Download template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)\n\n## Who needs this\n\n- Organizations paying contractors or vendors without formal invoicing systems\n- Research organizations compensating interview participants\n- Organizations needing documentation for cash or informal payments\n- Working with vendors in regions where formal invoicing isn't standard\n\n#### Don't use this template for:\n\n- Regular vendors who should provide invoices\n- Employee salary or wage payments\n- Purchases where you receive goods (use standard receipts)\n- Recurring service providers who can issue proper invoices\n\n## How to customize this template\n\n#### Organization details\n\n- Replace ORG_NAME with your organization's name throughout\n- Add your organization's tax ID if required in your jurisdiction\n- Consider adding your organization's address for formal documentation\n\n#### Payment categories\n\nAdjust the payment types to match your common uses:\n\n- Research organizations: Interview participation, focus group participation, user testing, survey completion, study participation\n- Media/content organizations: Video editing, graphic design, transcription services, translation, voice-over work, content writing\n- Event organizations: Speaker fees, workshop facilitation, panel participation, performance fees, equipment rental from individuals\n- Community organizations: Interpretation services, cultural consulting, community liaison work, local coordination, outreach services\n- General services: Consulting, training delivery, data entry, temporary assistance, specialized expertise\n\nRemove categories you won't use to keep the form simple and add specific categories relevant to your work.\n\n#### Tax identification fields\n\nDifferent jurisdictions require different tax documentation:\n\n- United States: Include space for SSN or EIN for amounts over $600 (1099 reporting)\n- United Kingdom: Add space for UTR (Unique Taxpayer Reference) or National Insurance number\n- European Union: Include VAT number field if applicable\n- Other regions: Research local tax ID requirements\n\n#### Setting payment thresholds\n\nIf you have one, your organization's expense or payment policy should specify when this template is appropriate versus requiring formal invoices. Consider incorporating thresholds into your policy:\n\n**Common threshold approach is a bandwidth:**\n\n- Under $100-250: Receipt of payment acceptable\n- $250-1,000: Receipt of payment with additional documentation\n- Over $1,000: Formal invoice required\n\nThese thresholds should align with your existing expense approval levels and risk tolerance. Document these limits in your expense reimbursement or accounts payable policy so staff know when to use this template versus requesting formal documentation.\n\n**Additional documentation requirements**\n For larger amounts, consider requiring supplementary documentation:\n\n- Copy of recipient's government-issued ID\n- Written agreement or scope of work\n- Bank transfer confirmation\n- Secondary approval signature\n\n## Best practices\n\n- Pre-fill known information - Complete organization sections before meeting contractors\n- Translate if needed - Provide template in languages your contractors read\n- Explain purpose - Help recipients understand this protects both parties\n- Keep copies accessible - Contractors may need copies for their tax filing\n- Review regularly - Update template as regulations or needs change\n- Train staff - Ensure anyone making payments understands when and how to use\n\n## Compliance considerations\n\nImportant tax disclaimer:\n\nThis section provides general documentation guidance only. Tax treatment and reporting requirements vary significantly by jurisdiction and payment type. Consult a qualified tax professional or legal advisor for requirements specific to your organization and location.\n\n**US organizations**\n\n- Track total annual payments per recipient for 1099 reporting\n- Collect W-9 forms before first payment when possible\n- Maintain records for 7 years for tax purposes\n\n**International payments**\n\n- Research withholding requirements for payments to foreign nationals\n- Document any tax treaty benefits claimed\n- Keep records of recipient's country of tax residence\n\nDownload template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "936acb34-8201-4e5a-ad5a-464e96db3665",
+      "slug": "receiving-grant-funds-1",
+      "title": "Receiving Grant Funds From A US Funder",
+      "url": "https://resourceportal.antientropy.org/docs/receiving-grant-funds-1",
+      "description": "A guide explaining how individuals and organizations receive grant funds from US funders, including eligibility requirements, grant types, and management best practices",
+      "keywords": [
+        "501(c)(3) status",
+        "expenditure responsibility",
+        "grant funds",
+        "grant types (unconditional/contingency/reimbursable)",
+        "IRS Form 8940",
+        "receiving grant funds",
+        "taxable expenditures"
+      ],
+      "tags": [
+        "grant funds",
+        "receiving grant funds"
+      ],
+      "categoryPath": [
+        "Fundraising and Grant Management"
+      ],
+      "readingTime": 5,
+      "createdAt": "2025-05-12T14:33:08.385Z",
+      "modifiedAt": "2025-05-12T14:33:08.385Z",
+      "firstPublishedDate": "2022-12-23T15:17:53.512Z",
+      "lastPublishedDate": "2025-05-12T14:33:08.385Z",
+      "contentText": "### Who is this article for?\n\nFor individuals or organizations who receive grant funds, including scholarships and fellowships.\n\nThis information covers grants from foundations, organizations, and individuals in the U.S. Majority of the information does ***not apply to government-issued grants***, which may have exceptions and rules. While most countries have similar rules and regulations for grant funding, it is best to check your country's tax laws and government regulations prior to applying for or receiving any funding.\n\n### Topics Covered in This Article:\n\n- Grants for Individuals\n- Grants for Organizations\n- Best Practices for Receiving Grants (Individuals and Nonprofits)\n\n### Grants for Individuals\n\nFoundations, funders, and sponsors prefer to give grants to nonprofits or those with 501(c)(3) status, which is why fewer individual or personal grants are given. A nonprofit or organization with 501(c)(3) status looks more reputable due to its structure and need to adhere to certain guidelines and laws.\n\nAccording to the IRS (https://www.irs.gov/charities-non-profits/private-foundations/grants-to-individuals), grants that are awarded to individuals for travel, study, or other similar purposes are considered taxable expenditures.\n Individual grants only become non-taxable if:\n\n- Grant is awarded on an objective and nondiscriminatory basis through a procedure pre-approved by the IRS\n- Grant is a scholarship and fellowship to be used for the study\n- Grant is a prize or award that is excludable from gross income if the recipient is selected from the general public\n- Grant's purpose is to achieve a specific objective, produce a report or similar product, and improve or enhance a literary, artistic, musical, scientific, teaching, or similar capacity, skill, or talent of the grantee.\n\n**Note:** Direct donations are not tax-deductible for the donor (in this case, the funder), and if you received a grant, then it will count as personal income, which is taxable. See our article on how grant funds are taxed (https://resourceportal.antientropy.org/docs/receiving-grant-funds) for more information on grant taxation.\n\nOrganizations that provide individual grants in the U.S. can do so through advanced approval from the IRS (https://www.irs.gov/charities-non-profits/private-foundations/advance-approval-of-grant-making-procedures), filing a Form 8940 (https://www.irs.gov/pub/irs-pdf/f8940.pdf). The requirements for individual grant procedures include the following:\n\n- The procedure awards grants on an objective and non-discriminatory basis\n- The procedure is reasonably calculated to result in performance by grantees of the activities that the grants are intended to finance\n- The foundation will supervise grants to determine whether grantees have fulfilled the grant terms\n\n### Grants for Organizations\n\nFoundations, corporations, and government agencies also offer grants to organizations, whether they’re nonprofits or for-profit businesses. For-profit businesses are typically not eligible to receive grants from the federal government. Funds from a government grant are best used for operational and administrative expenses. Grants for small businesses are typically aimed at job creation, funding projects that don’t get traditional support, or increasing economic benefits for communities.\n\nIn addition to the financial benefits of a grant, a grant may also help increase your nonprofit or company’s visibility. You’re more likely to get grants from different funders once you secure your first grant and make good use of the funding received.\n\nThere are 3 different types of grants that are typically awarded:\n\n- **Unconditional Grant** - These are usually provided upfront and can be used at your discretion, without restrictions.\n- **Grant with Contingencies** - Funding is usually given in installments over time, and you are required to fulfill certain conditions.\n- **Reimbursable Grant** - In this case, you pay for the grant’s intended project initially, then the grantor pays you back for your expenditures.\n\nNo matter what type of grant you receive, it’s advised that you keep track of the grant funding and the expenditures associated with it. This is especially important if one of the conditions explicitly specifies how the funds are to be used.\n\nSimilar to grants to individuals, grants to organizations are still taxable expenditures in the US according to the IRS, unless:\n\n- The recipient’s organization is a public charity - in the US, this means they have 501(c)(3) status.\n- The foundation (grantor) exercises expenditure responsibility (https://resourceportal.antientropy.org/docs/understanding-expenditure-responsibility-grantees) with respect to the grant.\n\n### Best Practices for Receiving Grants (Individuals and Nonprofits)\n\nIf you are awarded a grant by a foundation or nonprofit, it’s important to ensure your goals are aligned and you can meet the program obligations, and the grant’s funds are properly allocated. Although awarding grants is considered a business transaction, it can start a fruitful relationship with the organization and be mutually beneficial to both parties.\n\n- Finish any initial paperwork required.\n - Sign all documents, which typically include the letter accepting the grant, reporting requirements, and other grant fund-related details.\n - Create electronic and physical copies of these documents.\n- Set up your financial system\n - An individual grant award should be accounted for as an “independent cost center.” It’s recommended that you open a separate business account solely for the grant funds.\n - It’s in your best interest and the funders to NOT mix your grant funds with your personal or additional business funds. You risk losing track of expenditures related to your grant and make it difficult to show that all the funds were spent for the intended purpose.\n - All income and expenditures from the grant fund must be accounted for at all times.\n - Seek the services of an accountant or bookkeeper, especially if you’re not knowledgeable about fund management and taxes.\n- Review your grant application.\n - It may have been a while since you submitted your application. It’s best to read through it and get an understanding of what needs to be done.\n - Check and take note of what the organization needs from you and when they would need them.\n - Start assigning major tasks and creating a project timeline with key deadline reminders.\n- Review the grant rules and regulations.\n - Have a system for recording data and when reports are due.\n - Include systems for checks and balances, documentation, and fiscal controls.\n - Provide reports even if there’s no requirement from the funder. Give one in the middle of the grant period and then another one at the end at a minimum.\n- Keep communication lines open between you and the funding organization.\n - Be proactive, especially when you think an issue will arise in regard to the grant funds.\n - Don’t forget to send a thank you note to the organization and funder!\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "6b1a60e1-c69a-4886-b8a3-455f3444600c",
+      "slug": "remote-work-policy-us",
+      "title": "Remote Work Policy (US)",
+      "url": "https://resourceportal.antientropy.org/docs/remote-work-policy-us",
+      "description": "A template remote work policy establishing eligibility, reimbursement structures, and security expectations for organizations employing remote workers",
+      "keywords": [
+        "monthly stipend",
+        "office setup allowance",
+        "reimbursement caps",
+        "remote worker eligibility",
+        "security expectations"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "Building And Running An Organization",
+        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
+        "US Specific"
+      ],
+      "readingTime": 1,
+      "createdAt": "2025-10-10T18:49:30.74Z",
+      "modifiedAt": "2025-10-10T18:49:30.74Z",
+      "firstPublishedDate": "2022-09-09T17:53:18.083Z",
+      "lastPublishedDate": "2025-10-10T18:49:30.74Z",
+      "contentText": "## About This Policy\n\nA policy for remote workers that outlines eligibility, allowances, reimbursements, security, and basic expectations.\n\n## Who Needs This Policy\n\nAny organization wanting to provide clear expectations and mitigate risk with remote workers.\n\n## When Using This Policy\n\nExpectations regarding compensation and reimbursement for office expenses, setup, hardware, and software can vary from organization to organization. Below are typical reimbursement caps for remote work; however, it will be up to your organization to set the cap limit and what items you will provide and/or reimburse.\n\n- Basic = $200-$350 for office set-up\n- Standard = $500 - $750 for office set-up with some hardware and/or software provided\n- Generous = $1,000+ for office set-up and $1,000/year continuing education allowance\n\nA typical monthly allowance to cover monthly office costs (ex. wifi, electricity, rent ) for remote workers is $100-$200. This monthly allowance is in addition to the above one-time capped reimbursements.\n\n## The Policy\n\nRemote Work Policy (GoogleDocs) (https://docs.google.com/document/d/103w0v1t02jsAUG9vcqX2VCqzmfXVrLuMxAC8E3Pe-So/edit?usp=sharing)\n\n**Legal Review: 08/2022 (https://resourceportal.antientropy.org/docs/legal-review)**",
+      "alternateSlugs": [
+        "remote-work-policy"
+      ],
+      "alternateUrls": [
+        "https://resourceportal.antientropy.org/docs/remote-work-policy"
+      ]
+    },
+    {
+      "id": "95096821-8bd6-42e7-ad80-461b8c80a423",
+      "slug": "sending-payments-in-to-uganda",
+      "title": "Sending Payments in/to Uganda",
+      "url": "https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda",
+      "description": "",
+      "keywords": [],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Tools, Templates, and Forms",
+        "Country Specific SparkWell Learnings"
+      ],
+      "readingTime": 3,
+      "createdAt": "2026-05-20T15:59:10.544Z",
+      "modifiedAt": "2026-05-20T15:59:10.544Z",
+      "firstPublishedDate": "2026-05-20T15:59:10.544Z",
+      "lastPublishedDate": "2026-05-20T15:59:10.544Z",
+      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this article\n\nIn Uganda, mobile money is the default payment method for local staff, contractors, and vendors. Many recipients hold no bank account and rely entirely on a mobile wallet. Sending directly from a US nonprofit account to a Ugandan mobile money wallet is harder than it sounds, and the workable options add time, fees, or compliance overhead.\n\nImportant disclaimer\n\nThis article was created in May 2026 and will likely be partially out of date as things change. It provides general operational guidance and is not legal, tax, or financial advice. Ugandan banking, telecom, and remittance rules change frequently. Confirm current requirements with the receiving institution and a qualified professional before relying on this information.\n\n## How money moves in Uganda\n\n- Mobile money is the **main payment system** in Uganda for everyday business. About 61% of inbound remittances settle through MTN MoMo, Airtel Money, or another wallet, and many local payees have no bank account at all.\n- Consumer remittance apps deliver to Ugandan mobile money but are **built for personal transfers**. Sending from a US nonprofit's business account is often restricted, blocked, or subject to manual review.\n- A few providers (for example, Remitly) market a business product that lists Ugandan mobile money as a delivery option. Confirm in writing that your 501(c)(3) account is eligible before relying on it.\n- Wise does not support payments to or from UGX business accounts. SWIFT wires settle to a bank, not a wallet.\n\n## Interim disbursement through a local agent\n\nUntil a project has its own Ugandan bank account, a common bridge is to wire USD to a trusted local staff member, who converts to UGX and forwards funds into the project's mobile money wallet for disbursement. **This is workable *only* with formal controls**, because that person is acting as a paid disbursement agent of the US sponsor.\n\n#### Required guardrails:\n\n- **Written agreement.** Engage the person as a contractor or disbursement agent with a scope of work naming the pass-through role and reporting duties. Keep a current W-8BEN on file.\n- **Avoid co-mingling.** Use a dedicated account, or clearly identified sub-account, for project funds only. The funds are not personal income.\n- **Receipts at every step.** Retain the wire receipt, conversion confirmation, mobile money send receipts, and recipient acknowledgments. Reconcile monthly.\n- Prompt onward transfer. Funds should not sit longer than operationally necessary.\n- **Bank disclosure.** If asked, the local agent shows the engagement agreement and explains the project context.\n\n*Weak controls invite AML scrutiny, account freezes, tax exposure for the local agent, and audit findings on the sponsor side.* Treat this as an interim and move to a local entity account as soon as feasible.\n\n## What to do on the sending side\n\n- Match the recipient's legal name exactly to what the receiving bank or wallet has on file.\n- Send in USD only if the destination confirms USD acceptance; otherwise, convert to UGX at the sender.\n- Document purpose clearly in the wire memo and on the supporting invoice.\n- Build in extra time, and note that Uganda imposes a 0.5% excise tax on mobile money withdrawals.\n\n## Setting up a Ugandan account (longer term)\n\nA project that wants its own Ugandan bank account, and eventually a business mobile money wallet, must first incorporate with the Uganda Registration Services Bureau (URSB), then obtain a Permit of Operation from the National Bureau for NGOs. Plan on six to nine months end-to-end.\n\nHeads up on evolving Ugandan regulations\n\nThe Protection of Sovereignty Bill, 2026, passed Parliament on May 5, 2026, and is awaiting Presidential assent. If enacted in its current form, banks would need a ministerial funding declaration before releasing funds to any local entity classified as an \"agent of a foreigner,\" a category that captures most Ugandan NGOs receiving international grants. Monitor this Bill closely and confirm current requirements with the recipient's bank before initiating large or recurring transfers.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "930ef1e1-f776-4428-ac98-eb848a9bc936",
+      "slug": "sending-payments-to-nigeria",
+      "title": "Sending Payments To Nigeria",
+      "url": "https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria",
+      "description": "",
+      "keywords": [],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Tools, Templates, and Forms",
+        "Country Specific SparkWell Learnings"
+      ],
+      "readingTime": 3,
+      "createdAt": "2026-05-05T14:03:55.213Z",
+      "modifiedAt": "2026-05-05T14:03:55.213Z",
+      "firstPublishedDate": "2026-05-04T20:17:43.195Z",
+      "lastPublishedDate": "2026-05-05T14:03:55.213Z",
+      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this article\n\nPayments to Nigerian vendors and partners often take longer than other international transfers. Stricter compliance scrutiny on the receiving side, especially for transfers above $10,000, results in delays of several weeks. Preparing the right documentation upfront is the most effective way to keep payments moving.\n\nImportant disclaimer\n\nThis article was **created in May 2026** and will likely be partially out of date as things change. This article provides general operational guidance and is not legal, tax, or financial advice. Nigerian banking, foreign exchange, and anti-money laundering regulations change frequently. Confirm current requirements with the receiving bank and a qualified professional before relying on this information.\n\n## What to expect\n\n- Processing times of two to five weeks are not unusual for the first payment, particularly for transfers above $10,000.\n- Holds typically occur at the receiving Nigerian bank, not the sending bank. Once funds leave Mercury, downstream visibility is limited.\n- The receiving bank may request additional compliance documentation mid-transfer before releasing funds.\n- Bank-to-bank communication with Nigerian banks is often slow. Having the local recipient call the receiving bank's customer care line is usually faster than email.\n- Delays carry exchange rate risk, not just timing risk. If settlement happens in NGN at the rate on the release date, rather than the send date, naira volatility during the hold can meaningfully reduce the value the recipient receives.\n\n## What the recipient should prepare in advance\n\nAsk the local recipient to gather these before the transfer is initiated:\n\n- Invoice addressed to the sending organization, matching the payment amount and purpose.\n- MOU or partnership agreement documenting the relationship between sender and recipient.\n- Proof of engagement such as project documentation, scope of work, or prior correspondence.\n- SCUML certificate. Special Control Unit Against Money Laundering registration, issued by the EFCC. Required for Nigerian nonprofits and many other Designated Non-Financial Businesses to maintain bank accounts and clear international transfers. Registration is free.\n- Vendor legitimacy documents such as CAC registration, tax ID, and board resolution, where applicable.\n\n**Have the recipient notify their bank in advance that funds are inbound and share the invoice. Some banks will pre-position the file, which speeds clearance.**\n\n## What to do on the sending side\n\n- Match names exactly. Use the recipient organization's legal name ***exactly* as it appears on their bank account and SCUML/CAC documents**. Any discrepancy, even slight differences, can trigger a hold.\n- Confirm USD acceptance. Nigerian rules on USD versus NGN settlement are evolving. **Ask the recipient to confirm with their bank before initiating**.\n- Document purpose clearly in the wire memo and on the supporting invoice.\n- Build in extra time. Avoid scheduling time-sensitive disbursements (payroll, supply purchases) on a tight Nigerian payment timeline.\n\n## If a payment gets stuck\n\n- Ask Bookkeeping for the transaction receipts; when using Mercury Bank, we can give the Mercury receipt and the SWIFT receipt.\n- Have the local recipient **call (*not email*)** the receiving bank's customer care line and ask what additional documentation is needed.\n- Common late-stage requests include MOUs, proof of engagement, and SCUML clearance. Have these ready to send as soon as possible\n\nHeads up on evolving Nigerian regulations\n\nNigerian banking and FX rules change frequently. The Central Bank of Nigeria's March 2026 circular on diaspora remittances, effective May 1, 2026, requires International Money Transfer Operators to settle in naira through Authorized Dealer Banks. Confirm current rules with the recipient's bank before initiating large or recurring transfers.\n\n## Related external resources\n\nSCUML official portal (EFCC) (https://scuml.efcc.gov.ng/)\nVerify a SCUML certificate (https://scumlportal.efcc.gov.ng/scuml_verify.php)\nCentral Bank of Nigeria (https://www.cbn.gov.ng/)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "3289942f-2d23-4df6-b171-e58d278c7cd5",
+      "slug": "sole-proprietor-vs-single-member-llc-usa",
+      "title": "Single-Member LLC (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa",
+      "description": "A guide explaining single-member LLC formation, tax classification options, and state registration steps for US entrepreneurs",
+      "keywords": [
+        "Articles of Organization",
+        "corporate tax election",
+        "Disregarded Entity",
+        "EIN application",
+        "registered agent requirement",
+        "USA"
+      ],
+      "tags": [
+        "USA"
       ],
       "categoryPath": [
         "Governance and Compliance",
@@ -2758,11 +2924,78 @@
         "US Governance References and Definitions"
       ],
       "readingTime": 1,
-      "createdAt": "2022-07-13T21:33:54.949Z",
-      "modifiedAt": "2022-07-13T21:33:54.949Z",
-      "firstPublishedDate": "2022-07-13T21:33:54.988Z",
-      "lastPublishedDate": "2022-07-13T21:33:54.988Z",
-      "contentText": "Pass-through taxation refers to when a business's taxes are not subject to corporate income tax.\n\n-\n\nA Sole Proprietorship (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) has \"pass-through taxation\" because the owner is not separate from their business.\n\n-\n\nBusiness income is reflected on the owner's personal income tax return and taxed at individual income tax rates.",
+      "createdAt": "2022-07-13T23:10:07.019Z",
+      "modifiedAt": "2022-07-13T23:10:07.019Z",
+      "firstPublishedDate": "2022-07-13T23:10:07.077Z",
+      "lastPublishedDate": "2022-07-13T23:10:07.077Z",
+      "contentText": "## Single-Member LLC\n\nYou can form an LLC, even if you’re the only member, and choose a corporate tax status. As a Single-Member LLC, you are considered a “Disregarded Entity (https://resourceportal.antientropy.org/docs/disregarded-entity).” You can also elect for your LLC to be classified as a corporation.\n\n#### LLC as a Disregarded Entity:\n\nA Disregarded Entity means that your LLC is a separate legal entity from you as the owner.\n\n- You have the same tax obligations as a sole proprietorship\n- You can protect your personal assets from business liabilities with this structure\n- No need to file a separate business tax return\n- Activities in the LLC should also be reflected on the owner’s federal tax return\n- You can use your Social Security Number when filing for taxes if you don’t have employees\n\n#### LLC as a Corporation:\n\n- You, as an owner, are not liable for your business’ obligations\n- File tax returns and pay federal and state taxes\n- You can still use your Social Security Number when filing for taxes if you don’t have employees\n- You will need an EIN (Employer Identification Number (https://resourceportal.antientropy.org/docs/applying-for-an-ein)) if you’ll be reporting taxable income and loss\n\n#### How to Register a Single-Member LLC\n\nRegistering as an LLC may vary depending on the state where you’ll be working. Be sure to check the specific state requirements (https://www.nolo.com/legal-encyclopedia/form-llc-in-your-state-31019.html).\n\n-\n\nChoose a business name. Check with your Secretary of State's database if the name you want is already registered.\n\n-\n\nDesignate a registered agent (https://resourceportal.antientropy.org/docs/us-registered-agent)\n\n-\n\nPrepare your LLC Articles of Organization\n\n - Part of a formal legal document used to establish an LLC at the state level. These are used to create the rights, powers, duties, liabilities, and other obligations of LLC members and the LLC as a whole. Also referred to as a \"certificate of organization\" or a \"certificate of formation.\"\n - Filing requirements will vary depending on the state. Most states have templates or ready-to-use formats that you can just fill in as needed.\n - In some states, you may need to publish a notice in the newspaper showing your desire to register your LLC.\n-\n\nFile the Articles of Organization or formation documents\n\n-\n\nCreate an operating agreement for your LLC\n\n-\n\nObtain local and state business licenses\n\nMake sure to file the necessary returns and filings with your state. For federal taxes, it will depend on whether your Single-Member LLC is considered a “disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity)” by the IRS or if you elect to be a corporation.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "4410f71c-5dd9-4ade-a12e-10d38d5bb3dd",
+      "slug": "sole-proprietor-vs-single-member-llc",
+      "title": "Sole Proprietor (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc",
+      "description": "A guide for independent contractors establishing a sole proprietorship, covering structure, tax obligations, registration requirements, and liability limitations",
+      "keywords": [
+        "DBA registration",
+        "FICA taxes",
+        "fictitious business name",
+        "Form 1040-ES",
+        "Pass-Through Taxation",
+        "Schedule C",
+        "Schedule SE",
+        "self-employment taxes",
+        "USA"
+      ],
+      "tags": [
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-13T22:59:41.421Z",
+      "modifiedAt": "2022-07-13T22:59:41.421Z",
+      "firstPublishedDate": "2022-07-13T22:59:41.781Z",
+      "lastPublishedDate": "2022-07-13T22:59:41.78Z",
+      "contentText": "## Sole Proprietor\n\nIndependent contractors are generally considered Sole Proprietors. This type of business is the simplest and most common business structure. It’s inexpensive and straightforward because you, as the owner, are not a separate legal entity from your sole proprietorship.\n\nYou may need to obtain the proper business licenses and permits to offer your services in your state. It’s best practice to keep separate your business bank accounts and credit cards, so it’s easier to separate your business from personal finances.\n\n#### Filing Taxes as a Sole Proprietorship:\n\n- You will be subject to Pass-Through Taxation (https://resourceportal.antientropy.org/docs/pass-through-taxation)\n- You will only need your Social Security Number (not an Employee Identification Number)\n- Pay self-employment taxes\n- Pay both worker and employer share of FICA taxes\n- Report your business profits and losses to the IRS\n\n#### Disadvantages of a Sole Proprietorship:\n\n- Sole Proprietorships are commonly not protected from any business liabilities.\n - Legal action against the entity may affect both the entity's assets and your personal assets.\n- You can only operate under your legal name\n - Or file a DBA - “Doing Business As” to work around using your legal name\n\n#### How to Register a Sole Proprietorship\n\n**1. Choose your business name**\n As an independent contractor, you can use your own name without having to register it. If you're using your full name and adding a word or two after (i.e., John Smith Editorial), then you don't need to register it.\n\nYou will only need to register your name if you don't use your full name in your business name. It must be registered as a fictitious business name (assumed name or DBA, \"doing business as\"). For example, John Smith wants to name his business John Consulting.\n\nRegister either with the county clerk or state office (Department of State for some states)\n\n**2. If needed, get a professional or vocational license for your trade/service.**\n\n**3. Start paying estimated taxes to the IRS** - seek tax advice and assistance filing from a CPA or tax professional.\n\n- Form 1040 (https://www.irs.gov/pub/irs-pdf/f1040.pdf)\n- Form 1040-ES (https://www.irs.gov/pub/irs-pdf/f1040es.pdf)\n- Schedule C (https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) and Schedule SE (https://www.irs.gov/pub/irs-pdf/f1040se.pdf)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "37556162-4aa0-4968-ba76-805bc530ba34",
+      "slug": "sole-proprietor-vs-single-member-llc-whats-the-difference-usa",
+      "title": "Sole Proprietor vs Single Member LLC - What's the Difference? (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-whats-the-difference-usa",
+      "description": "A reference explaining the differences between sole proprietorship and single-member LLC structures for independent contractors starting a business.",
+      "keywords": [
+        "business liability separation",
+        "corporate tax election",
+        "disregarded entity",
+        "personal asset protection",
+        "singlememberLLC",
+        "soleproprietor",
+        "upfront formation costs",
+        "USA"
+      ],
+      "tags": [
+        "singlememberLLC",
+        "soleproprietor",
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-20T12:36:55.544Z",
+      "modifiedAt": "2022-07-20T12:36:55.544Z",
+      "firstPublishedDate": "2022-07-13T23:14:19.36Z",
+      "lastPublishedDate": "2022-07-20T12:36:55.562Z",
+      "contentText": "### Who is this article for?\n\nIndependent contractors or solo business owners looking to set up a business.\n\nIn general, there are two main business types for independent contractors. The table below gives a snapshot of the differences between each.\n\n[Image: LLC_Solep.png]\n\n#### Sole Proprietor\n\n- Simplest and most common business structure.\n- Inexpensive to form as there is little to no upfront cost\n- You, as the owner, are not a separate legal entity and therefore are not protected from business liabilities.\n\n*For more information on sole proprietors and how to register to become one, see the Sole Proprietor (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) article.*\n\n#### Single Member LLC\n\n- Can be formed with only one member and obtain corporate tax status.\n- Your business is separate from you; as the owner, therefore, your personal assets are protected from business liabilities.\n- Can be set up as a “disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity)” or as a “corporation”.\n\n*For more information on Single Member LLCs and how to register one, see Single Member LLC (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa).*",
       "alternateSlugs": []
     },
     {
@@ -3558,34 +3791,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "7ee44ebb-fe93-49cf-a522-40dc162a2fa4",
-      "slug": "sparkwell-whistleblowing-policy",
-      "title": "SparkWell Whistleblowing Policy",
-      "url": "https://resourceportal.antientropy.org/docs/sparkwell-whistleblowing-policy",
-      "description": "A policy template for nonprofit fiscal sponsorship participants defining confidential information categories, protection protocols, breach consequences, and whistleblower protections.",
-      "keywords": [
-        "breach consequences",
-        "confidential information categories",
-        "digital security measures",
-        "post-employment obligations",
-        "whistleblower protections"
-      ],
-      "tags": [],
-      "categoryPath": [
-        "SparkWell Resources",
-        "SparkWell Handbook",
-        "SparkWell Policies",
-        "SparkWell Conduct Policies"
-      ],
-      "readingTime": 3,
-      "createdAt": "2025-10-22T22:05:07.05Z",
-      "modifiedAt": "2025-10-22T22:05:07.05Z",
-      "firstPublishedDate": "2025-10-22T22:05:07.05Z",
-      "lastPublishedDate": "2025-10-22T22:05:07.05Z",
-      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n## 1. About this Policy\n\n1.1. Protecting confidential information is essential to Anti Entropy's mission, reputation, and legal obligations.\n\n1.2. As a nonprofit, we handle sensitive information about donors, staff, partners, and SparkWell Projects.\n\n1.3. This policy applies to all employees, contractors, board members, and volunteers with access to Anti Entropy's confidential information.\n\n1.4. This policy does not form part of any employment contract and may be amended at any time.\n\n## 2. What Is Confidential Information?\n\n2.1. **Confidential information** is any non-public information that could harm Anti Entropy, our stakeholders, or SparkWell Projects if disclosed without authorization, including:\n\n2.1.1. **Personnel:** Personal information, compensation, health records, performance reviews\n\n2.1.2. **Financial:** Bank accounts, budgets, grant details, SparkWell Project finances\n\n2.1.3. **Donors:** Contact information, giving amounts, donor conversations and strategies\n\n2.1.4. **Organizational:** Strategic plans, board materials, legal documents, internal communications\n\n2.1.5. **SparkWell Projects:** Applications, finances, strategies, beneficiary information\n\n2.1.6. **Technology:** Passwords, databases, systems, proprietary tools\n\n### 2.2. What Is NOT Confidential\n\n2.2.1. Information already public or on our website\n\n2.2.2. Employee discussions about wages and working conditions (protected by NLRA)\n\n2.2.3. Information disclosed under whistleblower protections (see Whistleblowing policy)\n\n2.2.4. Reports to government agencies about suspected violations\n\n2.2.5. **When in doubt, ask the Board President before disclosing.**\n\n## 3. SparkWell Projects\n\n### 3.1. Anti Entropy Will\n\n3.1.1. Maintain Project information confidentially\n\n3.1.2. Share only on need-to-know basis\n\n3.1.3. Protect Project information as carefully as our own\n\n### 3.2. Project Leads Must\n\n3.2.1. Protect Anti Entropy's confidential information\n\n3.2.2. Establish confidentiality practices for their teams\n\n3.2.3. Report any breaches immediately\n\n3.2.4. Get permission before discussing other Projects\n\n## 4. Protecting Confidential Information\n\n### 4.1. When You Can Share\n\n4.1.1. Only share confidential information when:\n\n- Required to perform your job\n- Authorized by Board President\n- Required by law or legal process\n- Protected under whistleblower laws\n\n### 4.2. When You Cannot Share\n\n4.2.1. Never share confidential information:\n\n- With family, friends, or on social media\n- In public places where others can overhear\n- With unauthorized third parties\n- For personal gain\n- After employment ends (obligations continue)\n\n### 4.3. Practical Measures\n\n**4.3.1. Digital:**\n\n- Lock computers when away\n- Use strong passwords; never share them\n- Don't email confidential info to personal accounts\n- Use secure connections for remote work\n\n**4.3.2. Physical:**\n\n- Don't leave confidential documents visible\n- Shred before discarding\n- Close doors for sensitive discussions\n- Be aware who can overhear\n\n**4.3.3. Special considerations:**\n\n- **Donors:** Don't discuss giving amounts or donor info without permission\n- **Projects:** Don't discuss Project finances or operations outside appropriate channels\n- **Board materials:** Highly confidential; don't share externally\n\n## 5. Consequences\n\n5.1. Breaches result in disciplinary action per the Misconduct & Discipline policy:\n\n5.1.1. **Minor/accidental:** Warning, training\n\n5.1.2. **Serious:** Final warning, suspension, removal of access\n\n5.1.3. **Gross misconduct:** Immediate termination, legal action, law enforcement referral\n\n5.2. Breaches may also result in personal civil liability, regulatory penalties, criminal charges, and damage to professional reputation.\n\n5.3. **Unauthorized disclosure of highly sensitive information (bank accounts, donor financial details, health records) may result in immediate termination.**\n\n## 6. Whistleblower Protections\n\n6.1. This policy does not prevent you from:\n\n6.1.1. Reporting suspected illegal conduct to authorities\n\n6.1.2. Filing complaints with regulatory agencies (EEOC, OSHA, IRS, etc.)\n\n6.1.3. Participating in government investigations\n\n6.1.4. Discussing wages and working conditions (NLRA-protected)\n\n6.2. You do not need permission to exercise these legal rights. See Whistleblowing policy for details.\n\n## 7. After You Leave\n\n7.1. **Confidentiality obligations continue indefinitely after employment ends.**\n\n7.2. You must:\n\n7.2.1. Not disclose information learned during your time with Anti Entropy\n\n7.2.2. Return all documents and equipment\n\n7.2.3. Delete all organizational information from personal devices\n\n7.2.4. Sign certification of compliance\n\n## 8. Questions and Reporting\n\n8.1. **If unsure whether information is confidential:** Ask Board President before disclosing.\n\n8.2. **If you witness a breach:** Report immediately to Board President (or another board member if it involves the Board President).\n\n8.3. **If you accidentally breach confidentiality:** Report immediately and honestly. Early reporting may reduce consequences; cover-ups will be treated more seriously.",
-      "alternateSlugs": []
-    },
-    {
       "id": "42100e8e-083c-416a-8e79-85f9614f0ac5",
       "slug": "sparkwell-working-arrangements-policies",
       "title": "SparkWell Working Arrangements Policy",
@@ -3613,72 +3818,6 @@
       "firstPublishedDate": "2025-10-22T21:24:04.158Z",
       "lastPublishedDate": "2026-01-08T18:19:00.277Z",
       "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n## 1. About this Policy\n\n1.1. The Organization is generally flexible about working hours and locations for all employees, so long as it's feasible for you to carry out your job duties.\n\n1.2. Full-time employment is based on a 40-hour workweek. Part-time employment is any regular schedule of less than 40 hours per week as agreed with your supervisor.\n\n1.3. This policy does not form part of any employee's employment contract, and we may amend it at any time.\n\n1.4. **Important Note:** Employees who are contracted under an Employer of Record (EOR), such as Deel, will need to follow the policies of the EOR provider and, where they differ, the EOR policy takes precedence.\n\n## 2. Working Hours\n\n### 2.1. Setting Your Schedule\n\n2.1.1. Discuss and agree on your working patterns with your supervisor. If you want to make any significant changes, discuss these with your supervisor in advance.\n\n2.1.2. The days and hours that you work depend on your role, contracted hours, and the needs of the Organization, and will always be at management's discretion.\n\n### 2.2. Core Hours\n\n2.2.1. Your supervisor may establish core hours (specific times when all team members should be available for meetings and collaboration) based on your team's needs. If core hours are required for your role, your supervisor will communicate these expectations clearly.\n\n2.2.2. Some core hours may be outside of normal business hours due to the global nature of the Organization. You may \"exchange\" hours when this is the case (start work one hour later, for example, if you are asked to attend a one-hour evening meeting), so long as this is authorized in advance by your supervisor.\n\n### 2.3. Schedule Changes and Extended Hours\n\n2.3.1. You may need to work longer hours, or work on weekends or holidays at times, at the request of management. Any necessary deviation from your typical schedule shall be communicated to you by management as soon as reasonably practical.\n\n2.3.2. **Overtime:** Non-exempt employees who work more than 40 hours in a workweek will be compensated for overtime in accordance with applicable federal and state law. Exempt employees are not eligible for overtime pay. All overtime must be approved in advance by your supervisor.\n\n### 2.4. Tracking Your Time and Availability\n\n2.4.1. If you're traveling, ill, or otherwise absent, record this in our HR platform (Deel) and inform your supervisor.\n\n2.4.2. If you have hard limits on your working schedule, let your colleagues know so they can plan ahead.\n\n2.4.3. You should keep your working hours up to date on your Google calendar: Open Google Calendar > Settings > General > Working hours and location.\n\n## 3. Remote Work\n\n### 3.1. Definition and Eligibility\n\n3.1.1. Remote work (also called telecommuting or working from home) is a work arrangement where you perform your job duties from a location other than the Organization's office, typically from your home or another approved remote location.\n\n3.1.2. All requests for remote work must be submitted in advance to your supervisor and approved prior to commencement of remote work, unless previously agreed upon at your time of hire.\n\n### 3.2. Work Expectations\n\n3.2.1. Remote work is not an opportunity to perform household duties, care for children or other dependents, or attend to other personal business. You must use Vacation, Paid Sick Leave, Family & Medical Leave, or Unpaid Leave for absences from work for childcare, personal business, illness, etc.\n\n3.2.2. You will be responsible for keeping your supervisor informed about your work status.\n\n3.2.3. You must work with your supervisor to accommodate on-site meetings or training as required by your role.\n\n3.2.4. You must accurately report all time worked, no matter the work location. The Organization reserves the right to audit all time reported.\n\n### 3.3. Location Changes and Reporting Requirements\n\n3.3.1. **Permanent Address Changes:** You must notify your supervisor within 5 business days if you permanently relocate to a new address.\n\n3.3.2. **Temporary Relocations:** If you plan to work remotely from a location other than your registered home address for more than 30 consecutive days, you must notify your supervisor and receive approval in advance.\n\n3.3.3. **Travel:** Short-term travel and temporary location changes of less than 30 days do not require advance approval, but you should inform your supervisor of your location if it may affect your work schedule or availability.\n\n3.3.4. **Important:** Failure to properly report address changes could result in disciplinary action, up to and including termination, as it may affect tax withholding, legal compliance, and insurance coverage.\n\n### 3.4. Modification or Termination of Remote Work\n\n3.4.1. If at any time the Organization does not wish to continue a remote working arrangement for whatever reason, the Organization may inform you of such decision. The Organization will make all such decisions on a case-by-case basis and will take into account your personal circumstances.\n\n## 4. Equipment and Technology\n\n### 4.1. Equipment Provision\n\n4.1.1. You must ensure you have the proper IT equipment and technology to perform your job duties from a remote location.\n\n4.1.2. If approved to participate in the remote workplace program, equipment (e.g., monitor, docking station, keyboard, mouse, headset, etc.) may be requested following existing procedures. Contact your supervisor for information on requesting equipment.\n\n### 4.2. Equipment Responsibilities\n\n4.2.1. Organization-provided equipment will be covered by the Organization's insurance policy, subject to that policy's terms.\n\n4.2.2. You must check any lease, tenancy agreement, mortgage, and/or buildings and contents insurance, as permissions may be needed for you to work remotely. It is your responsibility to apply for and secure any necessary authorizations and to inform the Organization of any difficulties or concerns.\n\n4.2.3. You agree to operate Organization-provided equipment in accordance with applicable manufacturer's specifications and instructions and to use the equipment for business purposes only.\n\n4.2.4. You may not move equipment from your designated remote work location without the express written consent of the Organization.\n\n4.2.5. Upon termination of employment or cessation of your remote work arrangement, you must return all Organization-provided equipment in good working condition.\n\n### 4.3. Monitoring\n\n4.3.1. You agree that you have no expectation of privacy for activities conducted during paid work time or on the Organization's equipment and understand that the Organization may monitor your use of its equipment remotely.\n\n## 5. Remote Work Stipends and Reimbursement\n\n### 5.1. Stipends\n\n5.1.1. The Organization may provide stipends to support remote work setup and ongoing expenses. Specific stipend amounts and eligibility will be communicated to eligible employees by their supervisor. Stipend programs (if offered) may include:\n\n- **One-time setup stipend:** For initial home office equipment (monitor, chair, desk accessories, etc.)\n- **Monthly recurring stipend:** For ongoing costs such as internet, utilities, or office supplies\n\n5.1.2. Stipends are provided at the Organization's discretion and may be modified or discontinued at any time.\n\n### 5.2. Reimbursement\n\n5.2.1. No additional expenses are covered under the remote workplace program other than provided stipends (if any).\n\n5.2.2. Expenses incurred by you that are not covered by stipends are generally not eligible for reimbursement (e.g., internet expenses).\n\n5.2.3. If you have a legitimate business expense not covered by provided stipends (e.g., specialized office supplies required for your role), you must get approval from your supervisor, and it will be subject to the Organization's Expenses policy.\n\n5.2.4. You cannot submit mileage and/or meal charges in connection with travel to/from a remote work location to an on-site facility within your local area of employment.\n\n5.2.5. Retroactive payments for stipends are not permitted (i.e., backdated payments will not be possible for any period prior to when you enrolled in the remote workplace program).\n\n## 6. Tax Implications\n\n8.1. You are responsible for determining any income tax implications related to home office deductions or business use of your home. The Organization will not provide tax guidance, nor will it assume any tax liabilities related to your home office setup. We recommend consulting with a tax professional if you have questions about potential deductions.\n\n## 7. Roles and Responsibilities\n\n### 7.1. Employee Responsibilities\n\n7.1.1. All employees are responsible for understanding and adhering to this policy.\n\n### 7.2. Supervisor Responsibilities\n\n7.2.1. Supervisors are responsible for:\n\n- Enforcing this policy within their workgroups\n- Aligning any allowances stipulated in the program to the policy\n- Ensuring funding/spending is controlled within respective business budgets\n- Ensuring ongoing compliance with the guidelines of the policy",
-      "alternateSlugs": []
-    },
-    {
-      "id": "8c26258d-187f-43f3-bb11-510ce29cbe52",
-      "slug": "staff-handover-process",
-      "title": "Staff Handover Process",
-      "url": "https://resourceportal.antientropy.org/docs/staff-handover-process",
-      "description": "A guide establishing best practices and structured processes for transferring tasks, roles, and responsibilities between employees during organizational transitions",
-      "keywords": [
-        "access credentials",
-        "employee transition",
-        "face-to-face conversations",
-        "handover document",
-        "HR",
-        "staff handover",
-        "staff transitions",
-        "transition timeline"
-      ],
-      "tags": [
-        "employee transition",
-        "HR",
-        "staff handover"
-      ],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Operational Tools and Resources"
-      ],
-      "readingTime": 3,
-      "createdAt": "2023-05-09T17:06:01.342Z",
-      "modifiedAt": "2023-05-09T17:06:01.342Z",
-      "firstPublishedDate": "2023-05-03T19:34:41.622Z",
-      "lastPublishedDate": "2023-05-09T17:06:01.35Z",
-      "contentText": "### Who is this article for?\n\nAnyone needing to transfer tasks, roles, or responsibilities from one employee to another.\n\nAccording to Aberdeen Research (https://www.aberdeen.com/blogposts/employee-lifecycle-offboarding/), 71% of organizations have no formal handover process for staff transitions. A staff handover transfers tasks and responsibilities from one employee to another. Handovers are needed when a staff member transitions from the organization, moves roles, or changes to a different department. Utilizing a set process for various staff transitions (incoming or outgoing) minimizes organizational disruption while keeping work continuity and cultural confidence at a maximum. A structured process also helps keep emotions in check and ensures that each employee will be treated fairly and equally regardless of the situation.\n\n### Benefits of an Efficient Handover Processes\n\n- Ensure a smooth transfer of information and data\n- Less disruption to workflows and productivity\n- Minimize the negative impact on the remaining staff\n- Avoid misunderstandings and misalignment that can lead to severe repercussions later on\n- Prevent and reduce ambiguity with job roles and responsibilities and ongoing projects\n- Ensure cultural confidence and employee safety\n\n### Best Practices\n\n- The transitioning/exiting staff is highly encouraged to lead the handover process if they leave or stay within the organization on reasonable terms.\n - Managers and HR can provide guidance and collaborate with the existing staff to prepare or aid in the transition.\n - A manager or HR member should have access to the handover document to ensure the handover process runs smoothly and double-check that every aspect is properly transitioned.\n- It’s essential to have face-to-face conversations and discussions with the incoming employee or employee(s) assuming the tasks or responsibilities and a written document that outlines the structure and details of the handover.\n- A handover document will contain what anyone in the role would need to know to succeed at their tasks and responsibilities. Information to be included:\n - Daily tasks and processes with historical context\n - Important day-to-day activities\n - Access to relevant files and folders\n - Logins and passwords\n - Software guides and how-tos with relevant context on utility\n - Tasks/Projects updates and deadlines\n - Any ongoing issues\n - Key personnel and collaborator's contact information and their roles within the project\n - List of regular/recurring meeting dates and times with links to previous meeting recordings or notes for context\n - Send new employee invites to all necessary meetings so they are set on their calendar\n - Set up meeting times with other employees they will work with regularly to introduce and aid in the transition, as well as start a relationship before the current employee's exit\n- List of key contacts (internal and external)\n- A clear timeline needs to be set to conduct the handover process. If this needs to be input into a project management system for the staff involved to follow, milestones and transition dates need to be clearly documented within the handover document.\n - It’s recommended that the process be done during the exiting employee’s resignation notice period.\n - It is best to start the process gradually, or in segments, to ensure enough time for the handover, allowing for questions and training, as well as completing as many open tasks as possible.\n- It is best if the new employee’s first day happens during the handover period so that they can spend a few hours, if not days, shadowing the outgoing staff member. It allows the new employee to also carry out tasks under the guidance of the outgoing staff.\n - The exiting employee can also provide tips and best practices, valuable context and answer questions.\n- During or before the outgoing staff’s last day, ensure all loose ends are tied up and the new employee is settled in the role.\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "7012b6dc-82dc-42e5-923d-585e7902e2d9",
-      "slug": "staff-resource-and-allocation-management",
-      "title": "Staff Resource and Allocation Management",
-      "url": "https://resourceportal.antientropy.org/docs/staff-resource-and-allocation-management",
-      "description": "A guide for organization leaders on establishing resource allocation and management processes to optimize staff utilization and project success.",
-      "keywords": [
-        "allocation management",
-        "capacity planning",
-        "post-project evaluation",
-        "project management software",
-        "resource allocation process",
-        "resource management",
-        "skill matching",
-        "staff resources"
-      ],
-      "tags": [
-        "allocation management",
-        "resource management",
-        "staff resources"
-      ],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Operational Tools and Resources"
-      ],
-      "readingTime": 5,
-      "createdAt": "2023-05-19T09:50:38.8Z",
-      "modifiedAt": "2023-05-19T09:50:38.8Z",
-      "firstPublishedDate": "2023-05-19T09:50:38.806Z",
-      "lastPublishedDate": "2023-05-19T09:50:38.806Z",
-      "contentText": "### Who is this article for?\n\nOrganization leaders and ops managers needing guidance for resource and allocation management.\n\nResource allocation and management ensure a company’s resources are maximized and effectively utilized towards tasks, projects, and general activities (e.g., administration, operations, support). Resource allocation is a part of project management. It helps project managers best optimize workflow (scheduling, budgeting, and implementing) by measuring and evaluating the resources available to the organization and assigning them effectively to achieve organizational success.\n\nAll organizations have several resources vital to their success and achievement of their goals and mission. These include financial resources, equipment, materials, people, and time. It’s important for organizations to measure and evaluate its resources to be able to best allocate them, reduce waste, and achieve the greatest impact.\n\nAccording to research published by McKinsey (https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-nimble-resource-allocation-can-double-your-companys-value), 83% of executives believe that resource allocation is the most critical management lever for growth. Alternatively, it’s also one of the top problems in project management, according to Wellingtone's The State of Project Management 2021 (https://wellingtone.co.uk/wp-content/uploads/2021/03/The-State-of-PM-2021.pdf). The mismanagement of resources leads to financial losses, missed deadlines, time wastage and reduced impact.\n\n### Benefits of Effective Resource Management\n\n- Helps with planning and organizing projects - You can plan strategically and prevent over-and underspending, especially when resources are limited.\n- Boost overall team well-being - Poor resource management can lead to burnout, underutilizing staff, and, thus, general inefficiency.\n- Improves decision-making - Resource allocation and management help identify gaps within projects and provide the best path toward achieving organizational goals.\n- Increases employee specialization and productivity - Matching employees with the right skills to the right tasks will benefit the project and increase employee productivity and company culture.\n- Improves communication - Team members are kept in the loop and updated while completing their project tasks, making it easier for them to organize and manage their time.\n- Saves time and saves money - when you know how you are utilizing your resources, what is flourishing, and what is costing the organization while optimizing workflow, you save time and money.\n\n### Creating a Resource Allocation and Management Process\n\n-\n\nMap out the project\n\n - Know the project's scope to see what and whom you will need from your staff, and document it accordingly.\n - What is the overall goal, and how will you determine success?\n - What tasks are involved?\n - What skills are needed for each task?\n - What team members have the required skills or experience?\n - Any dependencies?\n - Any skill gaps?\n - What resources or outside support is needed? (Software, freelancers or contractors, financial assistance?)\n - Set project deadlines and individual task deadlines\n - We strongly recommend utilizing project management software to track projects. It keeps team members on task and everyone centralized, improves communication, and can even track time - revealing bottlenecks and streamlining workflow. Project management software will significantly aid in optimizing staff resources and allocating resources appropriately.\n-\n\nCheck the current availability of the employees you plan to include in the project.\n\n - This is especially important if your organization runs multiple projects simultaneously. But, again, we don’t want to overwork or underutilize team members.\n - You can also consider hiring outside the organization (freelancers, contractors) if the team roster needs to gain the specific skill you need for the project.\n-\n\nAssign tasks and ask for feedback from the team.\n\n - Organize an onboarding meeting before the start of the project to set expectations, answer questions, and ensure each team member is clear on their role and has the resources and support needed for project success.\n - Input the project and all relevant tasks into a project management or tracking system with clear expectations, aligned effort estimations, descriptions, and due dates.\n-\n\nMonitor the progress of the project\n\n - This helps measure the utilization of your resources for the project\n - It is easier to pivot, make changes, and prevent delays when you know where everyone is within the timeline.\n-\n\nOnce the project is complete, do a post-project evaluation.\n\n - Review the original project goal and determine if it was achieved and successful.\n - Determine what worked, what didn’t, and which areas can be improved in succeeding projects through employee, director, and/or client feedback.\n - Evaluate resources such as time spent for each project stage and/or by the department to determine bottlenecks and adjust as needed.\n\n### Best Practices\n\n- Make the project's goals and scopes very clear and detailed. These must also be communicated to the team members on the front end.\n- Create a system to address changes during the project. Ensure that all these changes are documented and communicated to the team.\n- Create a backup resource allocation plan. This is helpful when sudden changes, for instance, when an employee becomes sick or transitions out of the company, occur while the project is ongoing.\n- Be realistic in assigning resources to a project and planning for the project.\n- Generate regular reports to see if any pivoting needs to be done\n- Adopt a people-driven approach when it comes to resource allocation and management. High-achieving employees can mean the success and growth of your organization.\n\n### Recommended Tools\n\nProject managers will benefit from using software and other online resource allocation and management tools. It’s beneficial if these online tools offer additional integrations with other software in the organization to ensure a more streamlined process.\n\n#### Project Management\n\nProject management software aids with setting and keeping expectations, team coordination, and the overall execution of a project. Typical features include project planning and scheduling, team collaboration, time tracking, reporting, project budgeting, and billing. Some software, particularly project management systems designed for project and portfolio management (PPM) will have resource planning functionalities, which would be the best choice for PM software.\n\n- ClickUp (https://clickup.com/)\n- Basecamp (https://basecamp.com/)\n- Asana (https://asana.com/)\n- Monday.com (https://monday.com/)\n- Trello (https://trello.com/)\n- Airtable (https://www.airtable.com/)\n\n#### Resource Allocation\n\nIn addition to PM software, there is software specifically designed to conduct resource allocation and management. Such software includes allocation functionalities and management, capacity and demand planning, real-time analytics and forecasting, scenario simulations, and skill repositories and matching.\n\n- eResource Scheduler (https://www.eresourcescheduler.com/)\n- Parallax (https://www.getparallax.com/)\n- Runn (https://www.runn.io/)\n- Meisterplan (https://meisterplan.com/)\n- Resource Guru (https://resourceguruapp.com/)\n- Saviom (https://www.saviom.com/)\n- Hive (https://hive.com/)\n\nBefore downloading or paying for any software, check out our article on Nonprofit Software Discounts (https://resourceportal.antientropy.org/docs/nonprofit-discounts).\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
       "alternateSlugs": []
     },
     {
@@ -3747,6 +3886,42 @@
       "firstPublishedDate": "2022-10-26T12:13:30.727Z",
       "lastPublishedDate": "2023-02-23T15:08:35.047Z",
       "contentText": "### Who is this article for?\n\nAnyone looking to set up a charity or nonprofit in the United States.\n\n### This Article Covers\n\n- Charity vs Nonprofit\n- Nonprofit and Charity Criteria\n- Requirements before Applying for Charity Status\n- Nonprofit and Charity Setup Steps\n\n### Charity vs Nonprofit\n\nWhile these terms are sometimes used interchangeably, they have different purposes and implications. **All charities are nonprofit organizations, but not all nonprofits are charities.**\n\n- Nonprofit status is how an entity is established under state corporate law.\n- Charity status is a designation of the IRS tax code, and effects how an organization pays taxes.\n\nThe nonprofit entity is established at the state level and can apply to be recognized as a tax-exempt charity at the federal level. A nonprofit may or may not choose to be or qualify as charitable at the federal level for a variety of reasons. The information in this article is focused on organizations that are nonprofits and charities, and the requirements needed to meet both. For more information on the difference between the two see our Nonprofit vs Charity article (https://resourceportal.antientropy.org/docs/us-nonprofit-vs-charity).\n\n### Nonprofit and Charity Criteria\n\nIf you want to start a nonprofit and become a charity, there are a few things you should consider.\n\n- Is there a demonstrated need in the community for a new nonprofit with the mission you’re envisioning?\n- What issues will your nonprofit address?\n- Are you financially prepared to start a nonprofit? Costs range from $2,500 to $5,000, to cover legal, registration, and business start-up expenses.\n- Will you be committed to running the nonprofit and ensuring that it complies with all the necessary regulations and requirements? See our compliance checklist.\n- Will you be committed to upholding the mission, vision, and values of your organization?\n\n**Charities must also meet the following criteria:**\n\n- Organizational structure\n - It is a charitable entity in trust or corporate form\n - If the charity dissolves, assets will be given to another qualified public charity with a similar mission\n- Operations\n - The organization operates within the charitable mission\n - Follows additional tax requirements\n- Only a limited amount of lobbying (https://resourceportal.antientropy.org/docs/political-impartiality)\n - Private foundations cannot award grants to a public charity that has activities that involve influencing legislation.\n- No engagement in any political activity\n- No private benefit is provided to insiders or outsiders, except for a charitable class\n - A charitable class is a sufficiently large or indefinite group that the grant benefits the community\n\nIf you’re thinking of starting a nonprofit or charity because you have received grant funds, another alternative would be to seek fiscal sponsorship (https://resourceportal.antientropy.org/docs/fiscal-sponsorship).\n\n### Before Applying\n\nBefore filing anything at the state or federal level for your nonprofit and charity you need to set foundational values, prep organizational documents and select a board of directors.\n\n- Think of a name for your organization and check whether it is available for use or has already been registered (https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations).\n- Prepare the following as the foundation of your organization:\n - Values statement\n - Mission statement\n - Purpose statement\n- Create a business plan as you will need a solid infrastructure to support your future programs. This may include:\n - Organizational Structure\n - Marketing Plan\n - Budget Plan\n - Resource Development/Fundraising\n- Select your board of directors. Check your state requirements for the minimum number required, typically it is 3, as well as other qualifications needed.\n\n### Nonprofit and Charity Setup Steps\n\nBelow are the basic steps to starting a nonprofit and obtaining charity status within the US.\n\n**Take note**\n\nEach of the steps listed below has additional steps and further details to complete fully. Review our linked articles and referenced website for full details. It's always advised to seek professional advice for further guidance and to ensure you are compliant with state and federal laws.\n\n- Incorporate your Organization (https://resourceportal.antientropy.org/docs/incorporating-in-the-us)\n- Obtain your EIN (https://resourceportal.antientropy.org/docs/applying-for-an-ein)\n- Apply for tax-exempt (charity) status (https://resourceportal.antientropy.org/docs/applying-for-charity-status-us) with the IRS. This step is what will define you as a charity.\n- Check state requirements if you need to:\n - register before fundraising\n - secure any permits or licenses\n - apply for state tax or additional tax exemptions\n - register for unemployment insurance\n- Maintain tax-exempt status. You can check this US Charity Compliance Checklist (https://resourceportal.antientropy.org/docs/us-nonprofit-compliance) for guidance or refer to this IRS website (http://www.stayexempt.org/).\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "6b7d891f-0c43-4ff7-8c80-d37b53e969da",
+      "slug": "switzerland-fadp",
+      "title": "Switzerland FADP",
+      "url": "https://resourceportal.antientropy.org/docs/switzerland-fadp",
+      "description": "A reference guide explaining Switzerland's Federal Act on Data Protection and its alignment with EU GDPR for Swiss organizations handling EU/EEA personal data",
+      "keywords": [
+        "Adequacy Decision",
+        "data breach reporting",
+        "Data Privacy",
+        "Data Protection Officer (DPO)",
+        "DPIC",
+        "FADP",
+        "Federal Act on Data Protection (FADP)",
+        "sensitive personal data",
+        "Swiss",
+        "Switzerland"
+      ],
+      "tags": [
+        "Data Privacy",
+        "FADP",
+        "Swiss",
+        "Switzerland"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "GDPR - Data Privacy and Security"
+      ],
+      "readingTime": 2,
+      "createdAt": "2023-02-23T15:10:04.842Z",
+      "modifiedAt": "2023-02-23T15:10:04.842Z",
+      "firstPublishedDate": "2023-02-15T12:57:16.851Z",
+      "lastPublishedDate": "2023-02-23T15:10:04.858Z",
+      "contentText": "### Who is this article for?\n\nAny Swiss organization dealing with privacy data from the EU or EEA, but not operating in the EEA or EU.\n\nWhile Switzerland is not part of the EU or the EEA, it is a member of the European Free trade Area and has received an Adequacy Decision from the EU on its data protection regulations. Switzerland adopted a policy analogous to the GDPR, the Federal Act on Data Protection (FADP). Swiss companies only have to obey the GDPR if operating in the EEA or EU.\n\nThe original FADP was enacted in 1993, and the revised version will be enacted on September 1, 2023. You can find the full regulatory text here (https://www.admin.ch/opc/en/classified-compilation/19920153/index.html).\n\n**The FDPA is similar to the EU GDPR with some conceptual differences.**\n\n- Data operations don't require a defined legal basis. However, explicit consent of the data subject is required for high-risk profiling and processing of particularly sensitive personal data.\n- Appointing a Data Protection Officer (DPO) is not obligatory for private companies.\n- Punishments for data breaches are given to individuals responsible for failing to ensure adequate data protection. Whereas, in the EU GDPR, fines are imposed on companies.\n\n**The Revised FDAP will reflect the following changes:**\n\n- Information on legal persons or legal entities is no longer protected.\n- The revised version will apply to both manual and electronic records.\n- The concept of automated processing of personal data (profiling) is included in the law.\n- The scope of what is considered sensitive personal data is broader:\n - Racial origin\n - Trade union membership\n - Health data, but only to the extent it reveals the handicap or illness of the data subject\n - Religious, ideological, or political activities (not only related beliefs)\n - The intimate sphere as such (not only sex life)\n - Genetic data\n - Biometric data allowing the unique identification of a person\n - Social security measures\n - Administrative or criminal proceedings and sanction\n- Increase in fundamental rights of data subjects\n - Right of access\n - Right to know the purpose of the processing\n - Right to deletion\n - Right to data portability\n - Right to intervene when automated decision-making impacts data subjects\n- Individuals who intentionally breach the rules face sanctions of CHF 250,000.\n- When a data breach occurs, there is a need to report directly to the Swiss Federal Data Protection and Information Commissioner (DPIC).\n - During high-risk data breaches\n - If there is any increased risk to the personality or fundamental rights of the affected individuals.\n- Mandatory data protection impact assessment for data controllers and data processors when conducting high-risk data processing activities\n\nYou can check out this link (https://swissprivacy.law/55/) for a comparison table of the Swiss FDAP with the EU GDPR.\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.\n\nAn adequacy decision is used by the European Commission to determine whether a third country (non-EU and non-EEA) offers a comparable level of protection of personal data to that of the EU GDPR. Countries with adequacy decisions will be able to receive data from the EU and EEA freely, without additional safeguards than necessary. This means that personal data can flow from the EU and EEA to these countries.",
       "alternateSlugs": []
     },
     {
