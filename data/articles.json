@@ -1,17 +1,14 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-08-17T09:01:28+00:00",
-  "articleCount": 157,
-  "failedCount": 8,
+  "generatedAt": "2026-08-18T08:53:51+00:00",
+  "articleCount": 161,
+  "failedCount": 5,
   "failures": {
-    "new-york-nonprofit-charity-and-legal-entity-setup": "Failed to fetch https://resourceportal.antientropy.org/docs/new-york-nonprofit-charity-and-legal-entity-setup: HTTP Error 429: Too Many Requests",
-    "new-york-nonprofit-disclosure-reports": "Failed to fetch https://resourceportal.antientropy.org/docs/new-york-nonprofit-disclosure-reports: HTTP Error 429: Too Many Requests",
-    "non-disclosure-agreement-nda": "Failed to fetch https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda: HTTP Error 429: Too Many Requests",
-    "nonprofit-discounts": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-discounts: HTTP Error 429: Too Many Requests",
-    "pass-through-taxation": "Failed to fetch https://resourceportal.antientropy.org/docs/pass-through-taxation: HTTP Error 429: Too Many Requests",
-    "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
-    "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
-    "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests"
+    "travel-policy-us": "Failed to fetch https://resourceportal.antientropy.org/docs/travel-policy-us: HTTP Error 429: Too Many Requests",
+    "travel-policy-us-1": "Failed to fetch https://resourceportal.antientropy.org/docs/travel-policy-us-1: HTTP Error 429: Too Many Requests",
+    "types-of-independent-contractors-and-self-employment-in-germany": "Failed to fetch https://resourceportal.antientropy.org/docs/types-of-independent-contractors-and-self-employment-in-germany: HTTP Error 429: Too Many Requests",
+    "types-of-independent-contractors-and-self-employment-in-germany-1": "Failed to fetch https://resourceportal.antientropy.org/docs/types-of-independent-contractors-and-self-employment-in-germany-1: HTTP Error 429: Too Many Requests",
+    "uk-charity-conflict-of-interest": "Failed to fetch https://resourceportal.antientropy.org/docs/uk-charity-conflict-of-interest: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -38,10 +35,13 @@
       "slug": "absence-policy-uk-2",
       "title": "Absence Policy (UK)",
       "url": "https://resourceportal.antientropy.org/docs/absence-policy-uk-2",
-      "description": "",
+      "description": "A template absence policy for UK organizations with sponsored workers",
       "keywords": [
         "absence",
-        "UK"
+        "absence documentation",
+        "sponsored workers",
+        "UK",
+        "UK employment compliance"
       ],
       "tags": [
         "absence",
@@ -58,7 +58,12 @@
       "firstPublishedDate": "2022-04-04T18:51:19.368Z",
       "lastPublishedDate": "2022-08-10T20:10:36.317Z",
       "contentText": "## About This Policy\n\nGeneric absence policy for organizations in the UK.\n\n## Who Needs This Policy\n\nAn absence policy is required if you have any sponsored workers.\n\n## The Policy\n\nAbsence Policy (UK) (https://docs.google.com/document/d/1fKrcPntKEnXE2qzj4eYeU3ZSAgGbtjHM-lJFxnELaLw/edit?usp=sharing)",
-      "alternateSlugs": []
+      "alternateSlugs": [
+        "policy-and-guide-template"
+      ],
+      "alternateUrls": [
+        "https://resourceportal.antientropy.org/docs/policy-and-guide-template"
+      ]
     },
     {
       "id": "c4b8720d-44ec-4b15-9d1b-cb6b5d89c303",
@@ -540,8 +545,8 @@
       "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation-us",
       "description": "A template for drafting Articles of Incorporation required by US states to establish nonprofit charity status",
       "keywords": [
-        "Articles of Incorporation",
         "articles of incorporation",
+        "Articles of Incorporation",
         "board approval",
         "charity status application",
         "registered agent",
@@ -1251,6 +1256,40 @@
       "firstPublishedDate": "2023-01-26T15:07:36.453Z",
       "lastPublishedDate": "2023-01-26T15:07:36.453Z",
       "contentText": "### Who is this article for?\n\nGrantees applying for funding or fiscal sponsorship who want to ensure the highest probability of acceptance.\n\n### Topics Covered in This Article:\n\n- What is Due Diligence?\n- Benefits of Conducting Due Diligence\n- Conducting Due Diligence - Grantor and Grantee\n\n### What is Due Diligence?\n\nDue Diligence is a necessary part of the grant funding process. The process involves conducting research and deep dives to properly and legally verify the status of grantees and grantors. It is an essential practice that informs the financial decision of both parties and ensures financial and legal compliance. In addition, due diligence is the first step in a potential long-term relationship between the grantor and the grantee.\n\nIf you prefer a third-party organization's due diligence, there are agencies (https://www.givingforce.com/charity-due-diligence) or individuals (https://www.linkedin.com/in/elly-bohme-55442513/) that specialize in this research and can conduct due diligence. One of the benefits of outsourcing due diligence is that the third party can view both grantors and grantees with greater objectivity and utilize tools and resources you might not have available to carry out the process. In some cases, these types of companies can shoulder a degree of liability. The downside of outsourcing due diligence is the high cost, with rates reaching thousands of dollars.\n\n### Benefits of Conducting Due Diligence\n\n- Ensures that grant funds are being used for legitimate projects.\n- Helps organizations protect against fraud, money laundering, or being involved in possible terrorist activities or with unlawful organizations.\n- Ensures grantor and grantee are aligned, and the relationship will be mutually beneficial to both.\n- Ensures compliance with laws\n - Specifically laws to maintain 501c(3) status (https://resourceportal.antientropy.org/docs/applying-for-charity-status-us)\n\n### Conducting Due Diligence\n\nThere is no standard format for how due diligence is done. It depends on various factors and whether you are the grantee or grantor. Both parties need to conduct due diligence to ensure the relationship is mutually beneficial and will help each party reach its goals.\n\n#### As the Grantor\n\nFor the funders (grantors), they have to take into account the following:\n\n- **Due diligence threshold** - How much due diligence is needed in relation to the funds the organization will be granted.\n- **Risk appetite** - The amount of risk an organization is willing to accept or pursue to achieve its objectives.\n- **Risk tolerance** - The acceptable variations in outcomes, typically related to a specific project, that an organization is willing to accept. Tolerance is more granular in nature (per project and weighed against the appetite), while risk appetite is the organization’s overall level of risk exposure they are willing to accept.\n\nBefore actually proceeding with the due diligence process, an organization must have applicable policies in terms of funding. They should know where grant funds will be coming from, the funds' financial limit, and the grant's terms, as these parameters will help determine if the grantee and project are a good fit.\n\n**Ways of Doing Due Diligence - Grantor on Grantee**\n\n- Online Research, finding out everything there is to know about the grantee. Research goes beyond the company website and public profiles into sites that give independent perspectives on nonprofits:\n - Some examples: Candid, Charity Watch, Charity Navigator, GuideStar, GiveWell, ImpactMatters\n- Conduct physical site visits, if possible.\n- Communicate and dig beyond email exchanges and, if necessary, conduct in-person or virtual interviews with key staff in the applying organizations.\n- Consult other funders, organizations, and philanthropists focused on the same or related cause areas. Obtain insights on the applicant, as they may have also applied for grants from other organizations.\n\n#### As the Grantee\n\nAs the grantee receiving funds, you need to be prepared to have all aspects of your organization reviewed and key documents ready. You are also advised to do your own due diligence on the grantors.\n\n**Ways of Doing Due Diligence - Grantee on Grantor**\n\n- Online Research, finding out everything there is to know about the grantor. Research goes beyond the company website and public profiles into sites that give independent perspectives on nonprofits:\n - Some examples: Candid, Charity Watch, Charity Navigator, GuideStar, GiveWell, ImpactMatters\n- Communicate with other recipients of grants from the organization to ensure your project will be valued and aligned.\n- Consult other funders, organizations, and philanthropists focused on the same or related cause areas for additional insight.\n\n**Areas Inspected During Due Diligence:**\n\n- The organization’s infrastructure\n- How the board manages the organization and its members\n- Financial sustainability\n- Community engagement - Their position in the community and the field or cause it serves\n- Collaboration with other organizations and strategic partnerships\n- Organization’s strategy and planning to push its mission\n- How goals and milestones are being set, tracked, and evaluated\n- How proposed activities and programs align with the funder’s guidelines and priorities\n- How proposed activities and programs provide the needed services to the community and advance the field\n- How proposed activities and programs compare to other proposals or applications within the same field\n\nTo help prepare for your grant application, here is a sample due diligence questionnaire (https://milkeninstitute.org/sites/default/files/2020-09/DueDiligenceQuestionnaire-FINAL-v3.pdf).\n\n**When applying for a grant, prepare the following documents:**\n\n- Articles of incorporation (https://resourceportal.antientropy.org/docs/articles-of-incorporation)\n- Governance bylaws\n- IRS Form 990 (https://www.irs.gov/forms-pubs/about-form-990)\n- Organizational chart\n- Strategic and operational plans\n- Budget\n- Board meeting minutes\n- Financial audit reports\n- Program portfolio\n- Annual reports\n- Press releases/media articles\n- Program proposal\n\nReasonable steps (ie. investigation, research, interviews) taken by a person or organization to ensure no harm will be done either through a transaction or establishment of a legal, financial, or commercial relationship.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "5fdefb3a-1772-4665-ac2f-57c08bf86af2",
+      "slug": "nonprofit-email-compliance",
+      "title": "Email Compliance",
+      "url": "https://resourceportal.antientropy.org/docs/nonprofit-email-compliance",
+      "description": "A guide with checklist and examples for nonprofits to ensure email marketing compliance with regulations including GDPR, CAN-SPAM, and CCPA",
+      "keywords": [
+        "CAN-SPAM Act",
+        "CCPA",
+        "Compliance",
+        "double opt-in",
+        "email",
+        "Email Compliance Checklist",
+        "GDPR",
+        "GDPR Article 7",
+        "unsubscribe link"
+      ],
+      "tags": [
+        "Compliance",
+        "email",
+        "GDPR"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "GDPR - Data Privacy and Security"
+      ],
+      "readingTime": 4,
+      "createdAt": "2023-03-02T17:11:26.302Z",
+      "modifiedAt": "2023-03-02T17:11:26.302Z",
+      "firstPublishedDate": "2022-04-25T13:47:29.588Z",
+      "lastPublishedDate": "2023-03-02T17:11:26.495Z",
+      "contentText": "### Who is this article for?\n\nAny nonprofit, charity, or organization distributing emails, newsletters, and/or obtaining personal information from emails sent from their organization.\n\n### This Article Covers\n\n- Email Compliance Checklist\n- GDPR Email Subscriptions and Opt-ins\n- Example verbiage and visuals for compliant forms\n\n### Summary\n\nRegulations state how nonprofits can use email in their marketing and other activities, such as fundraising. Therefore, it’s essential to know the following laws for email compliance. For the full guide, click here (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing).\n\n### Email Compliance Checklist\n\n- Has everyone on your email list agreed to receive email communications from you? Did they opt-in explicitly or through transacting directly with the organization?\n - Does your opt-in page show what kind of messages the user will be receiving once they subscribe?\n- Is it clear that your organization is sending the email? Check if the “to” field has your organization’s name.\n- Does your subject line accurately state what the email is about?\n- If your email is an ad, do you have statements in the message stating that it is? For example, soliciting a donation might be considered an ad.\n- Does your email footer contain the following information?\n - Organization name\n - Valid physical address\n - Phone number, email, or web address\n - Unsubscribe option\n - Short text on why the user is receiving the email\n- Does your email show how the reader can unsubscribe from your emails?\n - Is it easy to read and understand how to unsubscribe?\n - Does clicking the link lead to the opt-out page on your website?\n- Do you have a link to your Privacy Policy? Read here for more about a Privacy Policy (https://resourceportal.antientropy.org/docs/template-privacy-notice).\n - Is your Privacy Policy updated on your website?\n- If you’re outsourcing your email marketing campaigns, ensure the third-party company is compliant to (ask them about it):\n - CAN-SPAM Act\n - GDPR\n - CCPA\n\n### GDPR Email Subscriptions and Opt-ins\n\nTo be compliant with GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk) ensure your organization is clear about the exchange of personal data for opting into any email, newsletter, or subscription. GDPR defines the conditions for consent in Article 7. (https://gdpr.eu/article-7-how-to-get-consent-to-collect-personal-data/)\n\n-\n\n**Consent is given voluntarily**\n\n - When assessing whether consent is given voluntarily, it must be taken into account whether the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract.\n - For example, if a user wants to download an ebook/whitepaper, or participate in an event, it must be clear that by doing so, they will be automatically subscribed to your newsletter.\n - If personal data will be collected in exchange for an item/service you’ll be providing this should be made clear during the opt-in stage.\n-\n\n**Consenting must be clearly recognizable**\n\n - Positive opt-in - Dedicate a separate space in your form where users can voluntarily and actively click on a checkbox\n - **Pre-ticked sign-up checkboxes are not allowed**\n - Double opt-in - Once a user submits their information, they receive an email that contains a link that they can click to further confirm their subscription to your newsletter.\n - It is best practice is to provide a link to your privacy policy not only in the opt-in form but in the emails you’ll be sending as well.\n-\n\n**You must ensure that opting out of your email subscription is easy**\n\n - Add a visible unsubscribe link to all of your emails\n - Add a link that lets users change their email preferences\n\nExamples of GDPR compliant newsletters (https://www.termsfeed.com/blog/gdpr-email-newsletters/)\n\nExamples of GDPR email disclaimers (https://www.exclaimer.com/email-signature-handbook/top-5-gdpr-email-disclaimer-examples/)\n\nFull GDPR Compliance Guide (https://resourceportal.antientropy.org/docs/gdpr-compliance-guide)\n\n### Compliant Form Examples\n\nThese examples are based on the UK and EU GDPR for compliance, as they are generally stricter than the US. However, it is always best practice to check your country or region's regulations in detail to ensure compliance. You can view our EU GDPR (https://resourceportal.antientropy.org/docs/gdpr-eu), UK GDPR (https://resourceportal.antientropy.org/docs/gdpr-uk), and Switzerland FADP (https://resourceportal.antientropy.org/docs/switzerland-fadp) articles for additional information and details.\n\n[Image: Screen Shot 2023-03-02 at 10.56.47 AM.png]\n\n**Text Example 1:**\n By submitting your email, you agree to be included in our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I agree\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n**Text Example 2:**\n To receive [item/service], please subscribe to our newsletter. Don't worry, you can unsubscribe at any time. For more details, you can review our Privacy Policy.\n [Add checkbox] I want to subscribe\n Make sure the words \"privacy policy\" links to your policy on your website.\n\n#### Non Compliant Examples\n\n[Image: Screen Shot 2023-03-02 at 10.57.28 AM.png]\n\n**Why it's not compliant:**\n In the above example, the checkbox is for two separate items. You must have separate checkboxes for separate actions that you would need consent from.\n\n[Image: Screen Shot 2023-03-02 at 11.01.33 AM.png]\n\n**Why it's not compliant:**\n There is no specific section of the form that the user agrees to or has to take action on by clicking or checking for sharing their information. There are also no details or explanation that they will be subscribed to a mailing list or not after joining the contest.\n\n### The Full Guide\n\nEmail Compliance Guide (Google Doc) (https://docs.google.com/document/d/1LdqmFmXvx-bQOKwfFebFQN-eiWuIqZL24wmAHPqYeuI/edit?usp=sharing)\n The guide includes more detailed information and source data.",
       "alternateSlugs": []
     },
     {
@@ -2599,6 +2638,193 @@
       "firstPublishedDate": "2022-05-27T13:30:40.898Z",
       "lastPublishedDate": "2022-05-27T18:42:33.65Z",
       "contentText": "## About This Checklist\n\nThis checklist contains the requirements to continue operating in a charity or nonprofit in New York State.\n\n## Record-Keeping\n\n- Do you have copies of board meeting minutes (https://resourceportal.antientropy.org/docs/us-nonprofit-board-meeting-requirements)?\n - New York requires organizations to have a least one meeting per year.\n - Organizations in New York must maintain at least three board members; they are not required to reside in New York.\n- Did the organization file all required state tax and financial documents?\n - See below for a list of state requirements (https://resourceportal.antientropy.org/docs/new-york-nonprofit-and-charity-compliance-checklist#annual-filing).\n - Note that a certified public accountant is ***required*** to do some of these if revenue or support exceeds $500,000.\n- Have you reviewed the federal compliance checklist (https://resourceportal.antientropy.org/docs/us-nonprofit-compliance)?\n - Federal requirements include a 990 tax form to the IRS.\n\n### Annual Filing\n\nNote that many of these items must be done by a certified public accountant. Therefore, any organization in New York State should use a CPA knowledgeable in New York nonprofit regulations.\n\n#### NYS Attorney General’s Charities Bureau\n\n- Form CHAR500 (https://www.charitiesnys.com/pdfs/CHAR500_2021.pdf)\n - NYS Annual Filing for Charitable Organizations\n- Financial Report\n - Less than $250,000 in revenue and support\n - Unaudited Financial Report\n - More than $250,000 but not more than $1 million\n - Financial Report with independent CPA’s review\n - In excess of $1 million\n - Financial report with CPA audited financial statement\n\n#### NYS Department of State\n\n- Form CHAR500 (https://www.charitiesnys.com/pdfs/CHAR500_2021.pdf) (NYS Annual Filing for Charitable Organizations)\n - Required for nonprofits with at least $250,000 in annual support and revenue\n- Funding Disclosure Report and Financial Disclosure Report (https://resourceportal.antientropy.org/docs/new-york-nonprofit-disclosure-reports)\n - Required by (https://dos.ny.gov/financial-reports-be-filed-certain-not-profit-organizations) \"Any covered entity that makes an in-kind donation of staff, staff time, personnel, or any other human resources, offices or office supplies with a value in excess of $10,000 to a recipient entity during a relevant reporting period...\"\n - Required to be done by a certified public accountant if funds exceed $750,000 per Subsection (9) of Section 172-b of the New York Executive Law (https://www.nysenate.gov/legislation/laws/EXC/172-B)\n\n#### NYS Department of Taxation\n\n- Form NYS-45 (https://www.tax.ny.gov/pdf/current_forms/wt/nys45_fill_in.pdf) (Quarterly Combined Withholding, Wage Reporting and Unemployment Insurance Return)\n- Form NYS-1 (https://www.tax.ny.gov/pdf/current_forms/wt/nys1_fill_in.pdf) (Return of Tax Withheld)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "74c62342-7684-4e67-b1e1-185b67b9159a",
+      "slug": "new-york-nonprofit-disclosure-reports",
+      "title": "New York Nonprofit Disclosure Reports",
+      "url": "https://resourceportal.antientropy.org/docs/new-york-nonprofit-disclosure-reports",
+      "description": "A reference guide for New York nonprofits explaining two mandatory disclosure reports required when in-kind donations or communications spending exceed $10,000",
+      "keywords": [
+        "$10",
+        "000 threshold",
+        "covered communications",
+        "disclosure",
+        "Financial Disclosure Report",
+        "Funding Disclosure Report",
+        "in-kind donations",
+        "newyork"
+      ],
+      "tags": [
+        "disclosure",
+        "newyork"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "New York State Governance and Compliance"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-05-27T18:22:50.506Z",
+      "modifiedAt": "2022-05-27T18:22:50.506Z",
+      "firstPublishedDate": "2022-05-27T18:22:50.553Z",
+      "lastPublishedDate": "2022-05-27T18:22:50.553Z",
+      "contentText": "The fee for filing these reports is $25 each. You can file these online here (https://dos.ny.gov/financial-reports-be-filed-certain-not-profit-organizations). Note that forms for organizations with revenue or support over $500,000 may need to be done by a certified public accountant.\n\nThese must be filed within 30 days of the close of a reporting period (January 1 to June 30; July 1 to December 31). When filing, include a copy of the Annual Financial Reports covering the Funding Disclosure Report's reporting period.\n\n## Funding Disclosure Reports\n\nYou must file a Funding Disclosure Report if you have made in-kind donations of staff, staff time, personnel, or other human resources, offices, or office supplies with a value in excess of $10,000 to a recipient entity during a relevant reporting period.\n\nThe report should have the following information:\n\n- Name and address of the donor\n- Name and address of the recipient that received or benefitted from the in-kind donation\n- Names of any persons (at least one) who exert operational or managerial control in the nonprofit\n- Date of the donation\n- Description of the in-kind donation\n - Charitable purpose and any restrictions on the donation\n\n## Financial Disclosure Report\n\nIf you spent an aggregate amount or fair market value exceeding $10,000 in one calendar year on covered communications (audio, video, or written communication) to the general public.\n\nThe report should have the following information:\n\n- Name and address of the nonprofit\n- Names of any persons (at least one) who exert operational or managerial control in the nonprofit\n- Detailed description of the covered communication\n- Dollar amount paid for each covered communication\n- Name and address of the entity receiving the payment\n- Date the payment was made\n- Name and address of any donor that contributed to the expenditure of the covered communication\n - Date and amount of donation, description of any restriction",
+      "alternateSlugs": []
+    },
+    {
+      "id": "98504c3d-01c3-4bc1-ac88-528ed7db67d2",
+      "slug": "new-york-nonprofit-charity-and-legal-entity-setup",
+      "title": "New York Nonprofit, Charity, and Legal Entity Setup",
+      "url": "https://resourceportal.antientropy.org/docs/new-york-nonprofit-charity-and-legal-entity-setup",
+      "description": "A guide for incorporating a nonprofit in New York, obtaining tax-exempt status, and registering with state agencies",
+      "keywords": [
+        "Certificate of Incorporation",
+        "charitable solicitation registration",
+        "Entity",
+        "Form CT-247",
+        "New York Department of State",
+        "newyork",
+        "Not-for-Profit Corporation Law",
+        "US Nonprofit"
+      ],
+      "tags": [
+        "Entity",
+        "newyork",
+        "US Nonprofit"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "New York State Governance and Compliance"
+      ],
+      "readingTime": 4,
+      "createdAt": "2022-10-12T22:23:02.677Z",
+      "modifiedAt": "2022-10-12T22:23:02.677Z",
+      "firstPublishedDate": "2022-07-20T12:34:59.302Z",
+      "lastPublishedDate": "2022-10-12T22:23:02.695Z",
+      "contentText": "### Who is this article for?\n\nAnyone wanting to start a nonprofit or charity in the state of New York.\n\nNonprofits operating in New York are subject to the Not-for-Profit Corporation Law (the “N-PCL”). There are two types of nonprofits recognized in the state:\n\n- Religious corporations\n- Non-religious corporations\n - Type A: Non-business purposes: civic, patriotic, political, social, fraternal, athletic, agricultural, horticultural, animal husbandry, and for a professional, commercial, industrial, trade or service association.\n - Type B: Non-business purposes: charitable, educational, religious, scientific, literary, cultural or for the prevention of cruelty to children or animals.\n - Type C: A nonprofit formed for public or quasi-public purposes (those usually performed by a business corporation)\n - Type D: Other purposes\n\nHere are the steps to starting a nonprofit in New York. Some pieces of information are taken from the New York Council of Nonprofits, Inc. (https://www.nycon.org/resources/start-a-nonprofit)\n\n### New York Nonprofit Incorporation Overview\n\n- Incorporate with the New York Department of State (https://resourceportal.antientropy.org/docs/new-york-nonprofit-charity-and-legal-entity-setup#new-york-department-of-state) and get written consent from the corresponding New York State agency (https://resourceportal.antientropy.org/docs/new-york-nonprofit-charity-and-legal-entity-setup#new-york-state-agency)\n- Register for your EIN (https://resourceportal.antientropy.org/docs/applying-for-an-ein)\n- Apply for tax-exempt status with the IRS (https://resourceportal.antientropy.org/docs/applying-for-charity-status-us)\n- Register for NYS-specific Tax Identification Numbers/Accounts with the NYS Department of Taxation and Finance and for city-specific taxes\n- Register for charitable solicitation with the NYS Office of the Attorney General\n- Register for other licenses applicable to your nonprofit\n\n### Items Needed During This Process\n\n- Registered Agent (https://resourceportal.antientropy.org/docs/us-registered-agent)\n- Articles of Incorporation (https://resourceportal.antientropy.org/docs/articles-of-incorporation)\n- Board Members (https://resourceportal.antientropy.org/docs/nonprofit-board-member)\n- Bylaws (https://resourceportal.antientropy.org/docs/us-corporate-bylaws)\n\n### New York Department of State\n\nNonprofits must register as a corporation with the New York Department of State - Division of Corporations, State Records and Uniform Commercial Code (https://dos.ny.gov/).\n\nHere are the requirements to incorporating your nonprofit:\n\n- Certificate of Incorporation (https://dos.ny.gov/system/files/documents/2021/02/1511-f.pdf)\n - You can find instructions for filling out the form here (https://dos.ny.gov/system/files/documents/2018/12/1511-inst.pdf).\n - Check if you have a duplicate business name here (https://apps.dos.ny.gov/publicInquiry/#search).\n- $75 filing fee (regular processing)\n - Pay via Mastercard, Visa or American Express, money order; checks should be made to Department of State\n- You also have the option to avail of expedited processing. Here are the fees:\n - $25 per document, processing within 24 hours\n - $75 per document, within the same day\n - $150 per document, within 2 hours\n\n### New York State Agency\n\nYou should also get written consent from the matching New York State agency (https://www.ny.gov/agencies) for your nonprofit. This will be attached to your Certificate of Incorporation.\n\nIdentify which purpose your charity corresponds to. You can find the different purposes here (https://codes.findlaw.com/ny/notforprofit-corporation-law/npc-sect-404.html).\n\nThese are the agencies you’ll be needing written consent from:\n\n- 404(a) - Office of the Attorney General - Antitrust Bureau (http://www.oag.state.ny.us/)\n- 404(b) - Office of the Children and Family Services (http://www.ocfs.state.ny.us/)\n- 404(d) - Department of Health - Division of Legal Affairs (http://www.health.ny.gov/)\n- 404(o), (p), (t) - NYS Department of Health - Division of Legal Affairs (http://www.health.state.ny.us/)\n- 404(q) - NYS Office of Mental Health - Bureau of Inspection and Certification (https://www.omh.ny.gov/) or NYS Office for People with Developmental Disabilities - Office of Counsel (http://www.opwdd.ny.gov)\n- 404(u), (v) - Office of Alcoholism and Substance Abuse Services (http://www.oasas.ny.gov/)\n\n### NYS Department of Taxation and Finance\n\nAs a nonprofit in New York, you must also get NYS-specific Tax Identification Numbers/Accounts from the NYS Department of Taxation and Finance. If operating in New York City, you have to register for city taxes with the The City of New York Finance Commissioner.\n\nYou can also check out this more detailed New York State tax guide for new businesses (https://www.tax.ny.gov/pdf/publications/multi/pub20.pdf) for additional information.\n\nHere are the requirements for **Corporation Franchise Tax Exemption**:\n\n- Form CT-247 (https://www.tax.ny.gov/pdf/current_forms/ct/ct247.pdf)\n- IRS determination letter\n- Articles of incorporation\n- Bylaws\n\nYou can submit these requirements to:\n NYS Tax Department\n Corporation Tax Account Resolution\n W A Harriman Campus\n Albany NY 12227-0852\n\nHere are the requirements for **Sales Tax Exemption**:\n\n- Form ST-119.2 (https://www.tax.ny.gov/pdf/current_forms/st/st119_2_fill_in.pdf)\n- Articles of incorporation\n- Bylaws\n- IRS determination letter\n- Statement of activities (present and future activities)\n- Statement of receipts and expenditures\n- Statement of assets and liabilities\n\nYou can submit these requirements to:\n NYS Tax Department\n Sales Tax Exempt Organizations Unit\n W A Harriman Campus\n Albany NY 12227-0852\n\nHere is how you can apply for **Real Estate Property Tax Exemption**. You can get more information here (https://www1.nyc.gov/assets/finance/downloads/pdf/08pdf/not_for_profit_appl.pdf).\n\n- The application is two-fold. First, you must fill up a form for the corresponding organization purpose.\n - 420-a: Charitable, Educational, Hospital, Moral or Mental Improvement of Men, Women or Children or Religious\n - 420-b: Benevolent, Bible, Enforcement of Law Relating to Children or Animals, Historical, Infirmary, Library, Literary, Missionary, Patriotic, Public Playground, Scientific, Supervised Youth Sportsmanship or Tract\n - These are the forms:\n - RP-420-a/b-Org (https://www.tax.ny.gov/pdf/current_forms/orpts/rp420aborga_fill_in.pdf)\n - RP-420-a-Org (https://www.tax.ny.gov/pdf/current_forms/orpts/rp420aorg_fill_in.pdf)\n - RP-420-b-Org (https://www.tax.ny.gov/pdf/current_forms/orpts/rp420borg_fill_in.pdf)\n- Then, you must fill up a form for specific property use. Fill up this form:\n - RP-420-a/b-Use (https://www.tax.ny.gov/pdf/current_forms/orpts/rp420abuse_fill_in.pdf)\n- Attach the following documents as well:\n - Articles of Incorporation\n - Bylaws\n - Deed of sale of property\n - Certificate of Occupancy\n\nYou can submit the requirements to:\n New York City Department of Finance\n Commercial Exemptions – NFP\n 59 Maiden Lane, 22nd Floor\n New York, NY 10038\n\n### New York State Office of the Attorney General\n\nYou must register for charitable solicitation with the NYS Attorney General Charities Bureau (https://www.charitiesnys.com/checklist.html), which is done online (https://myidentity.ag.ny.gov/CustomLoginPage/loginpage.jsp?). Here’s a comprehensive user guide (https://charitiesnys.com/pdfs/online-reg-useguide.pdf) to signing up on the site.\n\nHere are the requirements:\n\n- Account with the Office of the Attorney General\n- EIN\n- IRS determination letter\n- Information about the nonprofit's officers, directors, trustees, key employees/key persons\n - Name, email, mailing address\n- Any professional fundraisers hired by the organization\n - Name, address, contract start and end dates\n- At least 100-word description of the organization's charitable purposes\n- Signatures of two authorized officers\n - President or authorized officer/trustee\n - Chief financial officer or treasurer\n- PDF copies of the following:\n - Certificate of Incorporation or other organizing document\n - Bylaws or other rules document\n- Filing fee of $25 (2 to 3 months processing)\n\n### Additional Requirements\n\nYou can also check other licenses that you need to apply or register for, particularly the county-specific ones. The New York Business Express (https://www.businessexpress.ny.gov/) lets you generate a checklist of licenses that’s relevant to your nonprofit after answering a few questions.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "a7ec9244-2f86-4ba6-8584-a24c82e0cc45",
+      "slug": "non-disclosure-agreement-nda",
+      "title": "Non-Disclosure Agreement (NDA)",
+      "url": "https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda",
+      "description": "A guide explaining NDA components, types, enforceability, and legal protections for organizations sharing confidential information with partners or employees",
+      "keywords": [
+        "confidential information definitions",
+        "enforceability considerations",
+        "legal recourse provisions",
+        "Mutual NDA",
+        "NDA",
+        "Non-Disclosure Agreement",
+        "non-mutual NDA"
+      ],
+      "tags": [
+        "NDA",
+        "Non-Disclosure Agreement"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "Independent Contractors"
+      ],
+      "readingTime": 3,
+      "createdAt": "2025-11-18T23:39:15.057Z",
+      "modifiedAt": "2025-11-18T23:39:15.057Z",
+      "firstPublishedDate": "2023-02-02T19:02:01.378Z",
+      "lastPublishedDate": "2025-11-18T23:39:15.057Z",
+      "contentText": "Who this is for:\n\nOrganizations needing to protect confidential information when working with partners, vendors, contractors, employees, or other parties who will access sensitive business information.\n\nA non-disclosure agreement (NDA) is a legally binding contract that establishes confidentiality obligations between parties. These agreements protect sensitive business information from unauthorized disclosure and are standard practice when sharing proprietary information with employees, contractors, partners, or potential collaborators.\n\n## Types of NDAs\n\n**Mutual NDA**: Both parties agree to protect each other's confidential information. Use this when both organizations will share sensitive information, such as exploring partnerships, collaborations, or joint ventures.\n\n**Non-mutual NDA**: Only one party (the Receiving Party) agrees to protect the other party's (the Disclosing Party's) confidential information. Use this for employee onboarding, contractor agreements, or vendor relationships where information flows primarily one direction.\n\n## Common use cases\n\nOrganizations typically use NDAs when:\n\n• Onboarding new employees or contractors\n • Engaging with vendors or service providers\n • Exploring potential partnerships or collaborations\n • Sharing information with board members or advisors\n • Discussing sensitive projects with external parties\n • Providing access to confidential systems or data\n\n## What NDAs protect\n\nNDAs can protect various types of confidential information:\n\n• Business operations, strategies, and plans\n • Financial information and projections\n • Client and donor lists\n • Marketing strategies and materials\n • Technical data and processes\n • Proprietary methods and procedures\n • Personnel information\n • Strategic partnerships and relationships\n\nNDAs cannot protect information that is already public knowledge, widely disclosed, or that someone has a legal duty to report.\n\n## Key components of an NDA\n\n**Parties to the agreement**: Clearly identify all individuals or organizations bound by the agreement.\n\n**Definition of confidential information**: Specify what information is considered confidential. Be explicit rather than assuming others will understand what should remain private.\n\n**Exclusions from confidentiality**: Include standard exceptions such as information that becomes publicly available, was already known to the receiving party, or must be disclosed by law.\n\n**Permitted uses**: Detail how the receiving party may use the confidential information, including any restrictions on disclosure to third parties.\n\n**Duration**: Specify how long the confidentiality obligations remain in effect. This can range from a specific timeframe to perpetuity, depending on your needs.\n\n**Return or destruction of information**: Outline requirements for returning or destroying confidential materials when the relationship ends or upon request.\n\n**Consequences of breach**: Detail the remedies available if someone violates the agreement, including potential monetary damages, injunctions, or contract termination.\n\n**Governing law**: Specify which state or jurisdiction's laws will govern the agreement. Choose a jurisdiction where you have legal counsel or are familiar with the laws, as this determines which courts can hear disputes and which legal standards apply. Using your organization's home jurisdiction or where your attorney practices simplifies enforcement and legal guidance.\n\n## Benefits and limitations\n\n**Benefits:**\n • Provides legal recourse if confidential information is misused or disclosed\n • Clarifies expectations about what can and cannot be shared\n • Creates accountability and demonstrates professionalism\n • Cost-effective way to protect sensitive information\n • Builds trust in business relationships\n\n**Limitations:**\n • Cannot prevent all unauthorized disclosures\n • May be unenforceable if overly broad or vague\n • Can create administrative burden for smaller organizations\n • Does not replace other security measures\n\n## When NDAs may be unenforceable\n\nCourts may not enforce an NDA if:\n\n• The language is overly broad or unreasonably restrictive\n • The information is already publicly available or widely known\n • The agreement attempts to prevent reporting of illegal activities\n • There is no valid consideration supporting the agreement\n • The agreement violates public policy\n\n## Implementing an NDA\n\nTo effectively implement an NDA:\n\n- Determine whether you need a mutual or non-mutual agreement based on the relationship and information flow\n- Customize the template to reflect your specific needs:\n • Adjust the definition of confidential information to match what you're actually protecting\n • Modify exclusions if you have specific scenarios where disclosure is acceptable\n • Set an appropriate duration based on how long the information needs protection\n • Ensure permitted uses align with the purpose of sharing the information\n • Add or remove sections based on your situation and legal counsel's advice\n- Ensure all parties understand their obligations under the agreement\n\nImportant disclaimer:\n\nThis article provides general guidance only and is not legal advice. NDAs are legal contracts with significant implications. Consult with a qualified attorney to ensure your NDA is appropriate for your specific situation and enforceable in your jurisdiction.\n\nNDA Templates\n\nDownload our NDA templates to get started:\n\n• Mutual NDA Template (https://docs.google.com/document/d/16Lyou6cbBG3FA55CORpGP1r8TWI9m-qBtjoRQ-Oy-Ig/edit?usp=sharing) - For situations where both parties will share confidential information\n • Non-Mutual NDA Template (https://docs.google.com/document/d/1NazQeNA5qAlNoDUEy8JmEIy3-Wc9vK4Dss1z2YQqWuM/edit?usp=sharing) - For situations where one party will receive confidential information\n\nThese templates provide a starting point and should be reviewed by legal counsel before use.\n\n## Additional Resources\n\nGOV.UK Guidance on Non-disclosure agreements (https://www.gov.uk/government/publications/non-disclosure-agreements)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "9cd8193b-4b7e-43be-92d7-c62ed1046846",
+      "slug": "nonprofit-discounts",
+      "title": "Nonprofit Software Discounts",
+      "url": "https://resourceportal.antientropy.org/docs/nonprofit-discounts",
+      "description": "A reference listing software and tools offering discounts to nonprofits, eligibility requirements, and application processes for each vendor",
+      "keywords": [
+        "discounts",
+        "fiscal sponsorship eligibility",
+        "Form 990",
+        "IRS 501(c)(3) determination letter",
+        "nonprofit",
+        "Percent verification",
+        "software discounts",
+        "TechSoup"
+      ],
+      "tags": [
+        "discounts",
+        "nonprofit",
+        "software discounts"
+      ],
+      "categoryPath": [
+        "Building And Running An Organization",
+        "Operational Tools and Resources"
+      ],
+      "readingTime": 4,
+      "createdAt": "2025-10-29T16:44:40.363Z",
+      "modifiedAt": "2025-10-29T16:44:40.363Z",
+      "firstPublishedDate": "2023-04-27T12:47:13.274Z",
+      "lastPublishedDate": "2025-10-29T16:44:40.363Z",
+      "contentText": "## Nonprofit Discounts\n\nMost online tools and software companies offer discounts and special pricing to nonprofits. Take advantage of these discounts, special deals, and donated software to save resources and invest more in your mission. While free versions exist, they often have limited features that won't meet your needs as you scale and grow.\n\n## Typical Requirements\n\nThese are the usual information and requirements you'll need to prepare before applying for nonprofit discounts:\n\n- Registered organization name\n- Organization URL\n- EIN (Employer Identification Number)\n- IRS 501(c)(3) determination letter\n- Sometimes requested:\n - Recent Form 990\n - Organizational bylaws\n\n#### For Fiscally Sponsored Projects\n\nIf you are a fiscally sponsored project, be aware that some platforms do not offer discounts to sponsored projects or may not consider them eligible. The application process may also vary depending on the platform:\n\n- Some platforms require your fiscal sponsor to apply and manage the account on your behalf\n- Others allow sponsored projects to apply directly using their project name\n- You may want to check with your fiscal sponsor before applying to understand their process and requirements\n- Additional documentation may be needed:\n - Fiscal Sponsorship Agreement\n - Letter from fiscal sponsor confirming 501(c)(3) status\n\n## Airtable\n\nAirtable offers 50% off on Team plan licenses to eligible nonprofits.\n\n- Eligibility criteria can be found here (https://support.airtable.com/docs/nonprofit-and-educational-plans-faqs)\n- Application form can be accessed here (https://airtable.com/shr9DxhP6lU9slZE6?prefill_Application=Nonprofit)\n- Decisions are typically given within 2 business days\n- Note: Airtable AI is not eligible for nonprofit discounts\n\n## Salesforce\n\nSalesforce offers nonprofit-specific pricing and programs for eligible organizations.\n\n**Nonprofit Cloud Pricing:**\n\n- Available at discounted rates for nonprofits\n- Visit Salesforce's nonprofit pricing (https://www.salesforce.org/products/nonprofit-pricing/) for current rates\n\n**The Power of Us Program:**\n\n- Qualifying nonprofits receive 10 free subscriptions to the Nonprofit Cloud Enterprise Edition plus access to discounted Salesforce technology\n- Eligibility criteria can be found here (https://www.salesforce.org/wp-content/uploads/2023/03/p10-eligibility-guidelines-English-2023.pdf)\n- Processing time takes 2 to 3 weeks\n\n## Google Workspace\n\nEligible nonprofits can access Google Workspace for free or at discounted rates through Google for Nonprofits.\n\n- List of available products can be found here (https://www.google.com/nonprofits/workspace/compare/)\n- Eligibility criteria can be found here (https://www.google.com/nonprofits/eligibility/)\n- Verification is handled through Goodstack (Google's official verification partner)\n- Verification typically takes 3-5 business days\n- The free tier supports up to 2,000 users\n\n## Zoom\n\nYou can access discounted Zoom licenses through TechSoup.\n\n- 50% discount available on Pro and Business licenses through TechSoup (https://www.techsoup.org/zoom)\n- Can be purchased once per fiscal year (July 1 to June 30), valid for 12 months\n- More information can be found here (https://www.techsoup.org/products/zoom-one-1-year-subscription-access-to-discounted-rates-g-53437-)\n\n## Asana\n\nNonprofits can receive a 50% discount on Premium or Business plans.\n\n- More information available at Asana for Nonprofits (https://asana.com/nonprofit)\n- Application form can be accessed here (https://validation.poweredbypercent.com/validate/validationinvite_a452a260-4d29-4698-bf87-3bcfdf8718a0?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyUHVibGljS2V5IjoicGtfYjJlZWZmZjctODIzOS00NTBmLWJiN2ItN2FiZGQwNGM1Mzk1IiwiaWF0IjoxNjgwMTcwMTc3fQ.wbtudRXN01LObXxYNjCSvt_PoCl5r4bE8CS06ZupI0k)\n\n## Slack\n\nThe Slack for Nonprofits program offers free or discounted plan upgrades to eligible organizations.\n\n- Pro Plan: Free upgrade for workspaces with 250 or fewer members; 85% discount for workspaces above that size\n- Business+ Plan: 85% discount for workspaces of any size\n- Enterprise Grid: Available for qualifying workspaces with 1,000+ members (contact Slack (https://slack.com/help/contact?from_hc=1&src=article&hid=HC-8031-22F8-2184-9F1F&aid=204368833))\n- Workspace owners can submit applications here (https://my.slack.com/nonprofit)\n- Slack partners with TechSoup to review and validate applications\n- Applications are typically processed within 3 business days\n\n## Microsoft\n\nMicrosoft offers granted or discounted licenses on products to eligible nonprofits.\n\n- Granted licenses available for paid employees and unpaid executive staff\n- Discounted licenses available for all staff, including volunteers and temporary staff\n- The person registering must be an employee or strategic volunteer of the nonprofit (beneficiaries, donors, and members are not eligible)\n- Eligibility criteria can be found here (https://www.microsoft.com/en-us/nonprofits/eligibility?activetab=pivot1%3aprimaryr4)\n- Register through this link (https://signup.nonprofit.microsoft.com/en-us)\n- Processing and review takes approximately 7 days\n\n## Dropbox\n\nNonprofits can receive discounts on Dropbox team account subscriptions.\n\n- Contact your Dropbox team admin to learn more about nonprofit pricing\n- More information available here (https://help.dropbox.com/billing/discounts)\n\n## Coda\n\nNonprofits can receive a 50% discount on Coda plans.\n\n- Eligibility criteria can be found here (https://help.coda.io/en/articles/3517611-students-teachers-and-nonprofits#h_c016f343e2)\n- Application form can be found here (https://coda.io/form/Coda-for-Nonprofits_dCEOOosYELh)\n\n## ClickUp\n\nClickUp offers nonprofit discounts on their plans.\n\n- Claim your nonprofit discount here (https://clickup.com/teams/non-profit)\n- Alternatively, email help@clickup.com to discuss customized pricing for your nonprofit\n\n## Zapier\n\nNonprofits can receive a 15% discount on a single Zapier plan.\n\n- Application form can be found here (https://zapier.typeform.com/to/nr8baR?typeform-source=www.google.com)\n- More information available here (https://zapier.com/non-profits)\n\n## Xero\n\nNonprofits can receive a 25% discount on Xero accounting software.\n\n- Check out the different plans and pricing here (https://www.xero.com/pricing-plans/)\n- Sign up for a free 30-day trial here (https://www.xero.com/ph/signup/)\n- After your trial, contact support (https://central.xero.com/s/contact-support) to inquire about the nonprofit discount\n- You will need to submit documentation to validate your nonprofit status\n\n## Discount Retailers and Donation Programs\n\nThere are organizations and tech nonprofits that offer discounted or donated software. Ensure they are authorized nonprofit software resellers before engaging with any you find online.\n\nHere are some verified nonprofits that resell tech and software you can contact:\n\n### TechSoup\n\nTechSoup provides software solutions and hardware to nonprofits, including discounted or donated licenses to Microsoft, Adobe, Symantec, and Intuit.\n\n- Sign up for free here (https://www.techsoup.org/joining-techsoup/registration)\n- During registration, you can upload documents proving your nonprofit status with the IRS\n- Check your eligibility for software donation programs here (https://www.techsoup.org/EligibilityQuiz)\n\n### Percent\n\nPercent (formerly known as Goodstack) helps nonprofits access technology discounts and verify nonprofit status for various platforms.\n\n- Sign up for free at Percent (https://poweredbypercent.com/)\n- Provides verification services for platforms like Google Workspace and others\n- Connects nonprofits to additional technology discounts from major brands\n\n### Genesis Technologies\n\nGenesis Technologies (https://www.genesis-technologies.com/non-profit.html) provides technology solutions for nonprofits (including churches), educational, and government institutions as a marketplace.\n\n- Find their product catalog here (https://www.genesis-technologies.com/products/nonprofit.html)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "295f5d8e-462e-4e36-bf4a-55ce0d4c635d",
+      "slug": "pass-through-taxation",
+      "title": "Pass-through Taxation",
+      "url": "https://resourceportal.antientropy.org/docs/pass-through-taxation",
+      "description": "A reference explaining pass-through taxation structures where business income is taxed at individual rates rather than corporate rates",
+      "keywords": [
+        "business income taxation",
+        "corporate income tax avoidance",
+        "personal income tax return",
+        "sole proprietorship",
+        "Taxation"
+      ],
+      "tags": [
+        "Taxation"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-13T21:33:54.949Z",
+      "modifiedAt": "2022-07-13T21:33:54.949Z",
+      "firstPublishedDate": "2022-07-13T21:33:54.988Z",
+      "lastPublishedDate": "2022-07-13T21:33:54.988Z",
+      "contentText": "Pass-through taxation refers to when a business's taxes are not subject to corporate income tax.\n\n-\n\nA Sole Proprietorship (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) has \"pass-through taxation\" because the owner is not separate from their business.\n\n-\n\nBusiness income is reflected on the owner's personal income tax return and taxed at individual income tax rates.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "879b7eee-ab68-4720-bd2a-b68a785067f3",
+      "slug": "pay-as-you-earn-paye",
+      "title": "Pay As You Earn (PAYE)",
+      "url": "https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye",
+      "description": "A reference explaining the PAYE system for collecting income tax and national insurance from employment in the UK for employers and employees",
+      "keywords": [
+        "employer PAYE registration",
+        "HMRC income tax collection",
+        "National Insurance",
+        "payment frequency requirements",
+        "payroll deductions"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "Governance and Compliance",
+        "UK Nonprofits and Charities",
+        "UK Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-25T20:20:15.192Z",
+      "modifiedAt": "2022-07-25T20:20:15.192Z",
+      "firstPublishedDate": "2022-07-25T20:20:15.22Z",
+      "lastPublishedDate": "2022-07-25T20:20:15.22Z",
+      "contentText": "The Pay As You Earn (PAYE (https://www.gov.uk/paye-for-employers)) system is the HM Revenue and Customs (HMRC) way of collecting income tax and national insurance from employment. You would have to manage PAYE as part of your payroll as an employer.\n\n## For the Employer\n\nCompanies don’t need to register for PAYE if:\n\n- employees are paid less than £123 per week;\n- employees do not get expenses and benefits; or\n- employees have another job or get a pension.\n- You must register an employee with Payee (https://www.gov.uk/register-employer) before the first payday. Getting your employer PAYE reference number can take up to 5 working days. You cannot register more than two months before you start paying people.\n\n*You still need to keep payroll records even if you don’t register for PAYE.*\n\n#### When paying payroll, make deductions for PAYE:\n\n- Deduct tax and National Insurance\n- Report payments and deductions to HMRC\n\n#### When paying HMRC:\n\n- If you run payroll yourself, you will need to report your employees’ payments and deductions to HMRC on or before each payday.\n- You have to pay HMRC every month unless you expect to pay less than £1,500 a month; you can arrange to pay quarterly.\n\n## For the Employee\n\n- Income tax is deducted from your salary or pension before you receive it.\n- Most employees pay income tax in this way. Rather than making a payment to HMRC, the correct amount is deducted from your salary before you are paid and sent to HMRC by your employer.",
       "alternateSlugs": []
     },
     {
@@ -4007,108 +4233,6 @@
       "firstPublishedDate": "2023-02-15T12:57:16.851Z",
       "lastPublishedDate": "2023-02-23T15:10:04.858Z",
       "contentText": "### Who is this article for?\n\nAny Swiss organization dealing with privacy data from the EU or EEA, but not operating in the EEA or EU.\n\nWhile Switzerland is not part of the EU or the EEA, it is a member of the European Free trade Area and has received an Adequacy Decision from the EU on its data protection regulations. Switzerland adopted a policy analogous to the GDPR, the Federal Act on Data Protection (FADP). Swiss companies only have to obey the GDPR if operating in the EEA or EU.\n\nThe original FADP was enacted in 1993, and the revised version will be enacted on September 1, 2023. You can find the full regulatory text here (https://www.admin.ch/opc/en/classified-compilation/19920153/index.html).\n\n**The FDPA is similar to the EU GDPR with some conceptual differences.**\n\n- Data operations don't require a defined legal basis. However, explicit consent of the data subject is required for high-risk profiling and processing of particularly sensitive personal data.\n- Appointing a Data Protection Officer (DPO) is not obligatory for private companies.\n- Punishments for data breaches are given to individuals responsible for failing to ensure adequate data protection. Whereas, in the EU GDPR, fines are imposed on companies.\n\n**The Revised FDAP will reflect the following changes:**\n\n- Information on legal persons or legal entities is no longer protected.\n- The revised version will apply to both manual and electronic records.\n- The concept of automated processing of personal data (profiling) is included in the law.\n- The scope of what is considered sensitive personal data is broader:\n - Racial origin\n - Trade union membership\n - Health data, but only to the extent it reveals the handicap or illness of the data subject\n - Religious, ideological, or political activities (not only related beliefs)\n - The intimate sphere as such (not only sex life)\n - Genetic data\n - Biometric data allowing the unique identification of a person\n - Social security measures\n - Administrative or criminal proceedings and sanction\n- Increase in fundamental rights of data subjects\n - Right of access\n - Right to know the purpose of the processing\n - Right to deletion\n - Right to data portability\n - Right to intervene when automated decision-making impacts data subjects\n- Individuals who intentionally breach the rules face sanctions of CHF 250,000.\n- When a data breach occurs, there is a need to report directly to the Swiss Federal Data Protection and Information Commissioner (DPIC).\n - During high-risk data breaches\n - If there is any increased risk to the personality or fundamental rights of the affected individuals.\n- Mandatory data protection impact assessment for data controllers and data processors when conducting high-risk data processing activities\n\nYou can check out this link (https://swissprivacy.law/55/) for a comparison table of the Swiss FDAP with the EU GDPR.\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.\n\nAn adequacy decision is used by the European Commission to determine whether a third country (non-EU and non-EEA) offers a comparable level of protection of personal data to that of the EU GDPR. Countries with adequacy decisions will be able to receive data from the EU and EEA freely, without additional safeguards than necessary. This means that personal data can flow from the EU and EEA to these countries.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "380c16b4-7834-412d-9ec6-7c72ca17b2ef",
-      "slug": "travel-policy-us-1",
-      "title": "Travel and Entertainment Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/travel-policy-us-1",
-      "description": "A template travel and entertainment policy for US organizations to establish employee approval, booking, and expense guidelines for business travel.",
-      "keywords": [
-        "business travel authorization",
-        "employee expense approval",
-        "expense reimbursement",
-        "policy customization",
-        "transportation modes"
-      ],
-      "tags": [],
-      "categoryPath": [
-        "Building And Running An Organization",
-        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
-        "US Specific"
-      ],
-      "readingTime": 1,
-      "createdAt": "2025-10-10T18:47:09.777Z",
-      "modifiedAt": "2025-10-10T18:47:09.777Z",
-      "firstPublishedDate": "2022-10-26T12:11:11.305Z",
-      "lastPublishedDate": "2025-10-10T18:47:09.777Z",
-      "contentText": "## About This Policy\n\nA general travel policy directs how employees should obtain approval, book, and expense travel or entertainment for business purposes.\n\n## Who Needs This Policy\n\nAny organization with employees that travel at the company's expense. Travel policies aid in reducing expenses and cutting business costs by providing clear guidelines.\n\nThis policy is very lengthy and covers a diversity of travel situations and modes of transportation. Most organizations do not need every section listed within this policy. It advised you add or delete sections based on your organization's needs.\n\n## The Policy\n\nTravel and Entertainment Policy (GoogleDocs) (https://docs.google.com/document/d/1hjjUabbqOWTsjqVrdaEu3SF_fOFHwOYKvc1jz1FuwCU/edit?usp=sharing)\n\n**Legal Review: 08/2022 (https://resourceportal.antientropy.org/docs/legal-review)**",
-      "alternateSlugs": [
-        "travel-policy-us"
-      ],
-      "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/travel-policy-us"
-      ]
-    },
-    {
-      "id": "ee47e3df-eaf1-4878-9ffd-55ab1c4f0bbe",
-      "slug": "types-of-independent-contractors-and-self-employment-in-germany-1",
-      "title": "Types of Independent Contractors and Self-Employment in Germany",
-      "url": "https://resourceportal.antientropy.org/docs/types-of-independent-contractors-and-self-employment-in-germany-1",
-      "description": "A reference guide explaining four types of self-employed business structures in Germany and registration requirements for each",
-      "keywords": [
-        "Einzelunternehmen sole proprietorship",
-        "Fragebogen zur steuerlichen Erfassung tax questionnaire",
-        "Freiberufler liberal professional",
-        "germany",
-        "Gewerbetreibende business people",
-        "Kleinunternehmer small business",
-        "Taxes"
-      ],
-      "tags": [
-        "germany",
-        "Taxes"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "Independent Contractors",
-        "German Contractors"
-      ],
-      "readingTime": 4,
-      "createdAt": "2023-05-26T16:24:38.545Z",
-      "modifiedAt": "2023-05-26T16:24:38.545Z",
-      "firstPublishedDate": "2022-08-15T16:09:41.698Z",
-      "lastPublishedDate": "2023-05-26T16:24:38.551Z",
-      "contentText": "In Germany, independent contractors are considered self-employed.\n They are classified into the following types of business structures:\n\n- Einzelunternehmen - Sole proprietorship\n- Freiberufler - Freelancer, Liberal professional\n- Gewerbetreibende - Business people, tradespeople\n- Kleinunternehmer - Small business\n\n### Sole proprietorship (Einzelunternehmen)\n\nThis is the simplest organizational structure of a business person or a freelancer who opens their own business but does not incorporate it. Decisions are made solely by the sole proprietor, who owns 100% of the business.\n\n- Sole proprietors are fully liable for their assets, including private assets.\n- Registration to the Companies Register is optional.\n\nSteps to register will depend on whether the business will be run by a business person or a freelancer (liberal professional) (https://resourceportal.antientropy.org/docs/types-of-independent-contractors-and-self-employment-in-germany#how-to-register-as-a-liberal-professional). See below for further definitions and how to register.\n\n### Members of liberal professions (Freiberufler)\n\n- Freelance professionals selling their services\n- Healthcare, legal, tax and business advisory, scientific/technical, linguistic, and information-transmitting professions.\n- The most common include:\n - Lawyers, tax advisors, accountants\n - Engineers and architects\n - Doctors, dentists, vets, psychologists\n - Journalists, translators, writers, teachers\n - Artists, photographers, musicians, designers, actors\n\nIf you’re not sure if your profession falls under liberal professions, you need to contact the Institute on Liberal Professions (Institut für Freie Berufe) (https://ifb.uni-erlangen.de/en/) or the Tax Office (Finanzamt). The Tax Office ultimately decides whether your business is a liberal profession.\n\nThe activity is what matters and not the qualification. For instance, if you're a lawyer that runs a temping agency, you won't be considered a liberal professional because of your business. Again, confirming and consulting with the Tax Office before registering is best.\n\n#### How to Register as a Liberal Professional:\n\nAs liberal professionals, there is no need to register in the German Trade Register or get a trade license or permit. You also don’t need to register your business.\n\n- Apply for a tax number at the Tax Office by filling out the Fragebogen zur steuerlichen Erfassung Questionnaire.\n Note: Most of these questionnaires are in German. If you are a foreign independent contractor looking to work in Germany, you may need assistance filling it out.\n - Online at: https://www.elster.de/eportal/start (https://www.google.com/url?q=https://www.elster.de/eportal/start&sa=D&source=docs&ust=1659381220145428&usg=AOvVaw26w6M65_jy5tR-s7rii19k). The fee is €15 to €31\n - You can also use software like Sorted (https://en.getsorted.de/become-self-employed) or LexOffice (https://www.lexoffice.de/).\n - Hire a tax adviser, however, it can be expensive. You can refer to these databases to look for tax advisors in Germany.\n - http://www.datev.de/kasus/Start?KammerId=5&Suffix1=Berlin&Suffix2=Berlin (http://www.datev.de/kasus/Start?KammerId=5&Suffix1=Berlin&Suffix2=Berlin)\n - https://tax-advisor.co/de (https://tax-advisor.co/de)\n\nAfter 4 to 6 weeks, you’ll receive your Tax number (Steuernummer) and VAT number.\n\n-\n\nYour bank account must support SEPA transfers (bank transfers between two banks in the EU).\n\n-\n\nChoose between contributing to statutory health insurance or private health insurance. Inform your health insurance provider that you’re self-employed.\n\n-\n\nYou may make voluntary contributions to the German pension insurance scheme.\n\n - You can check if your profession requires pension insurance here: http://www.gesetze-im-internet.de/sgb_6/__2.html (http://www.gesetze-im-internet.de/sgb_6/__2.html)\n - However, for some freelancers, you may need to be part of a professional association/chamber, which means contributions become compulsory.\n - E.g., doctors, lawyers, self-employed architects, notaries, tax consultants\n - For artists and publicists, the Künstlersozialkasse (artists’ social insurance fund) is responsible for pension insurance, and partial health and long-term care insurance\n-\n\nSubmit an EÜR (income-surplus statement) at the end of the financial year. If you earn less than €22,000 annually, you only need to file a regular income tax return (Steuererklärung).\n\n### Business people (Gewerbetreibende)\n\n- Tradespeople with a common job\n- Self-employed but not a freelancer\n- Any kind of self-employed activity that allows you to earn money (commercial trade): Traders, caterers, craftspeople\n- Business people are required to use double entry bookkeeping\n\n#### How to Register as Business people (Gewerbetreibende):\n\n-\n\nContact the Chamber of Industry and Commerce (Industrie und handelskammer) or the Chamber of Skilled Crafts (Handwerkskammer) to check if you need a permit or license to practice your trade.\n\n-\n\nRegister at your local Trade Office (Gewerbeamt)\n Requirements:\n\n - Valid ID\n - Permit or approval, depending on the activity\n - Crafts card (skilled crafts sector)\n - Trade card\n - Residence permit\n - €10 to €40 registration fee\n - Police clearance certificate from the Central Commercial Register\n - The Trade Office will inform the Tax Office, accident insurance fund, and the local court of your registration.\n-\n\nPay trade tax quarterly to your municipality if your profit is more than €24,500 per year. Once a year, you can issue a trade tax return to the Tax Office.\n\n### Small business owner (Kleinunternehmer)\n\n- A freelancer or a tradesperson with low revenue\n- Revenue of less than €22,000 in the first year and less than €50,000 in the following years\n - They don’t need to charge VAT\n - They need to get a trade license and pay a trade tax\n\n### Taxes\n\nRegardless of your type of entity or business, anyone who sells goods or services needs to bill VAT to clients/customers and state this separately in invoices. As of 2022:\n\n- 19% standard rate; 7% reduced rate for professions in the arts and media\n- You are not required to pay VAT if:\n - If your turnover (Umsatz), including payable tax, does not exceed €17,500 in the previous calendar year.\n - If your turnover (Umsatz), including payable tax, is not expected to exceed €50,000.\n- **Income tax (Einkommensteuer)**- During your first year, the Tax Office will estimate the profit and the quarterly advance payments you need to make.\n\nSee our article on types of limited liability companies (GmbH and UG) (https://resourceportal.antientropy.org/docs/gmbh-and-ug-companies-germany) and how to register if looking to form a limited liability company.",
-      "alternateSlugs": [
-        "types-of-independent-contractors-and-self-employment-in-germany"
-      ],
-      "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/types-of-independent-contractors-and-self-employment-in-germany"
-      ]
-    },
-    {
-      "id": "8dd71772-33c1-477d-82ba-58ada16ab3a4",
-      "slug": "uk-charity-conflict-of-interest",
-      "title": "UK Charity - Conflict of Interest",
-      "url": "https://resourceportal.antientropy.org/docs/uk-charity-conflict-of-interest",
-      "description": "A guide explaining conflict of interest requirements, types, and management practices for UK and Irish charity trustees",
-      "keywords": [
-        "CC29 guidance",
-        "Conflict of Interest",
-        "conflict of interest policy",
-        "conflict of loyalties",
-        "conflicts of interest",
-        "financial benefit",
-        "trustee register",
-        "uk charity"
-      ],
-      "tags": [
-        "Conflict of Interest",
-        "conflicts of interest",
-        "uk charity"
-      ],
-      "categoryPath": [
-        "Governance and Compliance",
-        "UK Nonprofits and Charities"
-      ],
-      "readingTime": 5,
-      "createdAt": "2023-03-09T13:25:20.273Z",
-      "modifiedAt": "2023-03-09T13:25:20.273Z",
-      "firstPublishedDate": "2023-03-09T13:25:20.279Z",
-      "lastPublishedDate": "2023-03-09T13:25:20.279Z",
-      "contentText": "### Who is this article for?\n\nThis guide is for all registered and unregistered charities based in the UK and Ireland. Any UK charity with various lines of authority and decision-making power (like a board or trustees) to ensure the organization's best interests are transparent and always upheld.\n\n### This Article Covers:\n\n- Conflict of Interest and Requirements\n- Type of Conflicts\n- Consequences and Risk\n- Best Practices\n\n### Conflict of Interest\n\nFor nonprofits and charities, one of the most important policies that must be adopted and implemented is a conflict of interest policy (https://resourceportal.antientropy.org/docs/conflict-of-interest-policy) for board members, trustees, and personnel. A conflict of interest occurs when a trustee or individual associated with the organization's obligation to further its charitable purpose is at odds with their own personal or financial interest, influencing and altering their judgment of the organization. A conflict exists even when there is only a possibility or perception of a potential financial or measurable benefit towards a trustee, or a conflict of loyalty. This can also be extended to people connected to the trustee involved, including family, relatives, or business partners.\n\nIf conflicts are not managed, they may result in significant penalties and intermediate sanctions against the person involved and the organization itself. Mismanaged interest and lack of policy create an environment of mistrust, eventually leading to a culture of disengagement and suspicion. Additionally, you risk and damage the reputation, credibility, and standing of the nonprofit and all the members connected to it, not just the person involved in the conflict.\n\n### UK Conflict of Interest Requirements\n\nAll trustees have a legal duty to act only in the best interests of their charity. The Charity Commission expects them to follow the CC29 guidance (https://www.gov.uk/government/publications/conflicts-of-interest-a-guide-for-charity-trustees-cc29), especially when taking action in this regard. One thing to note is that a conflict of interest does not reflect on the integrity of the affected trustee for as long as it is properly addressed in the charity.\n\nCC29, Conflicts of interest (https://www.gov.uk/government/publications/conflicts-of-interest-a-guide-for-charity-trustees-cc29): a guide for charity trustees that details the responsibilities of trustees when it comes to dealing with conflicts of interest.\n\n**Charities must have the following measures in place and detail out steps in their governing documents:**\n\n- Identifying conflicts of interest\n- Take reasonable steps to assess and manage any risks.\n- Preventing conflicts of interest from affecting decision making\n- Develop, review, and fully implement the charity’s conflict of interest policy. The governing document must contain processes on what the trustees must do during decision-making, in the context of an existing conflict of interest.\n- Recording the conflict of interest\n- Make a full record of the issue and how it was handled.\n\n### Type of Conflicts\n\nConflicts of interest must be assessed from a risk leadership perspective, determining the type of culture and acceptable risk by those expected to set the tone and lead the organization. In the US, the law primarily focuses on financial and personal benefits, but the types of conflict can go beyond those. In the UK and Europe, they take a broader interest-based perspective, and their regulations include the appearance of a conflict of interest.\n\nConflicts of interest must be considered even before appointing a trustee and identified as soon as possible. It’s also a trustee’s duty to declare conflicts of interest. The conflict of interest must also be considered, so any potential effect on decision-making is eliminated beforehand. Proper authority and processes must be in place before any decision to confer trustee benefits.\n\nSome of the most common types of conflicts are listed below.\n\n**Financial Benefit**\n\n- This is the typical conflict of interest wherein a person gains financial benefit through connections.\n- Examples of Financial Benefits:\n - A trustee owns a business and influences the board to purchase goods or services from their business for a higher profit.\n - A trustee accepts a favor or gift (above the organization’s limit) from a donor in exchange for a personal benefit.\n\n**Conflict of Loyalties**\n\n- This is described as a trustee that has difficulty fulfilling the duty of loyalty, one of the main legal obligations of a trustee's service to it's charity.\n- Trustees must act in the organization's best interest at all times.\n- This is difficult to manage and set restraints on; however, having a disclosure and exclusion policy within your conflicts of interest policy will significantly help.\n- Examples of Conflicts of Loyalty:\n - A trustee that serves on two different nonprofit boards or is a government representative while acting as a nonprofit board member.\n - A trustee with relatives who are volunteers or hold positions in the nonprofit.\n - A trustee who is also a beneficiary.\n - The executive director or leadership hires an unqualified family member.\n - A trustee or employee uses a donor list to solicit donors for another organization.\n\nThe UK Government has provided additional examples (https://www.gov.uk/government/publications/examples-of-personal-benefit/examples-of-personal-benefit) of what may constitute a personal benefit.\n\n### Consequences and Risk\n\nThere are various consequences when the charity fails to act accordingly when there is a conflict of interest:\n\n- Breach of the trustees’ legal responsibilities\n- Any relevant transactions may become invalid or void\n- Reputational damage, which could affect current and future funding\n\nThe Charity Commission follows a risk framework (https://www.gov.uk/government/publications/risk-framework-charity-commission) on when it will intervene, based on the nature and level of the risk posed to the charity by the conflict of interest. They will also intervene if concerns surrounding a trustee’s misconduct or mismanagement are related to the issue.\n\n### Best Practices\n\n- Have a written conflict of interest policy and ensure all trustees know and understand the content.\n- Have a written register of interests for your trustees.\n- Have systems in place to identify and deal with conflicts of interest.\n - Be prepared to address any issues appropriately.\n - Keep a written record of your board's process and the decision made.\n- Include declaring any actual or potential conflict of interest as part of the agenda during a trustee meeting.\n- Disclose any payments or benefits received by trustees in annual accounts.\n - If you prepare accounts on an accrual basis, you must include details of payments and other benefits to charity trustees and their connected persons.\n- Charity operations must be transparent, so ensure everything is recorded in writing. Always err on the side of openness.\n- Consider removing the trustee if it’s a severe conflict of interest.\n - There should be a documented process to facilitate a trustee's removal.\n- Don’t treat all conflicts of interest the same in every situation. Always look at the context, nature, or source of the conflict.\n- Implement additional policies and processes within the organization to create clear parameters to prevent conflicts.\n - For example, funding, decision making, contracts, pay, gift giving, donations, procuring of goods\n - See our Handbook Policy (https://resourceportal.antientropy.org/docs/handbook-policies) section for more policy examples and templates\n\n**The UK Government has also provided a checklist (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/591552/Checklist_for_trustees.pdf) that trustees can use when dealing with a conflict of interest.**\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
       "alternateSlugs": []
     },
     {
