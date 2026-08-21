@@ -157,7 +157,7 @@ Let ORIGIN be the origin of this page. Use these endpoints to retrieve current R
 - Browse the searchable catalog: `{ORIGIN}/catalog`
 - Read these hosted instructions as Markdown: `{ORIGIN}/llm`
 
-The `/query` endpoint returns a plain-text response intended for AI agents. Each result includes the full article text, canonical Resource Portal URL, description, keywords, and category path. The local index currently contains 148 public Resource Portal articles.
+The `/query` endpoint returns a plain-text response intended for AI agents. Each result includes the full article text, canonical Resource Portal URL, description, keywords, and category path. The local index currently contains 155 public Resource Portal articles.
 
 Search workflow:
 
