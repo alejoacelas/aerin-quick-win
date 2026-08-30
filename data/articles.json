@@ -1,16 +1,16 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-08-29T13:50:49+00:00",
-  "articleCount": 151,
-  "failedCount": 15,
+  "generatedAt": "2026-08-30T13:48:48+00:00",
+  "articleCount": 149,
+  "failedCount": 18,
   "failures": {
     "nonprofit-discounts": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-discounts: HTTP Error 429: Too Many Requests",
     "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
     "pass-through-taxation": "Failed to fetch https://resourceportal.antientropy.org/docs/pass-through-taxation: HTTP Error 429: Too Many Requests",
     "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
-    "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
     "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
     "political-impartiality": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality: HTTP Error 429: Too Many Requests",
+    "policy-template-2": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-template-2: HTTP Error 429: Too Many Requests",
     "political-impartiality-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/political-impartiality-policy: HTTP Error 429: Too Many Requests",
     "private-limited-companies-plcs": "Failed to fetch https://resourceportal.antientropy.org/docs/private-limited-companies-plcs: HTTP Error 429: Too Many Requests",
     "receipt-of-payment-template": "Failed to fetch https://resourceportal.antientropy.org/docs/receipt-of-payment-template: HTTP Error 429: Too Many Requests",
@@ -18,7 +18,10 @@
     "receiving-grant-funds-1": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds-1: HTTP Error 429: Too Many Requests",
     "remote-work-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy: HTTP Error 429: Too Many Requests",
     "remote-work-policy-us": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy-us: HTTP Error 429: Too Many Requests",
-    "washingtondc-nonprofit-charity-and-legal-entity-setup-1": "Failed to fetch https://resourceportal.antientropy.org/docs/washingtondc-nonprofit-charity-and-legal-entity-setup-1: HTTP Error 429: Too Many Requests"
+    "sending-payments-in-to-uganda": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda: HTTP Error 429: Too Many Requests",
+    "sending-payments-to-nigeria": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria: HTTP Error 429: Too Many Requests",
+    "sparkwell-kickoff-meeting-agenda": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-kickoff-meeting-agenda: HTTP Error 429: Too Many Requests",
+    "travel-policy-us-1": "Failed to fetch https://resourceportal.antientropy.org/docs/travel-policy-us-1: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -2706,48 +2709,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "95096821-8bd6-42e7-ad80-461b8c80a423",
-      "slug": "sending-payments-in-to-uganda",
-      "title": "Sending Payments in/to Uganda",
-      "url": "https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda",
-      "description": "",
-      "keywords": [],
-      "tags": [],
-      "categoryPath": [
-        "SparkWell Resources",
-        "SparkWell Tools, Templates, and Forms",
-        "Country Specific SparkWell Learnings"
-      ],
-      "readingTime": 3,
-      "createdAt": "2026-05-20T15:59:10.544Z",
-      "modifiedAt": "2026-05-20T15:59:10.544Z",
-      "firstPublishedDate": "2026-05-20T15:59:10.544Z",
-      "lastPublishedDate": "2026-05-20T15:59:10.544Z",
-      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this article\n\nIn Uganda, mobile money is the default payment method for local staff, contractors, and vendors. Many recipients hold no bank account and rely entirely on a mobile wallet. Sending directly from a US nonprofit account to a Ugandan mobile money wallet is harder than it sounds, and the workable options add time, fees, or compliance overhead.\n\nImportant disclaimer\n\nThis article was created in May 2026 and will likely be partially out of date as things change. It provides general operational guidance and is not legal, tax, or financial advice. Ugandan banking, telecom, and remittance rules change frequently. Confirm current requirements with the receiving institution and a qualified professional before relying on this information.\n\n## How money moves in Uganda\n\n- Mobile money is the **main payment system** in Uganda for everyday business. About 61% of inbound remittances settle through MTN MoMo, Airtel Money, or another wallet, and many local payees have no bank account at all.\n- Consumer remittance apps deliver to Ugandan mobile money but are **built for personal transfers**. Sending from a US nonprofit's business account is often restricted, blocked, or subject to manual review.\n- A few providers (for example, Remitly) market a business product that lists Ugandan mobile money as a delivery option. Confirm in writing that your 501(c)(3) account is eligible before relying on it.\n- Wise does not support payments to or from UGX business accounts. SWIFT wires settle to a bank, not a wallet.\n\n## Interim disbursement through a local agent\n\nUntil a project has its own Ugandan bank account, a common bridge is to wire USD to a trusted local staff member, who converts to UGX and forwards funds into the project's mobile money wallet for disbursement. **This is workable *only* with formal controls**, because that person is acting as a paid disbursement agent of the US sponsor.\n\n#### Required guardrails:\n\n- **Written agreement.** Engage the person as a contractor or disbursement agent with a scope of work naming the pass-through role and reporting duties. Keep a current W-8BEN on file.\n- **Avoid co-mingling.** Use a dedicated account, or clearly identified sub-account, for project funds only. The funds are not personal income.\n- **Receipts at every step.** Retain the wire receipt, conversion confirmation, mobile money send receipts, and recipient acknowledgments. Reconcile monthly.\n- Prompt onward transfer. Funds should not sit longer than operationally necessary.\n- **Bank disclosure.** If asked, the local agent shows the engagement agreement and explains the project context.\n\n*Weak controls invite AML scrutiny, account freezes, tax exposure for the local agent, and audit findings on the sponsor side.* Treat this as an interim and move to a local entity account as soon as feasible.\n\n## What to do on the sending side\n\n- Match the recipient's legal name exactly to what the receiving bank or wallet has on file.\n- Send in USD only if the destination confirms USD acceptance; otherwise, convert to UGX at the sender.\n- Document purpose clearly in the wire memo and on the supporting invoice.\n- Build in extra time, and note that Uganda imposes a 0.5% excise tax on mobile money withdrawals.\n\n## Setting up a Ugandan account (longer term)\n\nA project that wants its own Ugandan bank account, and eventually a business mobile money wallet, must first incorporate with the Uganda Registration Services Bureau (URSB), then obtain a Permit of Operation from the National Bureau for NGOs. Plan on six to nine months end-to-end.\n\nHeads up on evolving Ugandan regulations\n\nThe Protection of Sovereignty Bill, 2026, passed Parliament on May 5, 2026, and is awaiting Presidential assent. If enacted in its current form, banks would need a ministerial funding declaration before releasing funds to any local entity classified as an \"agent of a foreigner,\" a category that captures most Ugandan NGOs receiving international grants. Monitor this Bill closely and confirm current requirements with the recipient's bank before initiating large or recurring transfers.",
-      "alternateSlugs": []
-    },
-    {
-      "id": "930ef1e1-f776-4428-ac98-eb848a9bc936",
-      "slug": "sending-payments-to-nigeria",
-      "title": "Sending Payments To Nigeria",
-      "url": "https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria",
-      "description": "",
-      "keywords": [],
-      "tags": [],
-      "categoryPath": [
-        "SparkWell Resources",
-        "SparkWell Tools, Templates, and Forms",
-        "Country Specific SparkWell Learnings"
-      ],
-      "readingTime": 3,
-      "createdAt": "2026-05-05T14:03:55.213Z",
-      "modifiedAt": "2026-05-05T14:03:55.213Z",
-      "firstPublishedDate": "2026-05-04T20:17:43.195Z",
-      "lastPublishedDate": "2026-05-05T14:03:55.213Z",
-      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this article\n\nPayments to Nigerian vendors and partners often take longer than other international transfers. Stricter compliance scrutiny on the receiving side, especially for transfers above $10,000, results in delays of several weeks. Preparing the right documentation upfront is the most effective way to keep payments moving.\n\nImportant disclaimer\n\nThis article was **created in May 2026** and will likely be partially out of date as things change. This article provides general operational guidance and is not legal, tax, or financial advice. Nigerian banking, foreign exchange, and anti-money laundering regulations change frequently. Confirm current requirements with the receiving bank and a qualified professional before relying on this information.\n\n## What to expect\n\n- Processing times of two to five weeks are not unusual for the first payment, particularly for transfers above $10,000.\n- Holds typically occur at the receiving Nigerian bank, not the sending bank. Once funds leave Mercury, downstream visibility is limited.\n- The receiving bank may request additional compliance documentation mid-transfer before releasing funds.\n- Bank-to-bank communication with Nigerian banks is often slow. Having the local recipient call the receiving bank's customer care line is usually faster than email.\n- Delays carry exchange rate risk, not just timing risk. If settlement happens in NGN at the rate on the release date, rather than the send date, naira volatility during the hold can meaningfully reduce the value the recipient receives.\n\n## What the recipient should prepare in advance\n\nAsk the local recipient to gather these before the transfer is initiated:\n\n- Invoice addressed to the sending organization, matching the payment amount and purpose.\n- MOU or partnership agreement documenting the relationship between sender and recipient.\n- Proof of engagement such as project documentation, scope of work, or prior correspondence.\n- SCUML certificate. Special Control Unit Against Money Laundering registration, issued by the EFCC. Required for Nigerian nonprofits and many other Designated Non-Financial Businesses to maintain bank accounts and clear international transfers. Registration is free.\n- Vendor legitimacy documents such as CAC registration, tax ID, and board resolution, where applicable.\n\n**Have the recipient notify their bank in advance that funds are inbound and share the invoice. Some banks will pre-position the file, which speeds clearance.**\n\n## What to do on the sending side\n\n- Match names exactly. Use the recipient organization's legal name ***exactly* as it appears on their bank account and SCUML/CAC documents**. Any discrepancy, even slight differences, can trigger a hold.\n- Confirm USD acceptance. Nigerian rules on USD versus NGN settlement are evolving. **Ask the recipient to confirm with their bank before initiating**.\n- Document purpose clearly in the wire memo and on the supporting invoice.\n- Build in extra time. Avoid scheduling time-sensitive disbursements (payroll, supply purchases) on a tight Nigerian payment timeline.\n\n## If a payment gets stuck\n\n- Ask Bookkeeping for the transaction receipts; when using Mercury Bank, we can give the Mercury receipt and the SWIFT receipt.\n- Have the local recipient **call (*not email*)** the receiving bank's customer care line and ask what additional documentation is needed.\n- Common late-stage requests include MOUs, proof of engagement, and SCUML clearance. Have these ready to send as soon as possible\n\nHeads up on evolving Nigerian regulations\n\nNigerian banking and FX rules change frequently. The Central Bank of Nigeria's March 2026 circular on diaspora remittances, effective May 1, 2026, requires International Money Transfer Operators to settle in naira through Authorized Dealer Banks. Confirm current rules with the recipient's bank before initiating large or recurring transfers.\n\n## Related external resources\n\nSCUML official portal (EFCC) (https://scuml.efcc.gov.ng/)\nVerify a SCUML certificate (https://scumlportal.efcc.gov.ng/scuml_verify.php)\nCentral Bank of Nigeria (https://www.cbn.gov.ng/)",
-      "alternateSlugs": []
-    },
-    {
       "id": "3289942f-2d23-4df6-b171-e58d278c7cd5",
       "slug": "sole-proprietor-vs-single-member-llc-usa",
       "title": "Single-Member LLC (US)",
@@ -3362,26 +3323,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "060e59ac-7794-407a-99d6-239f90faf081",
-      "slug": "sparkwell-kickoff-meeting-agenda",
-      "title": "SparkWell Kickoff Meeting Agenda",
-      "url": "https://resourceportal.antientropy.org/docs/sparkwell-kickoff-meeting-agenda",
-      "description": "",
-      "keywords": [],
-      "tags": [],
-      "categoryPath": [
-        "SparkWell Resources",
-        "SparkWell Handbook"
-      ],
-      "readingTime": 1,
-      "createdAt": "2026-05-07T14:24:45.526Z",
-      "modifiedAt": "2026-05-07T14:24:45.526Z",
-      "firstPublishedDate": "2025-12-03T14:21:13.978Z",
-      "lastPublishedDate": "2026-05-07T14:24:45.526Z",
-      "contentText": "Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. Context is specific to SparkWell. We've made these resources public because they may be helpful to others who are founding or building an organization.\n\n**Welcome to SparkWell!**\n\n- **Where to find information SparkWell Resources (https://resourceportal.antientropy.org/docs/sparkwell-resources)**\n - SparkWell & Project Responsibilities (https://resourceportal.antientropy.org/docs/sparkwell-project-responsibilities)\n - Key Information for SparkWell Contractors (https://resourceportal.antientropy.org/docs/key-information-for-sparkwell-contractors), including your first invoice\n - W-8BEN, information in Mercury\n - SparkWell Every.org Donation Platform Guide (https://resourceportal.antientropy.org/docs/sparkwell-everyorg-donation-platform-guide)\n - If you have questions, you can check this SparkWell Resources section of the Resource Portal, email your Project Liaison, or email support@antientropy.org.\n- **Finances**\n - Please send a budget to bookkeeping@antientropy.org\n - Submitting expenses, using your Mercury card and the app\n - Forwarding receipts to Mercury via email (https://support.mercury.com/hc/en-us/articles/40660002352404-Automatically-forward-receipt-emails-to-Mercury)\n - cc bookkeeping@antientropy.org on things, three of us see it\n- **Milestones (https://resourceportal.antientropy.org/docs/milestones)**\n- **Set up Monthly Meeting**\n - At least one of you, try not too miss much\n - We will cover finances, open needs, and milestones\n- **Website or social media for the AE website**\n- **Any other needs?**",
-      "alternateSlugs": []
-    },
-    {
       "id": "161f527a-9161-40c5-93df-0ebb23d1d434",
       "slug": "sparkwell-lobbying-and-advocacy-policy",
       "title": "SparkWell Lobbying and Advocacy Policy",
@@ -3865,10 +3806,10 @@
       "alternateSlugs": []
     },
     {
-      "id": "380c16b4-7834-412d-9ec6-7c72ca17b2ef",
-      "slug": "travel-policy-us-1",
+      "id": "ba90a205-1c7a-4691-b966-4da1194ce2d0",
+      "slug": "travel-policy-us",
       "title": "Travel and Entertainment Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/travel-policy-us-1",
+      "url": "https://resourceportal.antientropy.org/docs/travel-policy-us",
       "description": "A template travel and entertainment policy for US organizations to establish employee approval, booking, and expense guidelines for business travel.",
       "keywords": [
         "business travel authorization",
@@ -3881,7 +3822,7 @@
       "categoryPath": [
         "Building And Running An Organization",
         "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
-        "US Specific"
+        "All Policies"
       ],
       "readingTime": 1,
       "createdAt": "2025-10-10T18:47:09.777Z",
@@ -3889,12 +3830,7 @@
       "firstPublishedDate": "2022-10-26T12:11:11.305Z",
       "lastPublishedDate": "2025-10-10T18:47:09.777Z",
       "contentText": "## About This Policy\n\nA general travel policy directs how employees should obtain approval, book, and expense travel or entertainment for business purposes.\n\n## Who Needs This Policy\n\nAny organization with employees that travel at the company's expense. Travel policies aid in reducing expenses and cutting business costs by providing clear guidelines.\n\nThis policy is very lengthy and covers a diversity of travel situations and modes of transportation. Most organizations do not need every section listed within this policy. It advised you add or delete sections based on your organization's needs.\n\n## The Policy\n\nTravel and Entertainment Policy (GoogleDocs) (https://docs.google.com/document/d/1hjjUabbqOWTsjqVrdaEu3SF_fOFHwOYKvc1jz1FuwCU/edit?usp=sharing)\n\n**Legal Review: 08/2022 (https://resourceportal.antientropy.org/docs/legal-review)**",
-      "alternateSlugs": [
-        "travel-policy-us"
-      ],
-      "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/travel-policy-us"
-      ]
+      "alternateSlugs": []
     },
     {
       "id": "ee47e3df-eaf1-4878-9ffd-55ab1c4f0bbe",
@@ -4493,6 +4429,40 @@
       "firstPublishedDate": "2022-03-31T20:32:57.716Z",
       "lastPublishedDate": "2025-05-19T09:08:41.264Z",
       "contentText": "## About This Policy\n\nThis is a simple unlimited vacation or holiday policy. It basically says you can take as many days as you want as long as you are doing a good job and gettting your work done.\n\n## Who Needs This Policy\n\nEven though an organization has an unlimited leave policy, it is still important to have documented what would be considered abusing the policy.\n\nSponsored Worker or Visa Employees\n\nNote that if you have Visa or Sponsored Workers, even with an unlimited leave policy, for visa requirements you may still need an absence policy. And you will ***very likely*** need to track/log Sponsored Worker days off.\n\n## The Policy\n\nUnlimited PTO Policy (Generic/Simple (https://docs.google.com/document/d/18oRAUYcjYqqR64OmZImS0rQfKr3z37HG6hUyC4GAv9U/edit?usp=sharing))",
+      "alternateSlugs": []
+    },
+    {
+      "id": "d1f9c4ce-4a12-4409-b9e5-4da6f10954ba",
+      "slug": "washingtondc-nonprofit-charity-and-legal-entity-setup-1",
+      "title": "Washington D.C. Nonprofit, Charity, and Legal Entity Setup",
+      "url": "https://resourceportal.antientropy.org/docs/washingtondc-nonprofit-charity-and-legal-entity-setup-1",
+      "description": "A guide for incorporating a nonprofit in Washington D.C. and obtaining tax-exempt status and charitable solicitation licenses",
+      "keywords": [
+        "Basic Business License",
+        "Certificate of Occupancy",
+        "D.C. Department of Consumer and Regulatory Affairs",
+        "D.C. Nonprofit Corporation Act",
+        "Form DNP-1",
+        "Form FR-164",
+        "nonprofit",
+        "registered agent requirement",
+        "washington dc"
+      ],
+      "tags": [
+        "nonprofit",
+        "washington dc"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "Washington D.C. Governance and Compliance"
+      ],
+      "readingTime": 3,
+      "createdAt": "2022-10-18T12:37:34.731Z",
+      "modifiedAt": "2022-10-18T12:37:34.731Z",
+      "firstPublishedDate": "2022-10-18T12:37:34.751Z",
+      "lastPublishedDate": "2022-10-18T12:37:34.751Z",
+      "contentText": "### Who is this article for?\n\nAnyone wanting to start a nonprofit or charity in the state of Washington.\n\nNonprofits operating in Washington, D.C., are governed under the D.C. Nonprofit Corporation Act of 5. Here are the steps to starting a nonprofit or charity in this state.\n\n### Washington D.C. Nonprofit and Charity Overview\n\n- Incorporate with the D.C. Department of Consumer and Regulatory Affairs (DCRA)\n- Apply for tax-exempt status with the IRS (https://resourceportal.antientropy.org/docs/applying-for-charity-status-us)\n- Apply for tax exemptions with the D.C. Office of Tax and Revenue\n- Apply for a Basic Business license for charitable solicitations with the DCRA\n\n### Items Needed During This Process\n\n- Registered Agent (https://resourceportal.antientropy.org/docs/us-registered-agent)\n- Articles of Incorporation (https://resourceportal.antientropy.org/docs/articles-of-incorporation)\n- Board Members (https://resourceportal.antientropy.org/docs/nonprofit-board-member)\n- Bylaws (https://resourceportal.antientropy.org/docs/us-corporate-bylaws)\n\n### D.C. Department of Consumer and Regulatory Affairs (DCRA)\n\nAll nonprofit organizations must first incorporate in D.C. with the DCRA (https://dcra.dc.gov/). According to the law, you only need one incorporator to proceed, but a minimum of 3 individuals to serve as directors.\n\n**Required Documents for Filing:**\n\n- Form DNP-1 (https://dcra.dc.gov/sites/default/files/dc/sites/dcra/publication/attachments/Art_Incorp_Dom_NonProfit_Corp_DNP_1.pdf)\n- Articles of incorporation. These should have the following information:\n - Name of the corporation\n - You can search whether your nonprofit name has already been taken here (https://corponline.dcra.dc.gov/Home.aspx/Landing).\n - Whether the corporation will have members\n - Name of the initial registered agent and agent's address in D.C.\n - You can find a list of commercial registered agents in D.C. here (http://www.district-of-columbia-registered-agents.com/).\n- Statement that the corporation has been formed under the D.C. Nonprofit Corporation Act, Title 29, Chapter 4\n- Name and street address of each incorporator\n- Each incorporator must sign and date the articles\n- You can also include the following information in your articles of incorporation:\n - Names of initial members of the board of directors (Minimum of 3 board members)\n - Names of initial members, if any\n - Provisions required for the corporation to meet the requirements of 501(c)(3)\n - Provision for the indemnification of directors\n - Any provision related to:\n - Purposes of why the corporation was formed\n - Management of affairs of the corporation\n - Powers of the corporation and board of directors\n - Rights and limitations of members\n\n**Steps for incorporating:**\n\n- File two original copies of the required documents, signed by incorporators\n- Pay the filing fee of:\n - $80 - 15 days processing time\n - $100 - Same-day expedited service\n- Mail all forms and required payment to:\n Department of Consumer and Regulatory Affairs\n Corporations Division\n PO Box 92300\n Washington, DC 20090\n Phone: (202) 442-4400\n\nBylaws are not filed with DCRA, but it’s best to have them drafted. You can find a sample of bylaws here (https://resourceportal.antientropy.org/docs/us-corporate-bylaws).\n\n### D.C. Office of Tax and Revenue\n\nUnder certain circumstances, organizations can request exemption from local income and franchise taxes, sales and use taxes, and personal property taxes from the state. It’s best to file promptly after receiving the IRS determination of exemption, as the D.C. exemption will be retroactive to the IRS’ effective date.\n\n**Required Documents for Filing:**\n\n- Form FR-164 (https://dmv.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/fr-164_rev12-07applicationpackage_0.pdf)\n- Form FR-500 (https://mytax.dc.gov/_/#1) (filed online)\n- Determination or ruling letter from IRS\n- Certificate of Incorporation from the D.C. Department of Consumer and Regulatory Affairs, Corporations Division\n- If not incorporated in DC, provide a photocopy of the Certificate of Authority\n- Copy of a lease, District of Columbia Occupancy Permit\n\nMail/fax the requirements to:\n Government of the District of Columbia\n Office of Tax and Revenue\n P.O. Box 556\n Washington, D.C. 220044-0556\n Fax # (202) 442-6882\n\n### Charitable Solicitations (Fundraising) Registration\n\nD.C. requires nonprofits to file for a Basic Business License (https://business.dc.gov/quick/9750) with the DCRA for charitable solicitations. Here are the steps:\n\n- Request for a Clean Hands Certificate (https://otr.cfo.dc.gov/page/certificate-clean-hands) online\n- Request for the following from the Office of the Zoning Administrator:\n - Certificate of Occupancy (https://dob.dc.gov/sites/default/files/dc/sites/dob/publication/attachments/DOB-Certificate-of-Occupancy-Application-Requirements-and-Application.pdf), if you’re operating out of an office location. File and email to doapp@dc.gov.\n - Home Occupation Permit (https://aca20.dcra.dc.gov/CitizenAccess/Login.aspx?ReturnUrl=%2fCitizenAccess%2fCap%2fCapApplyDisclaimer.aspx%3fCapType%3dBuilding%2fHome%2520Occupation%2fNA%2fNA%26Module%3dBuilding), if you’re conducting business out of a home.\n- Apply for a Basic Business License (https://mybusiness.dc.gov/login) online.\n Requirements:\n - Certificate of Occupancy or Home Occupation Permit\n - Charitable Services Business Worksheet (https://dcra.dc.gov/sites/default/files/dc/sites/dcra/service_content/attachments/Charitable%20Services%20Business%20Worksheet%20%28Fillable%29.pdf)\n - Corporate Registration\n - IRS Determination Letter\n - Tax Registration\n- Pay the corresponding fees:\n - Charitable Exempt - No Fee\n - Charitable Solicitation - $412.50",
       "alternateSlugs": []
     },
     {
