@@ -1,11 +1,9 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-10-07T15:34:04+00:00",
-  "articleCount": 167,
-  "failedCount": 1,
-  "failures": {
-    "sparkwell-kickoff-meeting-agenda": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-kickoff-meeting-agenda: HTTP Error 429: Too Many Requests"
-  },
+  "generatedAt": "2026-10-08T15:38:03+00:00",
+  "articleCount": 168,
+  "failedCount": 0,
+  "failures": {},
   "articles": [
     {
       "id": "66225c7e-200e-4de0-beda-21780bbda8bf",
@@ -541,8 +539,8 @@
       "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation-us",
       "description": "A template for drafting Articles of Incorporation required by US states to establish nonprofit charity status",
       "keywords": [
-        "Articles of Incorporation",
         "articles of incorporation",
+        "Articles of Incorporation",
         "board approval",
         "charity status application",
         "registered agent",
@@ -3468,6 +3466,26 @@
       "firstPublishedDate": "2025-10-22T21:15:37.963Z",
       "lastPublishedDate": "2025-10-22T21:15:37.963Z",
       "contentText": "# SparkWell Jury Service & Military Leave\n\n### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n## 1. About this Policy\n\n1.1. Employees may take paid leave for civic duties such as jury service, voting, and military leave. If summoned for service, let your supervisor know as soon as possible. Employees who fail to inform their supervisor in a reasonable time will not be eligible for paid leave. They will still be eligible for Unpaid Leave.\n\n1.2. The Organization does not penalize or retaliate against any employee for requesting leave in accordance with this Policy.\n\n1.3. This policy does not form part of any employee's employment contract, and we may amend it at any time.\n\n1.4. **Important Note:** Employees who are contracted under an Employer of Record (EOR), such as Deel, will need to follow the policies of the EOR provider and, where they differ, the EOR policy takes precedence.\n\n## 2. Notice Requirements Summary\n\nLeave Type | Notice Required |\nJury Service | As soon as you receive your summons |\nVoting | At least one business day in advance, if possible |\nMilitary Leave | As soon as you receive orders or training notice |\n\n## 3. Jury Service\n\n#### 3.1. Pay and Benefits\n\n3.1.1. If you're required to serve as a juror, you may receive stipends or allowances from the court. You should retain these payments. The Organization will continue to pay your salary in full during jury service.\n\n3.1.2. If you incur additional costs related to jury service (such as parking or transportation beyond standard commuting costs), you may request reimbursement by submitting receipts to your supervisor for approval.\n\n3.1.3. You are considered to be on a leave of absence during your jury duty service and entitled to continue to participate in insurance and other benefits in which you were enrolled prior to your leave, as if you were working.\n\n#### 3.2. Documentation and Notice\n\n3.2.1. You must provide your supervisor with a copy of your jury summons as soon as you receive it.\n\n3.2.2. You must submit proof of service (such as a certificate of attendance from the court) upon completion of your jury duty.\n\n#### 3.3. Work Expectations During Jury Service\n\n3.3.1. We reserve the right to ask you to request dispensation from jury service for critical business needs. Leave of absence will be granted in such cases.\n\n3.3.2. You'll be expected to return to work where this is practicable if there are adjournments or early dismissals. If you are dismissed from jury duty with sufficient time remaining in the workday (generally 3 or more hours), you should contact your supervisor to determine whether returning to work is practical and appropriate given factors such as travel time and the nature of your duties.\n\n3.3.3. You're expected to keep in touch with your supervisor during your absence on jury service and continue to show flexibility in your role, including responding to urgent queries where possible and practical.\n\n#### 3.4. Returning from Jury Service\n\n3.4.1. You must give the Organization actual notice of your intent to return to work as soon as practical after you are released from jury service.\n\n## 4. Voting\n\n#### 4.1. Entitlement\n\n4.1.1. The Organization provides paid time off for voting to any employee eligible to vote.\n\n4.1.2. You are entitled to up to two hours of paid leave to vote on election day unless your workday begins at least two hours after the opening of the polls or ends at least two hours prior to the closing of the polls.\n\n#### 4.2. Requesting Voting Leave\n\n4.2.1. To request voting leave, notify your supervisor at least one business day in advance of the election, if possible.\n\n4.2.2. If you need to take voting leave, you should discuss with your supervisor whether the beginning or end of your workday is most appropriate for your absence.\n\n## 5. Military Leave\n\n#### 5.1. Federal and State Law Compliance\n\n5.1.1. The Organization provides paid and unpaid time off for military leave, in accordance with state and federal law.\n\n5.1.2. The Organization complies with the Uniformed Services Employment and Reemployment Rights Act (USERRA) and applicable state laws regarding military leave. Employees who are members of the military reserves or National Guard are entitled to unpaid leave for military training or active duty service, with job protection and reinstatement rights as provided by federal law.\n\n#### 5.2. Paid Military Leave\n\n5.2.1. **Texas-based employees:** You shall be entitled to leaves of absence for up to 15 days with pay in any calendar year for military training, or duty ordered or authorized by proper governmental authority. Any leave beyond 15 days shall be granted by the Organization on a case-by-case basis at the Organization's discretion.\n\n5.2.2. **Employees based outside of Texas:** Military leave entitlements will be provided in accordance with applicable state law, which may provide for additional or different benefits. Please contact your supervisor for information about your state's specific military leave provisions.\n\n#### 5.3. Benefits During Military Leave\n\n5.3.1. During paid military leave, you are entitled to continue to participate in insurance and other benefits in which you were enrolled prior to your leave, as if you were working. For extended unpaid military leave, benefit continuation will be handled in accordance with USERRA requirements.\n\n#### 5.4. Notice and Documentation\n\n5.4.1. Provide your supervisor with a copy of your military orders or training notice as soon as you receive them.\n\n5.4.2. As soon as practicable after release from duty, you must give written or actual notice of intent to return to employment with the Organization to your supervisor or other designated officer of the Organization.\n\n#### 5.5. Reinstatement Rights\n\n5.5.1. Employees returning from military service have reinstatement rights as provided under USERRA and applicable state law. Please contact your supervisor to discuss your return to work and reinstatement.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "060e59ac-7794-407a-99d6-239f90faf081",
+      "slug": "sparkwell-kickoff-meeting-agenda",
+      "title": "SparkWell Kickoff Meeting Agenda",
+      "url": "https://resourceportal.antientropy.org/docs/sparkwell-kickoff-meeting-agenda",
+      "description": "",
+      "keywords": [],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Handbook"
+      ],
+      "readingTime": 1,
+      "createdAt": "2026-09-29T19:52:50.196Z",
+      "modifiedAt": "2026-09-29T19:52:50.196Z",
+      "firstPublishedDate": "2025-12-03T14:21:13.978Z",
+      "lastPublishedDate": "2026-09-29T19:52:50.196Z",
+      "contentText": "Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell fiscal sponsorship program. Context is specific to SparkWell. We've made these resources public because they may be helpful to others who are founding or building an organization.\n\n**Welcome to SparkWell!**\n\n- **Where to find information SparkWell Resources (https://resourceportal.antientropy.org/docs/sparkwell-resources)**\n - SparkWell & Project Responsibilities (https://resourceportal.antientropy.org/docs/sparkwell-project-responsibilities)\n - Key Information for SparkWell Contractors (https://resourceportal.antientropy.org/docs/key-information-for-sparkwell-contractors), including your first invoice\n - W-8BEN, information in Mercury\n - SparkWell Every.org Donation Platform Guide (https://resourceportal.antientropy.org/docs/sparkwell-everyorg-donation-platform-guide)\n - If you have questions, you can check this SparkWell Resources section of the Resource Portal, email your Program Manager, or email support@antientropy.org.\n- **Finances**\n - Please send a budget to your Program Manager\n - GrowthForce runs the bookkeeping\n - Submitting expenses, using your Mercury card and the app\n - Card has a default $2.5k per week limit\n - Let your Program Manager know if we need to temporarily or permanently increase it\n - Forwarding receipts to Mercury via email (https://support.mercury.com/hc/en-us/articles/40660002352404-Automatically-forward-receipt-emails-to-Mercury)\n - cc bookkeeping@antientropy.org on things, three of us see it\n - Expenditure Approval Process\n - Expenditure thresholds ($5k per expenditure for Project Leads, need another Project Lead if it is for you) and approval processes will be established collaboratively between SparkWell and each Project Lead based on:\n - Total project funding\n - Budget complexity\n - Stage of project development\n - Risk profile of planned activities\n- **Spin-out Checklist (https://resourceportal.antientropy.org/docs/milestones)**\n- **Set up Monthly Meeting**\n - At least one of you, try not too miss much\n - We will cover finances, open needs, and milestones\n- **Website or social media for the AE website**\n- **Any other needs?**",
       "alternateSlugs": []
     },
     {
