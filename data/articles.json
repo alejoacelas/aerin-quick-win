@@ -1,18 +1,17 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-10-11T14:55:38+00:00",
-  "articleCount": 161,
-  "failedCount": 9,
+  "generatedAt": "2026-10-12T17:56:39+00:00",
+  "articleCount": 162,
+  "failedCount": 8,
   "failures": {
-    "new-york-nonprofit-and-charity-compliance-checklist": "Failed to fetch https://resourceportal.antientropy.org/docs/new-york-nonprofit-and-charity-compliance-checklist: HTTP Error 429: Too Many Requests",
     "new-york-nonprofit-charity-and-legal-entity-setup": "Failed to fetch https://resourceportal.antientropy.org/docs/new-york-nonprofit-charity-and-legal-entity-setup: HTTP Error 429: Too Many Requests",
-    "non-disclosure-agreement-nda": "Failed to fetch https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda: HTTP Error 429: Too Many Requests",
     "new-york-nonprofit-disclosure-reports": "Failed to fetch https://resourceportal.antientropy.org/docs/new-york-nonprofit-disclosure-reports: HTTP Error 429: Too Many Requests",
-    "nonprofit-discounts": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-discounts: HTTP Error 429: Too Many Requests",
     "nonprofit-email-compliance": "Failed to fetch https://resourceportal.antientropy.org/docs/nonprofit-email-compliance: HTTP Error 429: Too Many Requests",
+    "non-disclosure-agreement-nda": "Failed to fetch https://resourceportal.antientropy.org/docs/non-disclosure-agreement-nda: HTTP Error 429: Too Many Requests",
     "pass-through-taxation": "Failed to fetch https://resourceportal.antientropy.org/docs/pass-through-taxation: HTTP Error 429: Too Many Requests",
     "pay-as-you-earn-paye": "Failed to fetch https://resourceportal.antientropy.org/docs/pay-as-you-earn-paye: HTTP Error 429: Too Many Requests",
-    "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests"
+    "policy-and-guide-template": "Failed to fetch https://resourceportal.antientropy.org/docs/policy-and-guide-template: HTTP Error 429: Too Many Requests",
+    "sparkwell-pre-enrollment-expense-reimbursement-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/sparkwell-pre-enrollment-expense-reimbursement-policy: HTTP Error 429: Too Many Requests"
   },
   "articles": [
     {
@@ -38,7 +37,7 @@
       "id": "4b3f43da-4b94-4615-9e3e-792bbd92dc81",
       "slug": "absence-policy-uk-2",
       "title": "Absence Policy (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/absence-policy-uk-2",
+      "url": "https://resourceportal.antientropy.org/docs/policy-and-guide-template",
       "description": "",
       "keywords": [
         "absence",
@@ -65,7 +64,7 @@
       "id": "c4b8720d-44ec-4b15-9d1b-cb6b5d89c303",
       "slug": "absence-policy-us",
       "title": "Absence Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/absence-policy-us",
+      "url": "https://resourceportal.antientropy.org/docs/absence-policy-uk",
       "description": "A template for US organizations to establish absence and sick leave policies compliant with federal and state requirements",
       "keywords": [
         "absence reporting procedures",
@@ -125,7 +124,7 @@
       "id": "ba94c1e9-0749-4c77-a80d-187b8b902ea2",
       "slug": "adoption-policy-uk",
       "title": "Adoption Policy (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/adoption-policy-uk",
+      "url": "https://resourceportal.antientropy.org/docs/absence-policy-uk-1",
       "description": "A template adoption policy for UK organizations establishing leave entitlements and procedures",
       "keywords": [
         "adoption leave entitlement",
@@ -222,14 +221,14 @@
         "alternatives-to-hiring-an-independent-contractor-2"
       ],
       "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/alternatives-to-hiring-an-independent-contractor-2"
+        "https://resourceportal.antientropy.org/docs/alternatives-to-hiring-an-independent-contractor"
       ]
     },
     {
       "id": "17af5be4-1cde-4c07-8152-95d9c93ef496",
       "slug": "alternatives-to-hiring-an-independent-contractor-uk",
       "title": "Alternatives to Hiring an Independent Contractor (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/alternatives-to-hiring-an-independent-contractor-uk",
+      "url": "https://resourceportal.antientropy.org/docs/alternatives-to-hiring-an-independent-contractor-1",
       "description": "A reference comparing four hiring alternatives to independent contractors in the UK, including advantages and disadvantages for each option",
       "keywords": [
         "Employer of Record",
@@ -240,8 +239,8 @@
         "PLC",
         "Private Limited Companies",
         "UK",
-        "umbrella company",
-        "Umbrella Company"
+        "Umbrella Company",
+        "umbrella company"
       ],
       "tags": [
         "EOR",
@@ -307,7 +306,7 @@
       "id": "1b8e1d0b-0a29-407b-8414-e1ff11b1cb70",
       "slug": "annual-reports-1",
       "title": "Annual Reports",
-      "url": "https://resourceportal.antientropy.org/docs/annual-reports-1",
+      "url": "https://resourceportal.antientropy.org/docs/annual-reports",
       "description": "A guide for nonprofits preparing annual reports that demonstrate organizational transparency and build donor trust",
       "keywords": [
         "annual meeting",
@@ -538,11 +537,11 @@
       "id": "0a371b17-139e-4ca8-8774-a2c0a0077185",
       "slug": "articles-of-incorporation-us",
       "title": "Articles of Incorporation (US)",
-      "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation-us",
+      "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation",
       "description": "A template for drafting Articles of Incorporation required by US states to establish nonprofit charity status",
       "keywords": [
-        "articles of incorporation",
         "Articles of Incorporation",
+        "articles of incorporation",
         "board approval",
         "charity status application",
         "registered agent",
@@ -1300,7 +1299,7 @@
       "id": "e0137d3c-085b-473a-b117-9f636a97471e",
       "slug": "employer-guidance-for-independent-contractors-germany-1",
       "title": "Employer Guidance for Independent Contractors (Germany)",
-      "url": "https://resourceportal.antientropy.org/docs/employer-guidance-for-independent-contractors-germany-1",
+      "url": "https://resourceportal.antientropy.org/docs/employer-guidance-for-independent-contractors-germany",
       "description": "A guide for German employers on hiring independent contractors, covering classification criteria, misclassification risks, and best practices",
       "keywords": [
         "Bundesarbeitsgericht criteria",
@@ -1366,7 +1365,7 @@
       "id": "f897ec87-fb14-4ff6-b7f3-db30ece4cb93",
       "slug": "employer-independent-contractor-guidance-uk-1",
       "title": "Employer Independent Contractor Guidance (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/employer-independent-contractor-guidance-uk-1",
+      "url": "https://resourceportal.antientropy.org/docs/employer-independent-contractor-guidance-uk",
       "description": "A guide for UK employers on classifying workers as independent contractors, distinguishing them from employees, and managing compliance risks.",
       "keywords": [
         "contractor vs employee",
@@ -1405,7 +1404,7 @@
       "id": "bd9140e7-5bf8-4fa9-aa7c-86a1ec7cf683",
       "slug": "equal-opportunity-employer-policy-uk-1",
       "title": "Equal Opportunity Employer Policy (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/equal-opportunity-employer-policy-uk-1",
+      "url": "https://resourceportal.antientropy.org/docs/equal-opportunity-employer-policy-uk",
       "description": "A template equal opportunity employer policy for UK organizations to comply with labor regulations",
       "keywords": [
         "discrimination prevention",
@@ -1439,7 +1438,7 @@
       "id": "54637064-4c27-4c4b-a3d5-cecc72e79644",
       "slug": "equal-opportunity-policy-us-1",
       "title": "Equal Opportunity Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/equal-opportunity-policy-us-1",
+      "url": "https://resourceportal.antientropy.org/docs/equal-opportunity-policy-us",
       "description": "A template policy establishing minimum employment equal opportunity standards to comply with US labor regulations",
       "keywords": [
         "discrimination prevention",
@@ -1505,7 +1504,7 @@
       "id": "e9b1c8a7-aa73-4213-ba57-c600bb4770a2",
       "slug": "expenses-policy-us",
       "title": "Expenses Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/expenses-policy-us",
+      "url": "https://resourceportal.antientropy.org/docs/expenses-policy",
       "description": "A template expenses policy providing employee guidance on obtaining approval and reimbursement for company expenses",
       "keywords": [
         "approval requirements",
@@ -1638,7 +1637,7 @@
       "id": "ceed87e7-ea2e-4b90-866c-26645bd92160",
       "slug": "fmla-policy-us-1",
       "title": "FMLA Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/fmla-policy-us-1",
+      "url": "https://resourceportal.antientropy.org/docs/fmla-policy-us",
       "description": "A template FMLA policy for inclusion in employee handbooks covering family and medical leave requirements for US employers",
       "keywords": [
         "50-employee threshold",
@@ -1710,7 +1709,7 @@
       "id": "128aef72-a1a3-418a-afdb-8eb95bc95af4",
       "slug": "gdpr-data-protection-policy-uk-1",
       "title": "GDPR Data Protection Policy (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk-1",
+      "url": "https://resourceportal.antientropy.org/docs/template-privacy-notice-1",
       "description": "A template GDPR data protection policy for UK-based organizations and those conducting business in the UK or EU",
       "keywords": [
         "EU compliant policy",
@@ -1743,7 +1742,7 @@
         "template-privacy-notice-1"
       ],
       "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/gdpr-data-protection-policy-uk",
+        "https://resourceportal.antientropy.org/docs/template-privacy-notice-1",
         "https://resourceportal.antientropy.org/docs/template-privacy-notice-1"
       ]
     },
@@ -1816,7 +1815,7 @@
       "id": "91b2fe5f-e152-4477-9dfc-6b9d41de8461",
       "slug": "grievance-policy-us-1",
       "title": "Grievance Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/grievance-policy-us-1",
+      "url": "https://resourceportal.antientropy.org/docs/grievance-policy-us",
       "description": "A template grievance policy enabling staff to formally raise and resolve workplace issues with management",
       "keywords": [
         "employee resolution process",
@@ -2141,7 +2140,7 @@
       "id": "5e47c829-24d1-4132-992b-92f781fc988f",
       "slug": "independent-contractor-agreement-template-us",
       "title": "Independent Contractor Agreement Template - US",
-      "url": "https://resourceportal.antientropy.org/docs/independent-contractor-agreement-template-us",
+      "url": "https://resourceportal.antientropy.org/docs/independent-contractor-contract-template",
       "description": "A template for drafting independent contractor agreements compliant with US labor laws and regulations",
       "keywords": [
         "agreement",
@@ -2317,6 +2316,71 @@
       "firstPublishedDate": "2023-03-20T09:36:12.467Z",
       "lastPublishedDate": "2023-03-20T09:36:12.467Z",
       "contentText": "### Who is this for?\n\nAny organization needing guidance on how to start monitoring and evaluating their impact.\n\nNOTE\n\nThere are too many variables within any M&E process from the organizational needs, data points, data collection methods, platforms, analysis, and dissemination to having an exact template for M&E that would work for all organizations.\n\nThis guide is a starting point for setting up an effective M&E process.\n\nThis guide is a starting point for setting up an effective M&E process.\n Monitoring and Evaluation (M&E) is a way for nonprofits and EA organizations to measure and evaluate their impact on their communities. It involves collecting and analyzing data to see how projects and programs progress toward specific goals and objectives.\n\nA practical M&E framework includes a routine, systematic collection of valid data from the programs and the application of scientific methods to assess your program's design, implementation, and improvement or outcomes.\n\nAccording to a study of 30 leading U.S. nonprofits (https://www.hbs.edu/faculty/Pages/item.aspx?num=47515), a measurement process is effective and necessary for improving organizational outcomes.\n\n### Benefits of having an M&E process\n\n- **Helps make more informed decisions**\n - Data can provide evidence that helps decide the next steps in a project.\n - Data not only aids in strategic and financial decisions but daily operational decisions as well.\n - Decisions for future impact are no longer guestimates but are backed by data\n- **Identify risks and areas for improvement**\n - Proactively address any issues to learn and adapt more quickly\n - Determine which activities and projects align with your Theory of Change/Mission/Vision.\n - Improve the project's design to be more effective.\n - Understand what works and why - which can help shape future projects or programs.\n- **Keeps accountability**\n - The M&E process helps ensure that resources are being spent efficiently\n - This transparency builds trust and confidence when communicated to your donors, communities served, and the organization's staff.\n - M&E also helps hold organizations accountable to the general public and those who support their causes/advocacies.\n\n### Checklist to Set Up an M&E Process:\n\nConsider the following when setting up your M&E process. Of course, the details will vary from organization to organization but the base framework is the same.\n\n- Theory of Change\n - This is the comprehensive description and illustration of how and why a desired change is expected to happen in a particular context.\n - This can also be your program goals and objectives, used to check the progress of the program\n- Process and outcome indicators\n - These track how successful your activities have been at achieving program objectives. How will you determine success?\n- Defined data collection methods and timeline\n - What type of data and data points will you be collecting?\n - How will you be collecting the data?\n - What’s the frequency of data collection?\n - What evaluation questions will be asked?\n - Where will the data be archived?\n- M&E roles and responsibilities\n - Who is responsible for collecting, and organizing the data?\n- Analysis and reporting plan\n - What data will be analyzed? What framework will be used to analyze the data?\n - How will the results be presented and reported?\n- Dissemination plan and donor reporting\n - To whom will the data be presented?\n - How will the data and analysis be used to inform the success and progress of the program?\n - How will the data be used to make modifications or program corrections as necessary?\n\nYou can utilize the following resources to assist in your M&E process:\n\n- Nonprofit Self-Assessment Checklist from the Standards for Excellence Institute (https://www.nonprofitadvancement.org/files/2018/05/02-Self-Assessment-Checklist-11032015-002.pdf)\n- Monitoring and Evaluation Health Check from IDinsight (https://healthcheck.idinsight.org/)\n- Impact Measurement Guide from IDinsight (https://guide.idinsight.org/guide-to-creating-a-theory-of-change/)\n- Resources from INTRAC (https://www.intrac.org/projects/the-me-universe/)\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "83bbf8f0-b462-4edf-bb38-66a95bd39511",
+      "slug": "new-york-nonprofit-and-charity-compliance-checklist",
+      "title": "New York Nonprofit Charity Compliance Checklist",
+      "url": "https://resourceportal.antientropy.org/docs/new-york-nonprofit-and-charity-compliance-checklist",
+      "description": "A checklist of annual compliance requirements for nonprofits and charities operating in New York State",
+      "keywords": [
+        "board meeting minutes",
+        "certified public accountant requirement",
+        "Compliance",
+        "Financial Disclosure Report",
+        "Form CHAR500",
+        "Form NYS-45",
+        "newyork"
+      ],
+      "tags": [
+        "Compliance",
+        "newyork"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "New York State Governance and Compliance"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-05-27T18:42:33.605Z",
+      "modifiedAt": "2022-05-27T18:42:33.605Z",
+      "firstPublishedDate": "2022-05-27T13:30:40.898Z",
+      "lastPublishedDate": "2022-05-27T18:42:33.65Z",
+      "contentText": "## About This Checklist\n\nThis checklist contains the requirements to continue operating in a charity or nonprofit in New York State.\n\n## Record-Keeping\n\n- Do you have copies of board meeting minutes (https://resourceportal.antientropy.org/docs/us-nonprofit-board-meeting-requirements)?\n - New York requires organizations to have a least one meeting per year.\n - Organizations in New York must maintain at least three board members; they are not required to reside in New York.\n- Did the organization file all required state tax and financial documents?\n - See below for a list of state requirements (https://resourceportal.antientropy.org/docs/new-york-nonprofit-and-charity-compliance-checklist#annual-filing).\n - Note that a certified public accountant is ***required*** to do some of these if revenue or support exceeds $500,000.\n- Have you reviewed the federal compliance checklist (https://resourceportal.antientropy.org/docs/us-nonprofit-compliance)?\n - Federal requirements include a 990 tax form to the IRS.\n\n### Annual Filing\n\nNote that many of these items must be done by a certified public accountant. Therefore, any organization in New York State should use a CPA knowledgeable in New York nonprofit regulations.\n\n#### NYS Attorney General’s Charities Bureau\n\n- Form CHAR500 (https://www.charitiesnys.com/pdfs/CHAR500_2021.pdf)\n - NYS Annual Filing for Charitable Organizations\n- Financial Report\n - Less than $250,000 in revenue and support\n - Unaudited Financial Report\n - More than $250,000 but not more than $1 million\n - Financial Report with independent CPA’s review\n - In excess of $1 million\n - Financial report with CPA audited financial statement\n\n#### NYS Department of State\n\n- Form CHAR500 (https://www.charitiesnys.com/pdfs/CHAR500_2021.pdf) (NYS Annual Filing for Charitable Organizations)\n - Required for nonprofits with at least $250,000 in annual support and revenue\n- Funding Disclosure Report and Financial Disclosure Report (https://resourceportal.antientropy.org/docs/new-york-nonprofit-disclosure-reports)\n - Required by (https://dos.ny.gov/financial-reports-be-filed-certain-not-profit-organizations) \"Any covered entity that makes an in-kind donation of staff, staff time, personnel, or any other human resources, offices or office supplies with a value in excess of $10,000 to a recipient entity during a relevant reporting period...\"\n - Required to be done by a certified public accountant if funds exceed $750,000 per Subsection (9) of Section 172-b of the New York Executive Law (https://www.nysenate.gov/legislation/laws/EXC/172-B)\n\n#### NYS Department of Taxation\n\n- Form NYS-45 (https://www.tax.ny.gov/pdf/current_forms/wt/nys45_fill_in.pdf) (Quarterly Combined Withholding, Wage Reporting and Unemployment Insurance Return)\n- Form NYS-1 (https://www.tax.ny.gov/pdf/current_forms/wt/nys1_fill_in.pdf) (Return of Tax Withheld)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "9cd8193b-4b7e-43be-92d7-c62ed1046846",
+      "slug": "nonprofit-discounts",
+      "title": "Nonprofit Software Discounts",
+      "url": "https://resourceportal.antientropy.org/docs/nonprofit-discounts",
+      "description": "A reference listing software and tools offering discounts to nonprofits, eligibility requirements, and application processes for each vendor",
+      "keywords": [
+        "discounts",
+        "fiscal sponsorship eligibility",
+        "Form 990",
+        "IRS 501(c)(3) determination letter",
+        "nonprofit",
+        "Percent verification",
+        "software discounts",
+        "TechSoup"
+      ],
+      "tags": [
+        "discounts",
+        "nonprofit",
+        "software discounts"
+      ],
+      "categoryPath": [
+        "Building And Running An Organization",
+        "Operational Tools and Resources"
+      ],
+      "readingTime": 4,
+      "createdAt": "2025-10-29T16:44:40.363Z",
+      "modifiedAt": "2025-10-29T16:44:40.363Z",
+      "firstPublishedDate": "2023-04-27T12:47:13.274Z",
+      "lastPublishedDate": "2025-10-29T16:44:40.363Z",
+      "contentText": "## Nonprofit Discounts\n\nMost online tools and software companies offer discounts and special pricing to nonprofits. Take advantage of these discounts, special deals, and donated software to save resources and invest more in your mission. While free versions exist, they often have limited features that won't meet your needs as you scale and grow.\n\n## Typical Requirements\n\nThese are the usual information and requirements you'll need to prepare before applying for nonprofit discounts:\n\n- Registered organization name\n- Organization URL\n- EIN (Employer Identification Number)\n- IRS 501(c)(3) determination letter\n- Sometimes requested:\n - Recent Form 990\n - Organizational bylaws\n\n#### For Fiscally Sponsored Projects\n\nIf you are a fiscally sponsored project, be aware that some platforms do not offer discounts to sponsored projects or may not consider them eligible. The application process may also vary depending on the platform:\n\n- Some platforms require your fiscal sponsor to apply and manage the account on your behalf\n- Others allow sponsored projects to apply directly using their project name\n- You may want to check with your fiscal sponsor before applying to understand their process and requirements\n- Additional documentation may be needed:\n - Fiscal Sponsorship Agreement\n - Letter from fiscal sponsor confirming 501(c)(3) status\n\n## Airtable\n\nAirtable offers 50% off on Team plan licenses to eligible nonprofits.\n\n- Eligibility criteria can be found here (https://support.airtable.com/docs/nonprofit-and-educational-plans-faqs)\n- Application form can be accessed here (https://airtable.com/shr9DxhP6lU9slZE6?prefill_Application=Nonprofit)\n- Decisions are typically given within 2 business days\n- Note: Airtable AI is not eligible for nonprofit discounts\n\n## Salesforce\n\nSalesforce offers nonprofit-specific pricing and programs for eligible organizations.\n\n**Nonprofit Cloud Pricing:**\n\n- Available at discounted rates for nonprofits\n- Visit Salesforce's nonprofit pricing (https://www.salesforce.org/products/nonprofit-pricing/) for current rates\n\n**The Power of Us Program:**\n\n- Qualifying nonprofits receive 10 free subscriptions to the Nonprofit Cloud Enterprise Edition plus access to discounted Salesforce technology\n- Eligibility criteria can be found here (https://www.salesforce.org/wp-content/uploads/2023/03/p10-eligibility-guidelines-English-2023.pdf)\n- Processing time takes 2 to 3 weeks\n\n## Google Workspace\n\nEligible nonprofits can access Google Workspace for free or at discounted rates through Google for Nonprofits.\n\n- List of available products can be found here (https://www.google.com/nonprofits/workspace/compare/)\n- Eligibility criteria can be found here (https://www.google.com/nonprofits/eligibility/)\n- Verification is handled through Goodstack (Google's official verification partner)\n- Verification typically takes 3-5 business days\n- The free tier supports up to 2,000 users\n\n## Zoom\n\nYou can access discounted Zoom licenses through TechSoup.\n\n- 50% discount available on Pro and Business licenses through TechSoup (https://www.techsoup.org/zoom)\n- Can be purchased once per fiscal year (July 1 to June 30), valid for 12 months\n- More information can be found here (https://www.techsoup.org/products/zoom-one-1-year-subscription-access-to-discounted-rates-g-53437-)\n\n## Asana\n\nNonprofits can receive a 50% discount on Premium or Business plans.\n\n- More information available at Asana for Nonprofits (https://asana.com/nonprofit)\n- Application form can be accessed here (https://validation.poweredbypercent.com/validate/validationinvite_a452a260-4d29-4698-bf87-3bcfdf8718a0?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyUHVibGljS2V5IjoicGtfYjJlZWZmZjctODIzOS00NTBmLWJiN2ItN2FiZGQwNGM1Mzk1IiwiaWF0IjoxNjgwMTcwMTc3fQ.wbtudRXN01LObXxYNjCSvt_PoCl5r4bE8CS06ZupI0k)\n\n## Slack\n\nThe Slack for Nonprofits program offers free or discounted plan upgrades to eligible organizations.\n\n- Pro Plan: Free upgrade for workspaces with 250 or fewer members; 85% discount for workspaces above that size\n- Business+ Plan: 85% discount for workspaces of any size\n- Enterprise Grid: Available for qualifying workspaces with 1,000+ members (contact Slack (https://slack.com/help/contact?from_hc=1&src=article&hid=HC-8031-22F8-2184-9F1F&aid=204368833))\n- Workspace owners can submit applications here (https://my.slack.com/nonprofit)\n- Slack partners with TechSoup to review and validate applications\n- Applications are typically processed within 3 business days\n\n## Microsoft\n\nMicrosoft offers granted or discounted licenses on products to eligible nonprofits.\n\n- Granted licenses available for paid employees and unpaid executive staff\n- Discounted licenses available for all staff, including volunteers and temporary staff\n- The person registering must be an employee or strategic volunteer of the nonprofit (beneficiaries, donors, and members are not eligible)\n- Eligibility criteria can be found here (https://www.microsoft.com/en-us/nonprofits/eligibility?activetab=pivot1%3aprimaryr4)\n- Register through this link (https://signup.nonprofit.microsoft.com/en-us)\n- Processing and review takes approximately 7 days\n\n## Dropbox\n\nNonprofits can receive discounts on Dropbox team account subscriptions.\n\n- Contact your Dropbox team admin to learn more about nonprofit pricing\n- More information available here (https://help.dropbox.com/billing/discounts)\n\n## Coda\n\nNonprofits can receive a 50% discount on Coda plans.\n\n- Eligibility criteria can be found here (https://help.coda.io/en/articles/3517611-students-teachers-and-nonprofits#h_c016f343e2)\n- Application form can be found here (https://coda.io/form/Coda-for-Nonprofits_dCEOOosYELh)\n\n## ClickUp\n\nClickUp offers nonprofit discounts on their plans.\n\n- Claim your nonprofit discount here (https://clickup.com/teams/non-profit)\n- Alternatively, email help@clickup.com to discuss customized pricing for your nonprofit\n\n## Zapier\n\nNonprofits can receive a 15% discount on a single Zapier plan.\n\n- Application form can be found here (https://zapier.typeform.com/to/nr8baR?typeform-source=www.google.com)\n- More information available here (https://zapier.com/non-profits)\n\n## Xero\n\nNonprofits can receive a 25% discount on Xero accounting software.\n\n- Check out the different plans and pricing here (https://www.xero.com/pricing-plans/)\n- Sign up for a free 30-day trial here (https://www.xero.com/ph/signup/)\n- After your trial, contact support (https://central.xero.com/s/contact-support) to inquire about the nonprofit discount\n- You will need to submit documentation to validate your nonprofit status\n\n## Discount Retailers and Donation Programs\n\nThere are organizations and tech nonprofits that offer discounted or donated software. Ensure they are authorized nonprofit software resellers before engaging with any you find online.\n\nHere are some verified nonprofits that resell tech and software you can contact:\n\n### TechSoup\n\nTechSoup provides software solutions and hardware to nonprofits, including discounted or donated licenses to Microsoft, Adobe, Symantec, and Intuit.\n\n- Sign up for free here (https://www.techsoup.org/joining-techsoup/registration)\n- During registration, you can upload documents proving your nonprofit status with the IRS\n- Check your eligibility for software donation programs here (https://www.techsoup.org/EligibilityQuiz)\n\n### Percent\n\nPercent (formerly known as Goodstack) helps nonprofits access technology discounts and verify nonprofit status for various platforms.\n\n- Sign up for free at Percent (https://poweredbypercent.com/)\n- Provides verification services for platforms like Google Workspace and others\n- Connects nonprofits to additional technology discounts from major brands\n\n### Genesis Technologies\n\nGenesis Technologies (https://www.genesis-technologies.com/non-profit.html) provides technology solutions for nonprofits (including churches), educational, and government institutions as a marketplace.\n\n- Find their product catalog here (https://www.genesis-technologies.com/products/nonprofit.html)",
       "alternateSlugs": []
     },
     {
@@ -2513,7 +2577,7 @@
       "id": "6b1a60e1-c69a-4886-b8a3-455f3444600c",
       "slug": "remote-work-policy-us",
       "title": "Remote Work Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/remote-work-policy-us",
+      "url": "https://resourceportal.antientropy.org/docs/remote-work-policy",
       "description": "A template remote work policy establishing eligibility, reimbursement structures, and security expectations for organizations employing remote workers",
       "keywords": [
         "monthly stipend",
@@ -3362,28 +3426,6 @@
       "alternateSlugs": []
     },
     {
-      "id": "47c0e9f3-fe87-4dfc-a738-c0c28bb18982",
-      "slug": "sparkwell-pre-enrollment-expense-reimbursement-policy",
-      "title": "SparkWell Pre-Enrollment Expense Reimbursement Policy",
-      "url": "https://resourceportal.antientropy.org/docs/sparkwell-pre-enrollment-expense-reimbursement-policy",
-      "description": "",
-      "keywords": [],
-      "tags": [],
-      "categoryPath": [
-        "SparkWell Resources",
-        "SparkWell Handbook",
-        "SparkWell Policies",
-        "SparkWell Expense Policies"
-      ],
-      "readingTime": 1,
-      "createdAt": "2026-09-02T00:40:39.636Z",
-      "modifiedAt": "2026-09-02T00:40:39.636Z",
-      "firstPublishedDate": "2026-01-08T18:17:00.082Z",
-      "lastPublishedDate": "2026-09-02T00:40:39.636Z",
-      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\n### 1. Purpose\n\nThis policy establishes guidelines for reimbursing Project Leads for legitimate project-related expenses incurred before their official SparkWell enrollment date.\n\n### 2. Eligibility\n\nPre-enrollment expenses may be reimbursed if they meet all of the following criteria:\n\n- **Clearly project-related**: Expense was incurred directly and specifically for the project's charitable mission. The connection between the expense and the project's work should be obvious and straightforward—not tangential or loosely connected.\n- **Timing**: Expenses within 90 days prior to enrollment are generally eligible. Expenses older than 90 days will be evaluated case-by-case, with increasing scrutiny the older they are.\n- **Approvable**: Expense would have been approved under normal SparkWell guidelines if incurred post-enrollment.\n\n### 3. Documentation Requirements\n\nProject Leads must submit:\n\n- Invoice or receipt for each expense\n- Proof of payment (bank or credit card statement showing the charge)\n- Brief written explanation of how the expense relates to the project\n\n### 4. Eligible Expense Examples\n\n- Contractor payments for project-related work (e.g., branding, research, development)\n- Legal fees related to project formation or contracts\n- Software or tools purchased for project use\n\n#### 5. Approval and Discretion\n\nPre-enrollment reimbursement requests are reviewed and approved by the Program Manager. Anti Entropy reserves the right to decline any pre-enrollment expense reimbursement request at its discretion. When uncertain, we will err on the side of caution.",
-      "alternateSlugs": []
-    },
-    {
       "id": "35fefbb0-e99d-442e-b0e6-de6c6af4d042",
       "slug": "sparkwell-reasonable-accommodations-policy",
       "title": "SparkWell Reasonable Accommodations Policy",
@@ -3576,7 +3618,7 @@
       "id": "626404ef-ed96-498e-8096-5a8084883f92",
       "slug": "policy-template-2",
       "title": "Sponsored Worker Policy (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/policy-template-2",
+      "url": "https://resourceportal.antientropy.org/docs/policy-template",
       "description": "",
       "keywords": [
         "sponsored worker",
@@ -4088,7 +4130,7 @@
       "id": "380c16b4-7834-412d-9ec6-7c72ca17b2ef",
       "slug": "travel-policy-us-1",
       "title": "Travel and Entertainment Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/travel-policy-us-1",
+      "url": "https://resourceportal.antientropy.org/docs/travel-policy-us",
       "description": "A template travel and entertainment policy for US organizations to establish employee approval, booking, and expense guidelines for business travel.",
       "keywords": [
         "business travel authorization",
@@ -4120,7 +4162,7 @@
       "id": "ee47e3df-eaf1-4878-9ffd-55ab1c4f0bbe",
       "slug": "types-of-independent-contractors-and-self-employment-in-germany-1",
       "title": "Types of Independent Contractors and Self-Employment in Germany",
-      "url": "https://resourceportal.antientropy.org/docs/types-of-independent-contractors-and-self-employment-in-germany-1",
+      "url": "https://resourceportal.antientropy.org/docs/types-of-independent-contractors-and-self-employment-in-germany",
       "description": "A reference guide explaining four types of self-employed business structures in Germany and registration requirements for each",
       "keywords": [
         "Einzelunternehmen sole proprietorship",
@@ -4325,7 +4367,7 @@
         "uk-workers-vs-independent-contractors-1"
       ],
       "alternateUrls": [
-        "https://resourceportal.antientropy.org/docs/uk-workers-vs-independent-contractors-1"
+        "https://resourceportal.antientropy.org/docs/uk-workers-vs-independent-contractors"
       ]
     },
     {
@@ -4660,7 +4702,7 @@
       "id": "fcdc7666-8d2f-4534-aada-a6e56bbe8a6e",
       "slug": "vacation-policy-us-1",
       "title": "Vacation Policy (US)",
-      "url": "https://resourceportal.antientropy.org/docs/vacation-policy-us-1",
+      "url": "https://resourceportal.antientropy.org/docs/vacation-policy-us",
       "description": "A template vacation policy for US organizations establishing employee time-off entitlements, request procedures, and special circumstance rules",
       "keywords": [
         "carryover limits",
@@ -4785,7 +4827,7 @@
       "id": "bb5b9a0d-91b0-4c3f-8ba3-770433339856",
       "slug": "who-is-an-independent-contractor-uk-1",
       "title": "Who is an Independent Contractor? (UK)",
-      "url": "https://resourceportal.antientropy.org/docs/who-is-an-independent-contractor-uk-1",
+      "url": "https://resourceportal.antientropy.org/docs/who-is-an-independent-contractor-uk",
       "description": "A reference guide defining independent contractor status in the UK and explaining the key factors that determine self-employment classification.",
       "keywords": [
         "contract for services",
@@ -4822,7 +4864,7 @@
       "id": "3ce57e58-d6b0-4ceb-8a29-d71ad80cba0c",
       "slug": "who-is-an-independent-contractor-us",
       "title": "Who is an Independent Contractor? (US)",
-      "url": "https://resourceportal.antientropy.org/docs/who-is-an-independent-contractor-us",
+      "url": "https://resourceportal.antientropy.org/docs/what-is-an-independent-contractor-usa",
       "description": "A reference explaining IRS definitions of independent contractors, their tax obligations, and legal distinctions from employees for US businesses",
       "keywords": [
         "1099 employees",
