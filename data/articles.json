@@ -1,18 +1,9 @@
 {
   "source": "https://resourceportal.antientropy.org/docs",
-  "generatedAt": "2026-10-13T16:00:17+00:00",
-  "articleCount": 162,
-  "failedCount": 8,
-  "failures": {
-    "receiving-grant-funds-1": "Failed to fetch https://resourceportal.antientropy.org/docs/receiving-grant-funds-1: HTTP Error 429: Too Many Requests",
-    "remote-work-policy": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy: HTTP Error 429: Too Many Requests",
-    "remote-work-policy-us": "Failed to fetch https://resourceportal.antientropy.org/docs/remote-work-policy-us: HTTP Error 429: Too Many Requests",
-    "sending-payments-in-to-uganda": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda: HTTP Error 429: Too Many Requests",
-    "sending-payments-to-nigeria": "Failed to fetch https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc: HTTP Error 429: Too Many Requests",
-    "sole-proprietor-vs-single-member-llc-whats-the-difference-usa": "Failed to fetch https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-whats-the-difference-usa: HTTP Error 429: Too Many Requests"
-  },
+  "generatedAt": "2026-10-14T13:44:09+00:00",
+  "articleCount": 169,
+  "failedCount": 0,
+  "failures": {},
   "articles": [
     {
       "id": "66225c7e-200e-4de0-beda-21780bbda8bf",
@@ -548,8 +539,8 @@
       "url": "https://resourceportal.antientropy.org/docs/articles-of-incorporation",
       "description": "A template for drafting Articles of Incorporation required by US states to establish nonprofit charity status",
       "keywords": [
-        "Articles of Incorporation",
         "articles of incorporation",
+        "Articles of Incorporation",
         "board approval",
         "charity status application",
         "registered agent",
@@ -2737,6 +2728,207 @@
       "firstPublishedDate": "2025-11-06T21:59:14.123Z",
       "lastPublishedDate": "2025-11-06T21:59:14.123Z",
       "contentText": "## About this template\n\nA receipt of payment documents when your organization pays contractors, vendors, or service providers who don't provide standard invoices or receipts. This template creates a paper trail for payments to individuals or small vendors, particularly common with international contractors, interview participants, or one-time service providers.\n\n**Note:** this is different from a Replacement Reciept (https://resourceportal.antientropy.org/docs/generic-receipt-replacement-template) for expense reimbursement purposes when the original receipt is unavailable.\n\n#### Download template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)\n\n## Who needs this\n\n- Organizations paying contractors or vendors without formal invoicing systems\n- Research organizations compensating interview participants\n- Organizations needing documentation for cash or informal payments\n- Working with vendors in regions where formal invoicing isn't standard\n\n#### Don't use this template for:\n\n- Regular vendors who should provide invoices\n- Employee salary or wage payments\n- Purchases where you receive goods (use standard receipts)\n- Recurring service providers who can issue proper invoices\n\n## How to customize this template\n\n#### Organization details\n\n- Replace ORG_NAME with your organization's name throughout\n- Add your organization's tax ID if required in your jurisdiction\n- Consider adding your organization's address for formal documentation\n\n#### Payment categories\n\nAdjust the payment types to match your common uses:\n\n- Research organizations: Interview participation, focus group participation, user testing, survey completion, study participation\n- Media/content organizations: Video editing, graphic design, transcription services, translation, voice-over work, content writing\n- Event organizations: Speaker fees, workshop facilitation, panel participation, performance fees, equipment rental from individuals\n- Community organizations: Interpretation services, cultural consulting, community liaison work, local coordination, outreach services\n- General services: Consulting, training delivery, data entry, temporary assistance, specialized expertise\n\nRemove categories you won't use to keep the form simple and add specific categories relevant to your work.\n\n#### Tax identification fields\n\nDifferent jurisdictions require different tax documentation:\n\n- United States: Include space for SSN or EIN for amounts over $600 (1099 reporting)\n- United Kingdom: Add space for UTR (Unique Taxpayer Reference) or National Insurance number\n- European Union: Include VAT number field if applicable\n- Other regions: Research local tax ID requirements\n\n#### Setting payment thresholds\n\nIf you have one, your organization's expense or payment policy should specify when this template is appropriate versus requiring formal invoices. Consider incorporating thresholds into your policy:\n\n**Common threshold approach is a bandwidth:**\n\n- Under $100-250: Receipt of payment acceptable\n- $250-1,000: Receipt of payment with additional documentation\n- Over $1,000: Formal invoice required\n\nThese thresholds should align with your existing expense approval levels and risk tolerance. Document these limits in your expense reimbursement or accounts payable policy so staff know when to use this template versus requesting formal documentation.\n\n**Additional documentation requirements**\n For larger amounts, consider requiring supplementary documentation:\n\n- Copy of recipient's government-issued ID\n- Written agreement or scope of work\n- Bank transfer confirmation\n- Secondary approval signature\n\n## Best practices\n\n- Pre-fill known information - Complete organization sections before meeting contractors\n- Translate if needed - Provide template in languages your contractors read\n- Explain purpose - Help recipients understand this protects both parties\n- Keep copies accessible - Contractors may need copies for their tax filing\n- Review regularly - Update template as regulations or needs change\n- Train staff - Ensure anyone making payments understands when and how to use\n\n## Compliance considerations\n\nImportant tax disclaimer:\n\nThis section provides general documentation guidance only. Tax treatment and reporting requirements vary significantly by jurisdiction and payment type. Consult a qualified tax professional or legal advisor for requirements specific to your organization and location.\n\n**US organizations**\n\n- Track total annual payments per recipient for 1099 reporting\n- Collect W-9 forms before first payment when possible\n- Maintain records for 7 years for tax purposes\n\n**International payments**\n\n- Research withholding requirements for payments to foreign nationals\n- Document any tax treaty benefits claimed\n- Keep records of recipient's country of tax residence\n\nDownload template\n\nAccess the Receipt of Payment Template (https://docs.google.com/document/d/1V3FVdA6UFxAhLGwLn7OfKFfdZtMDR1A2BszGRFqEb2c/edit?usp=sharing) (Google Doc)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "936acb34-8201-4e5a-ad5a-464e96db3665",
+      "slug": "receiving-grant-funds-1",
+      "title": "Receiving Grant Funds From A US Funder",
+      "url": "https://resourceportal.antientropy.org/docs/receiving-grant-funds-1",
+      "description": "A guide explaining how individuals and organizations receive grant funds from US funders, including eligibility requirements, grant types, and management best practices",
+      "keywords": [
+        "501(c)(3) status",
+        "expenditure responsibility",
+        "grant funds",
+        "grant types (unconditional/contingency/reimbursable)",
+        "IRS Form 8940",
+        "receiving grant funds",
+        "taxable expenditures"
+      ],
+      "tags": [
+        "grant funds",
+        "receiving grant funds"
+      ],
+      "categoryPath": [
+        "Fundraising and Grant Management"
+      ],
+      "readingTime": 5,
+      "createdAt": "2025-05-12T14:33:08.385Z",
+      "modifiedAt": "2025-05-12T14:33:08.385Z",
+      "firstPublishedDate": "2022-12-23T15:17:53.512Z",
+      "lastPublishedDate": "2025-05-12T14:33:08.385Z",
+      "contentText": "### Who is this article for?\n\nFor individuals or organizations who receive grant funds, including scholarships and fellowships.\n\nThis information covers grants from foundations, organizations, and individuals in the U.S. Majority of the information does ***not apply to government-issued grants***, which may have exceptions and rules. While most countries have similar rules and regulations for grant funding, it is best to check your country's tax laws and government regulations prior to applying for or receiving any funding.\n\n### Topics Covered in This Article:\n\n- Grants for Individuals\n- Grants for Organizations\n- Best Practices for Receiving Grants (Individuals and Nonprofits)\n\n### Grants for Individuals\n\nFoundations, funders, and sponsors prefer to give grants to nonprofits or those with 501(c)(3) status, which is why fewer individual or personal grants are given. A nonprofit or organization with 501(c)(3) status looks more reputable due to its structure and need to adhere to certain guidelines and laws.\n\nAccording to the IRS (https://www.irs.gov/charities-non-profits/private-foundations/grants-to-individuals), grants that are awarded to individuals for travel, study, or other similar purposes are considered taxable expenditures.\n Individual grants only become non-taxable if:\n\n- Grant is awarded on an objective and nondiscriminatory basis through a procedure pre-approved by the IRS\n- Grant is a scholarship and fellowship to be used for the study\n- Grant is a prize or award that is excludable from gross income if the recipient is selected from the general public\n- Grant's purpose is to achieve a specific objective, produce a report or similar product, and improve or enhance a literary, artistic, musical, scientific, teaching, or similar capacity, skill, or talent of the grantee.\n\n**Note:** Direct donations are not tax-deductible for the donor (in this case, the funder), and if you received a grant, then it will count as personal income, which is taxable. See our article on how grant funds are taxed (https://resourceportal.antientropy.org/docs/receiving-grant-funds) for more information on grant taxation.\n\nOrganizations that provide individual grants in the U.S. can do so through advanced approval from the IRS (https://www.irs.gov/charities-non-profits/private-foundations/advance-approval-of-grant-making-procedures), filing a Form 8940 (https://www.irs.gov/pub/irs-pdf/f8940.pdf). The requirements for individual grant procedures include the following:\n\n- The procedure awards grants on an objective and non-discriminatory basis\n- The procedure is reasonably calculated to result in performance by grantees of the activities that the grants are intended to finance\n- The foundation will supervise grants to determine whether grantees have fulfilled the grant terms\n\n### Grants for Organizations\n\nFoundations, corporations, and government agencies also offer grants to organizations, whether they’re nonprofits or for-profit businesses. For-profit businesses are typically not eligible to receive grants from the federal government. Funds from a government grant are best used for operational and administrative expenses. Grants for small businesses are typically aimed at job creation, funding projects that don’t get traditional support, or increasing economic benefits for communities.\n\nIn addition to the financial benefits of a grant, a grant may also help increase your nonprofit or company’s visibility. You’re more likely to get grants from different funders once you secure your first grant and make good use of the funding received.\n\nThere are 3 different types of grants that are typically awarded:\n\n- **Unconditional Grant** - These are usually provided upfront and can be used at your discretion, without restrictions.\n- **Grant with Contingencies** - Funding is usually given in installments over time, and you are required to fulfill certain conditions.\n- **Reimbursable Grant** - In this case, you pay for the grant’s intended project initially, then the grantor pays you back for your expenditures.\n\nNo matter what type of grant you receive, it’s advised that you keep track of the grant funding and the expenditures associated with it. This is especially important if one of the conditions explicitly specifies how the funds are to be used.\n\nSimilar to grants to individuals, grants to organizations are still taxable expenditures in the US according to the IRS, unless:\n\n- The recipient’s organization is a public charity - in the US, this means they have 501(c)(3) status.\n- The foundation (grantor) exercises expenditure responsibility (https://resourceportal.antientropy.org/docs/understanding-expenditure-responsibility-grantees) with respect to the grant.\n\n### Best Practices for Receiving Grants (Individuals and Nonprofits)\n\nIf you are awarded a grant by a foundation or nonprofit, it’s important to ensure your goals are aligned and you can meet the program obligations, and the grant’s funds are properly allocated. Although awarding grants is considered a business transaction, it can start a fruitful relationship with the organization and be mutually beneficial to both parties.\n\n- Finish any initial paperwork required.\n - Sign all documents, which typically include the letter accepting the grant, reporting requirements, and other grant fund-related details.\n - Create electronic and physical copies of these documents.\n- Set up your financial system\n - An individual grant award should be accounted for as an “independent cost center.” It’s recommended that you open a separate business account solely for the grant funds.\n - It’s in your best interest and the funders to NOT mix your grant funds with your personal or additional business funds. You risk losing track of expenditures related to your grant and make it difficult to show that all the funds were spent for the intended purpose.\n - All income and expenditures from the grant fund must be accounted for at all times.\n - Seek the services of an accountant or bookkeeper, especially if you’re not knowledgeable about fund management and taxes.\n- Review your grant application.\n - It may have been a while since you submitted your application. It’s best to read through it and get an understanding of what needs to be done.\n - Check and take note of what the organization needs from you and when they would need them.\n - Start assigning major tasks and creating a project timeline with key deadline reminders.\n- Review the grant rules and regulations.\n - Have a system for recording data and when reports are due.\n - Include systems for checks and balances, documentation, and fiscal controls.\n - Provide reports even if there’s no requirement from the funder. Give one in the middle of the grant period and then another one at the end at a minimum.\n- Keep communication lines open between you and the funding organization.\n - Be proactive, especially when you think an issue will arise in regard to the grant funds.\n - Don’t forget to send a thank you note to the organization and funder!\n\n#### Click here (https://resourceportal.antientropy.org/docs/ticket-deflector/how-can-we-help-you?p=r0) to contact us, give feedback on this article, report errors, or address concerns regarding the portal resources.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "6b1a60e1-c69a-4886-b8a3-455f3444600c",
+      "slug": "remote-work-policy-us",
+      "title": "Remote Work Policy (US)",
+      "url": "https://resourceportal.antientropy.org/docs/remote-work-policy",
+      "description": "A template remote work policy establishing eligibility, reimbursement structures, and security expectations for organizations employing remote workers",
+      "keywords": [
+        "monthly stipend",
+        "office setup allowance",
+        "reimbursement caps",
+        "remote worker eligibility",
+        "security expectations"
+      ],
+      "tags": [],
+      "categoryPath": [
+        "Building And Running An Organization",
+        "Nonprofit Employee Handbook Guide: Essential Policies & Implementation",
+        "US Specific"
+      ],
+      "readingTime": 1,
+      "createdAt": "2025-10-10T18:49:30.74Z",
+      "modifiedAt": "2025-10-10T18:49:30.74Z",
+      "firstPublishedDate": "2022-09-09T17:53:18.083Z",
+      "lastPublishedDate": "2025-10-10T18:49:30.74Z",
+      "contentText": "## About This Policy\n\nA policy for remote workers that outlines eligibility, allowances, reimbursements, security, and basic expectations.\n\n## Who Needs This Policy\n\nAny organization wanting to provide clear expectations and mitigate risk with remote workers.\n\n## When Using This Policy\n\nExpectations regarding compensation and reimbursement for office expenses, setup, hardware, and software can vary from organization to organization. Below are typical reimbursement caps for remote work; however, it will be up to your organization to set the cap limit and what items you will provide and/or reimburse.\n\n- Basic = $200-$350 for office set-up\n- Standard = $500 - $750 for office set-up with some hardware and/or software provided\n- Generous = $1,000+ for office set-up and $1,000/year continuing education allowance\n\nA typical monthly allowance to cover monthly office costs (ex. wifi, electricity, rent ) for remote workers is $100-$200. This monthly allowance is in addition to the above one-time capped reimbursements.\n\n## The Policy\n\nRemote Work Policy (GoogleDocs) (https://docs.google.com/document/d/103w0v1t02jsAUG9vcqX2VCqzmfXVrLuMxAC8E3Pe-So/edit?usp=sharing)\n\n**Legal Review: 08/2022 (https://resourceportal.antientropy.org/docs/legal-review)**",
+      "alternateSlugs": [
+        "remote-work-policy"
+      ],
+      "alternateUrls": [
+        "https://resourceportal.antientropy.org/docs/remote-work-policy"
+      ]
+    },
+    {
+      "id": "95096821-8bd6-42e7-ad80-461b8c80a423",
+      "slug": "sending-payments-in-to-uganda",
+      "title": "Sending Payments in/to Uganda",
+      "url": "https://resourceportal.antientropy.org/docs/sending-payments-in-to-uganda",
+      "description": "",
+      "keywords": [],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Tools, Templates, and Forms",
+        "Country Specific SparkWell Learnings"
+      ],
+      "readingTime": 3,
+      "createdAt": "2026-05-20T15:59:10.544Z",
+      "modifiedAt": "2026-05-20T15:59:10.544Z",
+      "firstPublishedDate": "2026-05-20T15:59:10.544Z",
+      "lastPublishedDate": "2026-05-20T15:59:10.544Z",
+      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this article\n\nIn Uganda, mobile money is the default payment method for local staff, contractors, and vendors. Many recipients hold no bank account and rely entirely on a mobile wallet. Sending directly from a US nonprofit account to a Ugandan mobile money wallet is harder than it sounds, and the workable options add time, fees, or compliance overhead.\n\nImportant disclaimer\n\nThis article was created in May 2026 and will likely be partially out of date as things change. It provides general operational guidance and is not legal, tax, or financial advice. Ugandan banking, telecom, and remittance rules change frequently. Confirm current requirements with the receiving institution and a qualified professional before relying on this information.\n\n## How money moves in Uganda\n\n- Mobile money is the **main payment system** in Uganda for everyday business. About 61% of inbound remittances settle through MTN MoMo, Airtel Money, or another wallet, and many local payees have no bank account at all.\n- Consumer remittance apps deliver to Ugandan mobile money but are **built for personal transfers**. Sending from a US nonprofit's business account is often restricted, blocked, or subject to manual review.\n- A few providers (for example, Remitly) market a business product that lists Ugandan mobile money as a delivery option. Confirm in writing that your 501(c)(3) account is eligible before relying on it.\n- Wise does not support payments to or from UGX business accounts. SWIFT wires settle to a bank, not a wallet.\n\n## Interim disbursement through a local agent\n\nUntil a project has its own Ugandan bank account, a common bridge is to wire USD to a trusted local staff member, who converts to UGX and forwards funds into the project's mobile money wallet for disbursement. **This is workable *only* with formal controls**, because that person is acting as a paid disbursement agent of the US sponsor.\n\n#### Required guardrails:\n\n- **Written agreement.** Engage the person as a contractor or disbursement agent with a scope of work naming the pass-through role and reporting duties. Keep a current W-8BEN on file.\n- **Avoid co-mingling.** Use a dedicated account, or clearly identified sub-account, for project funds only. The funds are not personal income.\n- **Receipts at every step.** Retain the wire receipt, conversion confirmation, mobile money send receipts, and recipient acknowledgments. Reconcile monthly.\n- Prompt onward transfer. Funds should not sit longer than operationally necessary.\n- **Bank disclosure.** If asked, the local agent shows the engagement agreement and explains the project context.\n\n*Weak controls invite AML scrutiny, account freezes, tax exposure for the local agent, and audit findings on the sponsor side.* Treat this as an interim and move to a local entity account as soon as feasible.\n\n## What to do on the sending side\n\n- Match the recipient's legal name exactly to what the receiving bank or wallet has on file.\n- Send in USD only if the destination confirms USD acceptance; otherwise, convert to UGX at the sender.\n- Document purpose clearly in the wire memo and on the supporting invoice.\n- Build in extra time, and note that Uganda imposes a 0.5% excise tax on mobile money withdrawals.\n\n## Setting up a Ugandan account (longer term)\n\nA project that wants its own Ugandan bank account, and eventually a business mobile money wallet, must first incorporate with the Uganda Registration Services Bureau (URSB), then obtain a Permit of Operation from the National Bureau for NGOs. Plan on six to nine months end-to-end.\n\nHeads up on evolving Ugandan regulations\n\nThe Protection of Sovereignty Bill, 2026, passed Parliament on May 5, 2026, and is awaiting Presidential assent. If enacted in its current form, banks would need a ministerial funding declaration before releasing funds to any local entity classified as an \"agent of a foreigner,\" a category that captures most Ugandan NGOs receiving international grants. Monitor this Bill closely and confirm current requirements with the recipient's bank before initiating large or recurring transfers.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "930ef1e1-f776-4428-ac98-eb848a9bc936",
+      "slug": "sending-payments-to-nigeria",
+      "title": "Sending Payments To Nigeria",
+      "url": "https://resourceportal.antientropy.org/docs/sending-payments-to-nigeria",
+      "description": "",
+      "keywords": [],
+      "tags": [],
+      "categoryPath": [
+        "SparkWell Resources",
+        "SparkWell Tools, Templates, and Forms",
+        "Country Specific SparkWell Learnings"
+      ],
+      "readingTime": 3,
+      "createdAt": "2026-05-05T14:03:55.213Z",
+      "modifiedAt": "2026-05-05T14:03:55.213Z",
+      "firstPublishedDate": "2026-05-04T20:17:43.195Z",
+      "lastPublishedDate": "2026-05-05T14:03:55.213Z",
+      "contentText": "### Who is this for?\n\nThis content is designed for participants in Anti Entropy's SparkWell (https://www.antientropy.org/sparkwell) fiscal sponsorship program. While some context will be specific to SparkWell and may need more context, we've made these resources public because they may, nevertheless, be useful to others who may be founding or building an organization.\n\nAbout this article\n\nPayments to Nigerian vendors and partners often take longer than other international transfers. Stricter compliance scrutiny on the receiving side, especially for transfers above $10,000, results in delays of several weeks. Preparing the right documentation upfront is the most effective way to keep payments moving.\n\nImportant disclaimer\n\nThis article was **created in May 2026** and will likely be partially out of date as things change. This article provides general operational guidance and is not legal, tax, or financial advice. Nigerian banking, foreign exchange, and anti-money laundering regulations change frequently. Confirm current requirements with the receiving bank and a qualified professional before relying on this information.\n\n## What to expect\n\n- Processing times of two to five weeks are not unusual for the first payment, particularly for transfers above $10,000.\n- Holds typically occur at the receiving Nigerian bank, not the sending bank. Once funds leave Mercury, downstream visibility is limited.\n- The receiving bank may request additional compliance documentation mid-transfer before releasing funds.\n- Bank-to-bank communication with Nigerian banks is often slow. Having the local recipient call the receiving bank's customer care line is usually faster than email.\n- Delays carry exchange rate risk, not just timing risk. If settlement happens in NGN at the rate on the release date, rather than the send date, naira volatility during the hold can meaningfully reduce the value the recipient receives.\n\n## What the recipient should prepare in advance\n\nAsk the local recipient to gather these before the transfer is initiated:\n\n- Invoice addressed to the sending organization, matching the payment amount and purpose.\n- MOU or partnership agreement documenting the relationship between sender and recipient.\n- Proof of engagement such as project documentation, scope of work, or prior correspondence.\n- SCUML certificate. Special Control Unit Against Money Laundering registration, issued by the EFCC. Required for Nigerian nonprofits and many other Designated Non-Financial Businesses to maintain bank accounts and clear international transfers. Registration is free.\n- Vendor legitimacy documents such as CAC registration, tax ID, and board resolution, where applicable.\n\n**Have the recipient notify their bank in advance that funds are inbound and share the invoice. Some banks will pre-position the file, which speeds clearance.**\n\n## What to do on the sending side\n\n- Match names exactly. Use the recipient organization's legal name ***exactly* as it appears on their bank account and SCUML/CAC documents**. Any discrepancy, even slight differences, can trigger a hold.\n- Confirm USD acceptance. Nigerian rules on USD versus NGN settlement are evolving. **Ask the recipient to confirm with their bank before initiating**.\n- Document purpose clearly in the wire memo and on the supporting invoice.\n- Build in extra time. Avoid scheduling time-sensitive disbursements (payroll, supply purchases) on a tight Nigerian payment timeline.\n\n## If a payment gets stuck\n\n- Ask Bookkeeping for the transaction receipts; when using Mercury Bank, we can give the Mercury receipt and the SWIFT receipt.\n- Have the local recipient **call (*not email*)** the receiving bank's customer care line and ask what additional documentation is needed.\n- Common late-stage requests include MOUs, proof of engagement, and SCUML clearance. Have these ready to send as soon as possible\n\nHeads up on evolving Nigerian regulations\n\nNigerian banking and FX rules change frequently. The Central Bank of Nigeria's March 2026 circular on diaspora remittances, effective May 1, 2026, requires International Money Transfer Operators to settle in naira through Authorized Dealer Banks. Confirm current rules with the recipient's bank before initiating large or recurring transfers.\n\n## Related external resources\n\nSCUML official portal (EFCC) (https://scuml.efcc.gov.ng/)\nVerify a SCUML certificate (https://scumlportal.efcc.gov.ng/scuml_verify.php)\nCentral Bank of Nigeria (https://www.cbn.gov.ng/)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "3289942f-2d23-4df6-b171-e58d278c7cd5",
+      "slug": "sole-proprietor-vs-single-member-llc-usa",
+      "title": "Single-Member LLC (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa",
+      "description": "A guide explaining single-member LLC formation, tax classification options, and state registration steps for US entrepreneurs",
+      "keywords": [
+        "Articles of Organization",
+        "corporate tax election",
+        "Disregarded Entity",
+        "EIN application",
+        "registered agent requirement",
+        "USA"
+      ],
+      "tags": [
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-13T23:10:07.019Z",
+      "modifiedAt": "2022-07-13T23:10:07.019Z",
+      "firstPublishedDate": "2022-07-13T23:10:07.077Z",
+      "lastPublishedDate": "2022-07-13T23:10:07.077Z",
+      "contentText": "## Single-Member LLC\n\nYou can form an LLC, even if you’re the only member, and choose a corporate tax status. As a Single-Member LLC, you are considered a “Disregarded Entity (https://resourceportal.antientropy.org/docs/disregarded-entity).” You can also elect for your LLC to be classified as a corporation.\n\n#### LLC as a Disregarded Entity:\n\nA Disregarded Entity means that your LLC is a separate legal entity from you as the owner.\n\n- You have the same tax obligations as a sole proprietorship\n- You can protect your personal assets from business liabilities with this structure\n- No need to file a separate business tax return\n- Activities in the LLC should also be reflected on the owner’s federal tax return\n- You can use your Social Security Number when filing for taxes if you don’t have employees\n\n#### LLC as a Corporation:\n\n- You, as an owner, are not liable for your business’ obligations\n- File tax returns and pay federal and state taxes\n- You can still use your Social Security Number when filing for taxes if you don’t have employees\n- You will need an EIN (Employer Identification Number (https://resourceportal.antientropy.org/docs/applying-for-an-ein)) if you’ll be reporting taxable income and loss\n\n#### How to Register a Single-Member LLC\n\nRegistering as an LLC may vary depending on the state where you’ll be working. Be sure to check the specific state requirements (https://www.nolo.com/legal-encyclopedia/form-llc-in-your-state-31019.html).\n\n-\n\nChoose a business name. Check with your Secretary of State's database if the name you want is already registered.\n\n-\n\nDesignate a registered agent (https://resourceportal.antientropy.org/docs/us-registered-agent)\n\n-\n\nPrepare your LLC Articles of Organization\n\n - Part of a formal legal document used to establish an LLC at the state level. These are used to create the rights, powers, duties, liabilities, and other obligations of LLC members and the LLC as a whole. Also referred to as a \"certificate of organization\" or a \"certificate of formation.\"\n - Filing requirements will vary depending on the state. Most states have templates or ready-to-use formats that you can just fill in as needed.\n - In some states, you may need to publish a notice in the newspaper showing your desire to register your LLC.\n-\n\nFile the Articles of Organization or formation documents\n\n-\n\nCreate an operating agreement for your LLC\n\n-\n\nObtain local and state business licenses\n\nMake sure to file the necessary returns and filings with your state. For federal taxes, it will depend on whether your Single-Member LLC is considered a “disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity)” by the IRS or if you elect to be a corporation.",
+      "alternateSlugs": []
+    },
+    {
+      "id": "4410f71c-5dd9-4ade-a12e-10d38d5bb3dd",
+      "slug": "sole-proprietor-vs-single-member-llc",
+      "title": "Sole Proprietor (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc",
+      "description": "A guide for independent contractors establishing a sole proprietorship, covering structure, tax obligations, registration requirements, and liability limitations",
+      "keywords": [
+        "DBA registration",
+        "FICA taxes",
+        "fictitious business name",
+        "Form 1040-ES",
+        "Pass-Through Taxation",
+        "Schedule C",
+        "Schedule SE",
+        "self-employment taxes",
+        "USA"
+      ],
+      "tags": [
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-13T22:59:41.421Z",
+      "modifiedAt": "2022-07-13T22:59:41.421Z",
+      "firstPublishedDate": "2022-07-13T22:59:41.781Z",
+      "lastPublishedDate": "2022-07-13T22:59:41.78Z",
+      "contentText": "## Sole Proprietor\n\nIndependent contractors are generally considered Sole Proprietors. This type of business is the simplest and most common business structure. It’s inexpensive and straightforward because you, as the owner, are not a separate legal entity from your sole proprietorship.\n\nYou may need to obtain the proper business licenses and permits to offer your services in your state. It’s best practice to keep separate your business bank accounts and credit cards, so it’s easier to separate your business from personal finances.\n\n#### Filing Taxes as a Sole Proprietorship:\n\n- You will be subject to Pass-Through Taxation (https://resourceportal.antientropy.org/docs/pass-through-taxation)\n- You will only need your Social Security Number (not an Employee Identification Number)\n- Pay self-employment taxes\n- Pay both worker and employer share of FICA taxes\n- Report your business profits and losses to the IRS\n\n#### Disadvantages of a Sole Proprietorship:\n\n- Sole Proprietorships are commonly not protected from any business liabilities.\n - Legal action against the entity may affect both the entity's assets and your personal assets.\n- You can only operate under your legal name\n - Or file a DBA - “Doing Business As” to work around using your legal name\n\n#### How to Register a Sole Proprietorship\n\n**1. Choose your business name**\n As an independent contractor, you can use your own name without having to register it. If you're using your full name and adding a word or two after (i.e., John Smith Editorial), then you don't need to register it.\n\nYou will only need to register your name if you don't use your full name in your business name. It must be registered as a fictitious business name (assumed name or DBA, \"doing business as\"). For example, John Smith wants to name his business John Consulting.\n\nRegister either with the county clerk or state office (Department of State for some states)\n\n**2. If needed, get a professional or vocational license for your trade/service.**\n\n**3. Start paying estimated taxes to the IRS** - seek tax advice and assistance filing from a CPA or tax professional.\n\n- Form 1040 (https://www.irs.gov/pub/irs-pdf/f1040.pdf)\n- Form 1040-ES (https://www.irs.gov/pub/irs-pdf/f1040es.pdf)\n- Schedule C (https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) and Schedule SE (https://www.irs.gov/pub/irs-pdf/f1040se.pdf)",
+      "alternateSlugs": []
+    },
+    {
+      "id": "37556162-4aa0-4968-ba76-805bc530ba34",
+      "slug": "sole-proprietor-vs-single-member-llc-whats-the-difference-usa",
+      "title": "Sole Proprietor vs Single Member LLC - What's the Difference? (US)",
+      "url": "https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-whats-the-difference-usa",
+      "description": "A reference explaining the differences between sole proprietorship and single-member LLC structures for independent contractors starting a business.",
+      "keywords": [
+        "business liability separation",
+        "corporate tax election",
+        "disregarded entity",
+        "personal asset protection",
+        "singlememberLLC",
+        "soleproprietor",
+        "upfront formation costs",
+        "USA"
+      ],
+      "tags": [
+        "singlememberLLC",
+        "soleproprietor",
+        "USA"
+      ],
+      "categoryPath": [
+        "Governance and Compliance",
+        "US Nonprofits and Charities",
+        "US Governance References and Definitions"
+      ],
+      "readingTime": 1,
+      "createdAt": "2022-07-20T12:36:55.544Z",
+      "modifiedAt": "2022-07-20T12:36:55.544Z",
+      "firstPublishedDate": "2022-07-13T23:14:19.36Z",
+      "lastPublishedDate": "2022-07-20T12:36:55.562Z",
+      "contentText": "### Who is this article for?\n\nIndependent contractors or solo business owners looking to set up a business.\n\nIn general, there are two main business types for independent contractors. The table below gives a snapshot of the differences between each.\n\n[Image: LLC_Solep.png]\n\n#### Sole Proprietor\n\n- Simplest and most common business structure.\n- Inexpensive to form as there is little to no upfront cost\n- You, as the owner, are not a separate legal entity and therefore are not protected from business liabilities.\n\n*For more information on sole proprietors and how to register to become one, see the Sole Proprietor (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc) article.*\n\n#### Single Member LLC\n\n- Can be formed with only one member and obtain corporate tax status.\n- Your business is separate from you; as the owner, therefore, your personal assets are protected from business liabilities.\n- Can be set up as a “disregarded entity (https://resourceportal.antientropy.org/docs/disregarded-entity)” or as a “corporation”.\n\n*For more information on Single Member LLCs and how to register one, see Single Member LLC (https://resourceportal.antientropy.org/docs/sole-proprietor-vs-single-member-llc-usa).*",
       "alternateSlugs": []
     },
     {
